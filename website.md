@@ -33,6 +33,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # SPARK Lab NYC
+
 ## The Team
 ### Current lab associates
 - Gali Cohen (Post-doctoral Fellow)
@@ -209,6 +210,20 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 <b>VICE Magazine print issue</b>
 
 - <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
+
+## What does it mean?
+### SPARK =
+<b>S</b>ustainability 
+
+<b>P</b>ublic health 
+
+<b>A</b>dvocacy
+
+<b>R</b>esilience
+
+<b>K</b>nowledge
+
+It also happens to be an anagram of my last name :).
 
 # Not academia 
 ## Sound
