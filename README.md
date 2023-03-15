@@ -2,7 +2,9 @@
 
 ![](./media/interface/logo.png)
 
-Website for my academic group
+Art by Amy Wolfe.
+
+Website for my academic group.
 
 Site generated using [Mizi](https://github.com/abstractxan/Mizi). Inspired by [hundredrabbits/100r.co](100r.co).
 
