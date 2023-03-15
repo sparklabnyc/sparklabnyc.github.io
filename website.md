@@ -18,9 +18,17 @@ Robbie is proudly both a first-gen academic and an [Agents of Change in Environm
 ### 
 Download up to date version via [Overleaf project page](https://www.overleaf.com/read/nmnrrpnrsfvh) (via buttons to the right of green ‘Recompile’ button).
 
-## [Twitter](https://twitter.com/rmiparks)
+## <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">SHARP Bayesian Modeling for Environmental Health Workshop</a>
 
-## [GitHub](https://github.com/rmp15)
+## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
+
+## <a href='https://twitter.com/rmiparks' target="_blank">Twitter</a>
+
+## <a href='https://www.linkedin.com/in/rmiparks/' target="_blank">LinkedIn</a>
+
+## <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">Google Scholar</a>
+
+## <a href='https://orcid.org/0000-0002-7916-1717' target="_blank">ORCID</a>
 
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
@@ -42,8 +50,6 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 - You?
 
 ## Publications
-### Google Scholar
-[Link](https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en)
 ### 2023
 - Flaxman S, Whittaker C, Semenova E, Rashid T, <b>Parks RM</b>, Blenkinsop A, Unwin HJT, Mishra S, Bhatt S, Gurdasani D, Ratmann O (2023). [Assessment of COVID-19 as the Underlying Cause of Death Among Children and Young People Aged 0 to 19 Years in the US](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800816), <b>JAMA Network Open</b>
 
@@ -60,7 +66,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 - <b>Parks RM</b>, Benavides J, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Ezzati M, Kioumourtzoglou MA (2022). [Association of Tropical Cyclones With County-Level Mortality in the US](https://jamanetwork.com/journals/jama/fullarticle/2789661) (with [editorial](https://jamanetwork.com/journals/jama/article-abstract/2789676?widget=personalizedcontent&previousarticle=2789661)), <b>JAMA</b>
 
-- Kontis V, Bennett JE, <b>Parks RM</b>, Rashid T, Pearson-Stuttard J, Asaria P, Zhou B, Guillot M, Mathers CD, Khang Y, McKee M, Ezzati M (2021). L[essons learned and lessons missed: Impact of the Covid-19 pandemic on all-cause mortality in 40 industrialised countries prior to mass vaccination], <b>Wellcome Open Research</b>
+- Kontis V, Bennett JE, <b>Parks RM</b>, Rashid T, Pearson-Stuttard J, Asaria P, Zhou B, Guillot M, Mathers CD, Khang Y, McKee M, Ezzati M (2021). [Lessons learned and lessons missed: Impact of the Covid-19 pandemic on all-cause mortality in 40 industrialised countries prior to mass vaccination](https://wellcomeopenresearch.org/articles/6-279), <b>Wellcome Open Research</b>
 
 ### 2021
 - Nethery RC, Katz-Christy N, Kioumourtzoglou MA, <b>Parks RM</b>, Schumacher A, Anderson GB (2021). [Integrated causal-predictive machine learning models for tropical cyclone epidemiology](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxab047/6485226?guestAccessKey=378fb8f6-102d-4b21-a93d-b0a01353c19f#), <b>Biostatistics</b>
@@ -100,15 +106,129 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ### 2016
 
-- <b>Parks RM</b> (2016). Weather, climate and health, <b>Weather</b>
+- <b>Parks RM</b> (2016). [Weather, climate and health](https://doi.org/10.1002/wea.2752), <b>Weather</b>
 
 ## Press coverage
-### COP 27, 2022
-- TO DO
+### 2022
+
+<b>COP 27</b>
+
+- <a href='https://news.climate.columbia.edu/2022/10/31/cop27-plans-and-expectations/' target="_blank">COP27: Delegates From the Columbia Climate School Share Their Plans and Hopes</a>, <b>State of the Planet</b>, November 2022<br>
+
+<b>Association of Tropical Cyclones With County-Level Mortality in the US</b>
+
+- <a href='https://factor.niehs.nih.gov/2023/1/science-highlights/papers-of-the-year' target="_blank">2022 Papers of the year</a>, <b>NIEHS Environmental Factor</b>, January 2023<br>
+- <a href='https://www.publichealth.columbia.edu/sites/default/files/cph-magazine-22-living-longer.pdf' target="_blank">Extreme Weather Effects</a>, <b>Magazine of the Columbia University Mailman School of Public Health</b>, January 2023<br>
+- <a href='https://www.nbcnews.com/news/us-news/hurricane-ian-florida-death-toll-rcna54069' target="_blank">Ian was one of the most lethal hurricanes in decades. Many of the deaths were preventable</a>, <b>NBC News</b>, November 2022<br>
+- <a href='https://abcnews.go.com/Health/wireStory/hurricanes-program-aims-alleviate-stress-93206352' target="_blank">After hurricanes, program aims to help alleviate stress</a>, <b>abc News (AP syndicated)</b>, November 2022<br>
+- <a href='https://www.usatoday.com/story/news/nation/2022/10/04/hurricane-ian-florida-death-toll/8168820001/' target="_blank">This Florida woman survived her 'biggest mistake' in Hurricane Ian. Why experts say many others didn't</a>, <b>USA Today</b>, October 2022<br>
+- <a href='https://gothamist.com/news/new-nyc-storm-surge-map-shows-how-climate-change-threatens-affordable-housing-upscale-waterfront?utm_source=CUIMC%20WMR%20Group&utm_campaign=edd8094b14-EMAIL_CAMPAIGN_2019_06_20_03_30_COPY_01&utm_medium=email&utm_term=0_94b258956c-edd8094b14-166031669' target="_blank">New NYC storm surge map shows how climate change threatens affordable housing, upscale waterfront</a>, <b>Gothamist</b>, July 2022<br>
+- <a href='https://factor.niehs.nih.gov/2022/5/papers/dert/index.htm' target="_blank">Tropical cyclones linked to rise in U.S. deaths</a>, <b>NIEHS papers of the month</b>, May 2022<br>
+- <a href='https://www.usatoday.com/story/news/nation/2022/03/08/hurricanes-linked-higher-death-rates-after-landfall-jama-study/9425448002/' target="_blank">'Hidden burden': Hurricanes keep killing people long after landfall, study suggests</a>, <b>USA Today</b>, March 2022<br>
+- <a href='https://thehill.com/policy/energy-environment/597324-hurricanes-linked-to-33-percent-surge-in-death-rates-after-storms' target="_blank">Hurricanes linked to 33 percent surge in death rates after storms</a>, <b>The Hill</b>, March 2022<br>
+- <a href='https://www.wwno.org/coastal-desk/2022-03-21/we-might-be-undercounting-deaths-associated-with-hurricanes-according-to-this-new-research' target="_blank">We might be undercounting deaths associated with hurricanes, according to this new research</a>, <b>WWNO 89.9 New Orleans Public Radio</b>, March 2022<br>
+
+<b>COVID-19, temperature, air pollution, green space and racism</b>
+
+- <a href='https://www.cnn.com/2022/08/31/world/extreme-heat-wellbeing-climate/index.html' target="_blank">The rise in extreme heat is taking a toll on our well-being. It's about to get worse</a>, <b>CNN</b>, August 2022<br>
+- <a href='https://news.climate.columbia.edu/2022/06/14/how-can-we-make-heat-waves-less-deadly/' target="_blank">How Can We Make Heat Waves Less Deadly?</a>, <b>State of the Planet</b>, June 2022<br>
+- <a href='https://www.thecity.nyc/health/2022/6/1/23151009/heat-electricity-inflation-health' target="_blank">As Heat and Utility Bills Rise, Expensive Electricity Becomes Health Risk</a>, <b>The City</b>, June 2022<br>
+- <a href='https://grist.org/climate/study-warming-temperatures-are-eroding-our-ability-to-sleep/' target="_blank">Study: Warming temperatures are eroding our ability to sleep</a>, <b>Grist</b>, May 2022<br>
+- <a href='https://news.climate.columbia.edu/2021/09/27/nyc-vulnerable-communities-summer-extreme-heat/' target="_blank">8 Ways NYC Can Help Vulnerable Communities Survive Summer Heat</a>, <b>State of the Planet</b>, September 2021<br>
+- <a href='https://www.weact.org/2020/08/public-green-spaces-racism-heat-and-barriers-to-access/' target="_blank">Public Green Spaces: Racism, Heat, and Barriers to Access</a>, <b>WE ACT online blog</b>, August 2020<br>
+- <a href='https://www.bitchmedia.org/article/world-on-fire/air-pollution-COVID-19-recovery' target="_blank">Environmental Racism and COVID-19 Are a Deadly Combination</a>, <b>Bitch Media</b>, August 2020<br>
+- <a href='https://twitter.com/rmiparks/status/1268082491530850305' target="_blank">Mention of results from England and Wales COVID-19 paper in UK parliament</a>, <b>UK Parliament</b>, June 2020<br>
+- <a href='https://knowscience.org/blog/sounds-as-aural-vignettes-to-help-keep-me-together/' target="_blank">Aural Vignettes to Help Keep Me Together</a>, <b>KnowScience </b>, April 2020<br>
+- <a href='https://blogs.ei.columbia.edu/2020/04/11/pod-planet-ep-5-look/' target="_blank">Pod of the Planet: Ep.5 Look After Yourself</a>, <b>Pod of the Planet</b>, April 2020<br>
+- <a href='https://www.accuweather.com/en/videos/air-pollution-plummeting-worldwide/D6FnwOv3' target="_blank">Air pollution plummeting worldwide</a>, <b>Accuweather</b>, April 2020<br>
+
+### 2021
+
+<b>Tropical cyclone exposure is associated with increased hospitalization rates in older adults, Nature Communications</b>
+
+- <a href='https://factor.niehs.nih.gov/2022/1/papers/papers-of-the-year/index.htm' target="_blank">2021 Papers of the year</a>, <b>NIEHS Environmental Factor</b>, January 2022<br>
+- <a href='https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2021/6/spotlight/hurricanes_and_tropical_cyclones_associated_with_increased_hospitalization_rates_in_older_adults.cfm' target="_blank">Research Spotlight</a>, <b>NIEHS Global Environmental Health Newsletter</b>, June 2021<br>
+- <a href='https://factor.niehs.nih.gov/2021/5/papers/dert/index.htm?utm_source=efactor-newsletter&utm_medium=email&utm_campaign=efactor-newsletter-2021-May#a3' target="_blank">Hospitalization following extreme weather, opportunities for resilience</a>, <b>NIEHS papers of the month</b>, May 2021<br>
+- <a href='https://news.climate.columbia.edu/2021/03/09/tropical-cyclones-linked-rise-hospitalizations-older-adults/' target="_blank">Tropical Cyclones Linked to Rise in Hospitalizations of Older Adults</a>, <b>State of the Planet</b>, March 2021<br>
+
+### 2020
+<b>Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries, Nature Medicine</b>
+
+- <a href='https://uk.reuters.com/article/uk-health-coronavirus-deaths-excess/uk-italy-spain-had-high-excess-deaths-in-first-pandemic-wave-study-finds-idUKKBN26Z151' target="_blank">UK, Italy, Spain had high 'excess deaths' in first pandemic wave, study finds</a>, <b>Reuters</b>, October 2020<br>
+- <a href='https://apnews.com/article/virus-outbreak-pandemics-public-health-disease-outbreaks-europe-acf6b710cab51381a05a4e1b5fc9c931' target="_blank">Study: Health systems, govt responses linked to virus tolls</a>, <b>Associated Press</b>, October 2020<br>
+- <a href='https://www.pbs.org/newshour/health/study-finds-health-systems-government-responses-linked-to-virus-tolls' target="_blank">Study finds health systems, government responses linked to virus tolls</a>, <b>PBS</b>, October 2020<br>
+- <a href='https://www.washingtonpost.com/world/europe/study-health-systems-govt-responses-linked-to-virus-tolls/2020/10/14/4c3b2d46-0e19-11eb-b404-8d1e675ec701_story.html' target="_blank">Study: Health systems, govt responses linked to virus tolls</a>, <b>Washington Post</b>, October 2020<br>
+- <a href='https://www.theguardian.com/world/2020/oct/14/covid-19-england-and-wales-among-highest-per-capita-death-tolls?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1602667525' target="_blank">Covid-19: England and Wales among highest per capita death tolls</a>, <b>The Guardian</b>, October 2020<br>
+- <a href='https://www.newscientist.com/article/2256986-england-wales-had-most-excess-deaths-in-europes-covid-19-first-wave/' target="_blank">England & Wales had most excess deaths in Europe’s covid-19 first wave</a>, <b>New Scientist</b>, October 2020<br>
+- <a href='https://www.thetimes.co.uk/edition/news/men-and-women-equally-at-risk-from-pandemic-study-finds-28rnppfjj?utm_medium=Social&utm_source=Twitter#Echobox=1602673857' target="_blank">Men and women equally at risk from coronavirus, study finds</a>, <b>The Times</b>, October 2020<br>
+- <a href='https://twitter.com/KayBurley/status/1318085863402778624' target="_blank"> Live TV discussion of results with Kay Burley</a>, <b>Sky News</b>, October 2020<br>
+- <a href='https://thehill.com/policy/healthcare/legal-challenges/520992-study-early-lockdowns-prevented-additional-covid-19-deaths' target="_blank">Study: Early lockdowns prevented additional COVID-19 deaths in multiple countries</a>, <b>The Hill</b>, October 2020<br>
+- <a href='https://theconversation.com/coronavirus-excess-deaths-why-england-and-wales-have-been-hardest-hit-in-europe-new-study-147952' target="_blank">Coronavirus ‘excess deaths’: why England and Wales have been hardest hit in Europe – new study</a>, <b>The Conversation</b>, October 2020<br>
+- <a href='https://www.politico.eu/article/spain-england-and-wales-top-the-list-for-coronavirus-deaths-in-new-study/' target="_blank">Spain, England and Wales top the list for coronavirus deaths in new study</a>, <b>Politico</b>, October 2020<br>
+- <a href='https://www.dailymail.co.uk/news/article-8838559/England-Wales-saw-SECOND-worst-death-toll-Europe-wave-Covid-19.html' target="_blank">England and Wales had SECOND worst excess death toll in Europe during first wave of Covid-19 with a 37% rise in all-cause fatalities behind only Spain on 38%</a>, <b>Daily Mail</b>, October 2020<br>
+- <a href='https://www.ined.fr/fr/tout-savoir-population/memos-demo/focus/covid-19-la-france-au-8eme-rang-parmi-21-pays-industrialises-en-termes-de-bilan-de-mortalite/' target="_blank">COVID-19 : la France au 8ème rang parmi 21 pays industrialisés en termes de bilan de mortalité</a>, <b>INED</b>, October 2020<br>
+- <a href='https://www.agenciasinc.es/Noticias/Espana-el-pais-europeo-con-mayor-exceso-de-muertes-durante-la-primera-ola-de-la-pandemia' target="_blank">España, el país europeo con mayor exceso de muertes durante la primera ola de la pandemia</a>, <b>Agencia Sinc</b>, October 2020<br>
+- <a href='https://www.eltiempo.com/salud/estudio-revela-exceso-de-mortalidad-por-covid-19-en-21-paises-543220' target="_blank">ELa pandemia causó exceso de mortalidad de 20 % en 21 países</a>, <b>El Tiempo</b>, October 2020<br>
+
+<b>Anomalously warm temperatures are associated with increased injury deaths, Nature Medicine</b>
+
+- <a href='https://www.publichealthpost.org/research/climate-changes-temps-and-deaths/' target="_blank">Climate Changes Temps and Deaths</a>, <b>Public Health Post</b>, April 2020<br>
+- <a href='https://www.theguardian.com/environment/2020/jan/13/climate-crisis-likely-to-increase-violent-deaths-of-young-people-report' target="_blank">Climate crisis likely to increase violent deaths of young people - report</a>, <b>The Guardian</b>, January 2020<br>
+- <a href='https://time.com/5764673/injuries-deaths-climate-change/' target="_blank">Injuries and Deaths Could Rise with Climate Change in the U.S., a New Study Finds</a>, <b>TIME</b>, January 2020<br>
+- <a href='https://www.newscientist.com/article/2229627-climate-change-related-injuries-will-kill-thousands-in-the-us/' target="_blank">Climate-Change Related Injuries Will Kill Thousands in the US</a>, <b>New Scientist</b>, January 2020<br>
+- <a href='https://www.theverge.com/2020/1/13/21063690/climate-change-injuries-deaths-weather-violence-drowning-accidents' target="_blank">Climate Change Could Lead to More Injuries and Deaths</a>, <b>The Verge</b>, January 2020<br>
+- <a href='https://www.dailymail.co.uk/health/article-7882007/Global-temperatures-rising-just-3-degrees-lead-2-100-Americans-dying-year.html' target="_blank">Climate change could kill thousands of Americans each year</a>, <b>Daily Mail</b>, January 2020<br>
+- <a href='https://www.breitbart.com/news/rising-temps-could-cause-as-many-as-2100-fatal-injuries-per-year/' target="_blank">Rising temps could cause as many as 2,100 fatal injuries per year</a>, <b>Breitbart</b>, January 2020<br>
+- <a href='http://www.anthropocenemagazine.org/2020/01/how-climate-change-could-change-way-we-die/' target="_blank">How climate change could change the way we die</a>, <b>Anthropocene</b>, January 2020<br>
+- <a href='https://theconversation.com/car-accidents-drownings-violence-hotter-temperatures-will-mean-more-deaths-from-injury-129628' target="_blank">Hotter temperatures will mean more deaths from injury</a>, <b>The Conversation</b>, January 2020<br>
+- <a href='https://www.smartcitiesdive.com/news/rising-temperatures-could-increase-injury-deaths-by-2000-a-year-study/570457/' target="_blank">Rising temperatures could increase injury deaths by 2,000 a year: study</a>, <b>Smart Cities Dive</b>, January 2020<br>
+- <a href='https://consumer.healthday.com/diseases-and-conditions-information-37/heat-and-sunstroke-health-news-370/climate-change-may-translate-into-more-fatal-injuries-753852.html' target="_blank">Climate Change May Translate Into More Fatal Injuries</a>, <b>HealthDay</b>, January 2020<br>
+- <a href='https://www.cnn.com/2020/01/13/health/warm-temperatures-injury-deaths-study/index.html' target="_blank">Warmer temperatures linked to increase in US injury deaths, study says</a>, <b>CNN</b>, January 2020<br>
+- The Heat is On: rise in violence as planet warms, <b>Daily Star</b>, January 2020<br>
+
+<b>Climate and mental health</b>
+
+- <a href='https://www.thecompassionateconservationist.com/post/climate-on-the-brain' target="_blank">Climate on the brain: climate breakdown and mental health</a>, <b>The Compassionate Conversationist</b>, March 2020<br>
+
+<b>Green New Deal</b>
+
+- <a href='https://bit.ly/2uiY1Qz' target="_blank">Bernie Sanders: More than 55 scientists sign letter supporting the Green New Deal</a>
+
+<b>Rising temperatures and heat deaths</b>
+
+- <a href='https://publicintegrity.org/environment/hidden-epidemics/heat-deaths-climate-change-arizona' target="_blank">Climate casualties rising with temperatures</a>, <b>The Center for Public Integrity</b>, June 2020<br>
+
+### 2018
+
+<b>Reddit Ask Me Anything (AMA) interview</b>
+
+- <a href='https://www.reddit.com/r/IAmA/comments/9z4703/i_am_robbie_parks_a_phd_student_looking_into_how/' target="_blank">I am Robbie Parks, a PhD student looking into how climate change and extreme weather may be influencing the trends in mortality rates from year to year. AMA.</a>
+
+### 2015
+
+<b>VICE Magazine print issue</b>
+
+- <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
 
 # Not academia 
 ## Sound
-- TO DO
+
+### Robbie M Parks
+
+- <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
+- <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
+
+### Glitches
+
+- <a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=nGwZ8kWqRE2PuXfbA_LjRQ' target="_blank">Spotify</a><br>
+- <a href='https://www.glitchesmusic.co.uk/' target="_blank">Website</a><br>
+- <a href='https://twitter.com/glitchesmusic' target="_blank">Twitter</a><br>
+
+### Resurgent Forms
+
+- <a href='https://www.instagram.com/resurgentforms/' target="_blank">Instagram</a><br>
+- <a href='https://twitter.com/resurgentforms' target="_blank">Twitter</a><br>
+- <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
 
 ## Photography
 - TO DO
