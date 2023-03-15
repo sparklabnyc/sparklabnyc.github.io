@@ -32,7 +32,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
-# SPARK LAB NYC
+# SPARK Lab NYC
 ## The Team
 ### Current lab associates
 - Gali Cohen (Post-doctoral Fellow)
