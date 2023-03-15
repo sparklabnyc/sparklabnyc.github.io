@@ -12,7 +12,7 @@ He was a Columbia University [Earth Institute/Climate School Post-doctoral Fello
 
 Robbie is proudly both a first-gen academic and an [Agents of Change in Environmental Justice Fellow](https://agentsofchangeinej.org/).
 
-![headshot](../media/Robbie_Parks_2023_small.jpg)
+![headshot](../media/headshot/Robbie_Parks_2023_small.jpg)
 
 ## CV
 ### 
