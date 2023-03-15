@@ -18,6 +18,12 @@ Robbie is proudly both a first-gen academic and an [Agents of Change in Environm
 ### 
 Download up to date version via [Overleaf project page](https://www.overleaf.com/read/nmnrrpnrsfvh) (via buttons to the right of green ‘Recompile’ button).
 
+## [Twitter](https://twitter.com/rmiparks)
+
+## [GitHub](https://github.com/rmp15)
+
+## [E-mail](mailto:robbie.parks@columbia.edu)
+
 # SPARK LAB NYC
 ## The Team
 ### Current lab associates
