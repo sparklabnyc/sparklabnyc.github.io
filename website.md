@@ -1,12 +1,11 @@
 # Robbie M. Parks, PhD 
-# Assistant Professor (tenure track)
-# Environmental Health Sciences, Columbia University
+
 
 ## About
 ###  
-This site was generated using this file: [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
+Assistant Professor (tenure track)
 
-[Read more](https://github.com/abstractxan/mizi) about Mizi
+Environmental Health Sciences, Columbia University
 
 # $$$ 
 ## separate
