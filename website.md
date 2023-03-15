@@ -213,10 +213,8 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 # Not academia 
 ## Sound
 
-### Solo
-
-- <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
-- <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
+### Overview
+[63(1)(b) "music" includes sounds wholly or predominantly characterised by the emission of a succession of repetitive beats.](https://en.wikipedia.org/wiki/Criminal_Justice_and_Public_Order_Act_1994)
 
 ### Glitches
 
@@ -230,5 +228,194 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 - <a href='https://twitter.com/resurgentforms' target="_blank">Twitter</a><br>
 - <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
 
+### Solo
+
+- <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
+- <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
+
 ## Photography
-- Coming soon.
+
+### Overview
+I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't use Instagram. 
+
+Copyright all photos Robbie M Parks 2023.
+
+### 2023
+
+<img src="../media/photography/2023/000613770023_small.jpg" width="49%"> <img src="../media/photography/2023/000613770025_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613770036_small.jpg" width="49%"> <img src="../media/photography/2023/000613770035_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750017_small.jpg" width="49%"> <img src="../media/photography/2023/000613760026_small.jpg" width="49%">
+
+<img src="../media/photography/2023/000613750031_small.jpg" width="49%"> <img src="../media/photography/2023/000613760022_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750036_small.jpg" width="49%"> <img src="../media/photography/2023/000613750023_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613760008_small.jpg" width="32%"> <img src="../media/photography/2023/000613760034_small.jpg" width="32%"> <img src="../media/photography/2023/000613760008_small.jpg" width="32%">
+
+<img src="../media/photography/2023/000613750027_small.jpg" width="49%"> <img src="../media/photography/2023/000613750025_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750028_small.jpg" width="49%"> <img src="../media/photography/2023/000613750026_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750014_small.jpg" width="49%"> <img src="../media/photography/2023/000613750013_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750015_small.jpg" width="49%"> <img src="../media/photography/2023/000613750016_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750001_small.jpg" width="49%"> <img src="../media/photography/2023/000613750007_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613750008_small.jpg" width="49%"> <img src="../media/photography/2023/000613750009_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613760033_small.jpg" width="49%"> <img src="../media/photography/2023/000613760035_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613760037_small.jpg" width="49%"> <img src="../media/photography/2023/000613760036_small.jpg" width="49%"> 
+
+<img src="../media/photography/2023/000613770018_small.jpg" width="49%"> <img src="../media/photography/2023/000613770007_small.jpg" width="49%"> 
+
+### 2022
+
+<img src="../media/photography/2022/000430490032_small.jpg" width="49%"> <img src="../media/photography/2022/000430490031_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000430490025_small.jpg" width="49%"> <img src="../media/photography/2022/000430490026_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000430490027_small.jpg" width="49%"> <img src="../media/photography/2022/000430490030_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000430490020_small.jpg" width="49%"> <img src="../media/photography/2022/000430490017_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000430490011_small.jpg" width="49%"> <img src="../media/photography/2022/000430490005_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000430490003_small.jpg" width="49%"> <img src="../media/photography/2022/000430490003_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000421650001_small.jpeg" width="49%"> <img src="../media/photography/2022/000421650002_small.jpeg" width="49%"> 
+
+<img src="../media/photography/2022/000421650008_small.jpg" width="49%"> <img src="../media/photography/2022/000421650010_small.jpeg" width="49%"> 
+
+<img src="../media/photography/2022/000421650011_small.jpeg" width="49%"> <img src="../media/photography/2022/000421650013_small.jpeg" width="49%"> 
+
+<img src="../media/photography/2022/000421650027_small.jpeg" width="32%"> <img src="../media/photography/2022/000421650027_small.jpeg" width="32%"> <img src="../media/photography/2022/000421650027_small.jpeg" width="32%">
+
+<img src="../media/photography/2022/000421660023_small.jpg" width="32%"> <img src="../media/photography/2022/000421660014_small.jpeg" width="32%"> <img src="../media/photography/2022/000421660023_small.jpg" width="32%">
+
+<img src="../media/photography/2022/000421660008_small.jpg" width="49%"> <img src="../media/photography/2022/000421660015_small.jpeg" width="49%"> 
+
+<img src="../media/photography/2022/000421670005_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670005_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670005_small.jpeg" width="32%">
+
+<img src="../media/photography/2022/000421670010_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670010_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670010_small.jpeg" width="32%">
+
+<img src="../media/photography/2022/000421670011_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670017_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670018_small.jpeg" width="32%">
+
+
+<img src="../media/photography/2022/000421670032_small.jpeg" width="49%"> <img src="../media/photography/2022/000421670019_small.jpeg" width="49%"> 
+
+<img src="../media/photography/2022/000421670025_small.jpeg" width="49%"> <img src="../media/photography/2022/000421670037_small.jpeg" width="49%">
+
+<img src="../media/photography/2022/000421670035_small.jpeg" width="49%"> <img src="../media/photography/2022/000421670035_small.jpeg" width="49%">
+
+
+<img src="../media/photography/2022/000518840013_small.jpg" width="49%"> <img src="../media/photography/2022/000518840028_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000518840022_small.jpg" width="49%"> <img src="../media/photography/2022/000518840029_small.jpg" width="49%">
+
+<img src="../media/photography/2022/000518840031_small.jpg" width="49%"> <img src="../media/photography/2022/000518850015_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000518850023_small.jpg" width="49%"> <img src="../media/photography/2022/000518850021_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000518850018_small.jpg" width="32%"> <img src="../media/photography/2022/000518850018_small.jpg" width="32%"> <img src="../media/photography/2022/000518850018_small.jpg" width="32%">
+
+<img src="../media/photography/2022/000549560004_small.jpg" width="49%"> <img src="../media/photography/2022/000549560024_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000549560026_small.jpg" width="49%"> <img src="../media/photography/2022/000549570024_small.jpg" width="49%"> 
+
+<img src="../media/photography/2022/000339120036_small.jpg" width="49%"> <img src="../media/photography/2022/000339120005_small.jpg" width="49%"> 
+
+### 2021
+
+<img src="../media/photography/2021/000502950035_small.jpg" width="49%"> <img src="../media/photography/2021/000502950025_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000502910033_small.jpg" width="49%"> <img src="../media/photography/2021/000502930023_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000502930037_small.jpg" width="49%"> <img src="../media/photography/2021/000502950006_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000311600012_small.jpg" width="49%"> <img src="../media/photography/2021/000311600021_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000311600025_small.jpg" width="49%"> <img src="../media/photography/2021/000502910012_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000502960006_small.jpg" width="49%"> <img src="../media/photography/2021/000502960025_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000502960005_small.jpg" width="49%"> <img src="../media/photography/2021/000502970002_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000110640037_small.jpg" width="49%"> <img src="../media/photography/2021/000110650034_small.jpg" width="49%"> 
+
+<img src="../media/photography/2021/000110650002_small.jpg" width="49%"> <img src="../media/photography/2021/000183870034_small.jpg" width="49%"> 
+
+### 2020
+
+<img src="../media/photography/2020/000110080013_small.jpg" width="49%"> <img src="../media/photography/2020/000110080018_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000037900002_small.jpg" width="32%"> <img src="../media/photography/2020/000037900038_small.jpg" width="32%"> <img src="../media/photography/2020/000156830025_small.jpg" width="32%">
+
+<img src="../media/photography/2020/000156830016_small.jpg" width="49%"> <img src="../media/photography/2020/000156830024_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000156840008_small.jpg" width="49%"> <img src="../media/photography/2020/000156840016_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000143300007_small.jpg" width="49%"> <img src="../media/photography/2020/000143300026_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000110090007_small.jpg" width="49%"> <img src="../media/photography/2020/000110090020_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000143290008_small.jpg" width="49%"> <img src="../media/photography/2020/000143290009_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000110080009_small.jpg" width="49%"> <img src="../media/photography/2020/000143300034_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000143300002_small.jpg" width="49%"> <img src="../media/photography/2020/000143300003_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000037900010_small.jpg" width="49%"> <img src="../media/photography/2020/000037900037_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000037900017_small.jpg" width="49%">  <img src="../media/photography/2020/000028580034_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028580010_small.jpg" width="49%"> <img src="../media/photography/2020/000028580017_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028580022_small.jpg" width="49%"> <img src="../media/photography/2020/000028580023_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028580027_small.jpg" width="49%"> <img src="../media/photography/2020/000028580031_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028590030_small.jpg" width="32%"> <img src="../media/photography/2020/000013400018_small.jpg" width="32%"> <img src="../media/photography/2020/000028620036_small.jpg" width="32%">
+
+<img src="../media/photography/2020/000028600004_small.jpg" width="49%"> <img src="../media/photography/2020/000028600006_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028600007_small.jpg" width="49%"> <img src="../media/photography/2020/000028600014_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028600016_small.jpg" width="49%"> <img src="../media/photography/2020/000028600021_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028590001_small.jpg" width="49%">  <img src="../media/photography/2020/000028610024_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028610013_small.jpg" width="32%"> <img src="../media/photography/2020/000028610035_small.jpg" width="32%"> <img src="../media/photography/2020/000028620013_small.jpg" width="32%">
+
+<img src="../media/photography/2020/000028610026_small.jpg" width="49%"> <img src="../media/photography/2020/000028610032_small.jpg" width="49%"> 
+
+<img src="../media/photography/2020/000028590012_small.jpg" width="49%"> <img src="../media/photography/2020/000013400001_small.jpg" width="49%"> 
+
+### 2019
+
+<img src="../media/photography/2019/000056540007_small.jpg" width="32%"> <img src="../media/photography/2019/000056540008_small.jpg" width="32%"> <img src="../media/photography/2019/000056540009_small.jpg" width="32%">
+
+<img src="../media/photography/2019/000056540006_small.jpg" width="49%"> <img src="../media/photography/2019/000056540010_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/000056530006_small.jpg" width="49%"> <img src="../media/photography/2019/000056530007_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/000056530018_small.jpg" width="49%"> <img src="../media/photography/2019/94020003_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/000056540026_small.jpg" width="32%"> <img src="../media/photography/2019/94040006_small.jpg" width="32%"> <img src="../media/photography/2019/94040021_small.jpg" width="32%">
+
+<img src="../media/photography/2019/94040014_small.jpg" width="49%"> <img src="../media/photography/2019/94030025_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/94040003_small.jpg" width="49%"> <img src="../media/photography/2019/94040011_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/94040018_small.jpg" width="49%"> <img src="../media/photography/2019/94040020_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/94040027_small.jpg" width="49%"> <img src="../media/photography/2019/94040019_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/94020011_small.jpg" width="49%"> <img src="../media/photography/2019/94020013_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/94020019_small.jpg" width="49%"> <img src="../media/photography/2019/94020020_small.jpg" width="49%"> 
+
+<img src="../media/photography/2019/94030015_small.jpg" width="49%"> <img src="../media/photography/2019/94030017_small.jpg" width="49%"> 
