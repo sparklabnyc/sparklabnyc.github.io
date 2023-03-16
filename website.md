@@ -213,13 +213,13 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## What does it mean?
 ### SPARK =
-<b>S</b>ustainability 
+<b>S</b>ustainable
 
-<b>P</b>ublic health 
+<b>P</b>ublic health through
 
 <b>A</b>dvocacy
 
-<b>R</b>esilience
+<b>R</b>esilience and
 
 <b>K</b>nowledge
 
