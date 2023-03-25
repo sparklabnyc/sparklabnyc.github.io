@@ -110,6 +110,12 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 - <b>Parks RM</b> (2016). [Weather, climate and health](https://doi.org/10.1002/wea.2752), <b>Weather</b>
 
 ## Press coverage
+### 2023
+
+<b>Agents of Change in Environmental Health</b>
+
+- <a href='https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U' target="_blank">LISTEN: Robbie Parks on climate justice and mental health</a>, <b>Environmental Health News</b>, March 2023<br>
+
 ### 2022
 
 <b>COP 27</b>
