@@ -118,6 +118,10 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ### 2022
 
+<b>Invited Perspective: Uncovering the Hidden Burden of Tropical Cyclones on Public Health Locally and Worldwide</b>
+
+- <a href='https://ehp.niehs.nih.gov/curated-collections/eds-choice-2022' target="_blank">Editors' Choice</a>, <b>Environmental Health Perspectives</b>, March 2023<br>
+
 <b>COP 27</b>
 
 - <a href='https://news.climate.columbia.edu/2022/10/31/cop27-plans-and-expectations/' target="_blank">COP27: Delegates From the Columbia Climate School Share Their Plans and Hopes</a>, <b>State of the Planet</b>, November 2022<br>
