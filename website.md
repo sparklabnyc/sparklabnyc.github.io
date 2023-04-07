@@ -39,12 +39,12 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 - Gali Cohen (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (T32 Post-doctoral Fellow)
-- Emily Shambaugh (Graduate Research Assistant)
 - Raenita (Rae) Spriggs (PhD Student)
 - Daisy Yan (Graduate Research Assistant)
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
+- Emily Shambaugh (Graduate Research Assistant)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
 ### Future lab associates
@@ -52,6 +52,8 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## Publications
 ### 2023
+- Casey JA, <b>Parks RM</b>, Bruckner TA, Unwin HJT, Gemmill A, Catalano Ralph (2023). [Excess Injury Mortality in Washington State During the 2021 Heat Wave](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2023.307269), <b>American Journal of Public Health</b>
+
 - Flaxman S, Whittaker C, Semenova E, Rashid T, <b>Parks RM</b>, Blenkinsop A, Unwin HJT, Mishra S, Bhatt S, Gurdasani D, Ratmann O (2023). [Assessment of COVID-19 as the Underlying Cause of Death Among Children and Young People Aged 0 to 19 Years in the US](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800816), <b>JAMA Network Open</b>
 
 ### 2022
