@@ -40,13 +40,14 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (T32 Post-doctoral Fellow)
 - Raenita (Rae) Spriggs (PhD Student)
-- Daisy Yan (Graduate Research Assistant)
+
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Emily Shambaugh (Graduate Research Assistant)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
+- Daisy Yan (Graduate Research Assistant)
 ### Future lab associates
 - You?
 
