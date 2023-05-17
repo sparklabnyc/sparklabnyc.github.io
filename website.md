@@ -18,6 +18,8 @@ I am proudly both a first-gen academic and an [Agents of Change in Environmental
 ### 
 Download up to date version via [Overleaf project page](https://www.overleaf.com/read/nmnrrpnrsfvh) (via buttons to the right of green ‘Recompile’ button).
 
+## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
+
 ## <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">SHARP Bayesian Modeling for Environmental Health Workshop</a>
 
 ## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
