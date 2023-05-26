@@ -231,6 +231,14 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 - <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
 
+## Lab outings
+
+### 2023
+
+<b>Yankees Game, May 2023</b>
+
+<img src="../media/lab_outings/2023/yankees_game/IMG_8417.jpg" width="200%">
+
 ## What does it mean?
 ### SPARK =
 <b>S</b>ustainable
