@@ -237,7 +237,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 <b>Yankees Game, May 2023</b>
 
-<img src="../media/lab_outings/2023/yankees_game/IMG_8417.jpg" width="200%">
+<img src="../media/lab_outings/2023/yankees_game/IMG_8417.jpg" width="100%">
 
 ## What does it mean?
 ### SPARK =
