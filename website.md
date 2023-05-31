@@ -1,55 +1,20 @@
-# Robbie M. Parks, PhD
-
-## About me
-### 
-I am an environmental epidemiologist who has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related exposures, public health and equity.
-
-I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/k99).
-
-I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling).
-
-I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://datascience.columbia.edu/people/marianthi-anna-kioumourtzoglou/), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from the [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
-
-I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Fellow](https://agentsofchangeinej.org/).
-
-![headshot](../media/headshot/Robbie_Parks_2023_small.jpg)
-
-## CV
-### 
-Download up to date version via [Overleaf project page](https://www.overleaf.com/read/nmnrrpnrsfvh) (via buttons to the right of green ‘Recompile’ button).
-
-## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
-
-## <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">SHARP Bayesian Modeling for Environmental Health Workshop</a>
-
-## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
-
-## <a href='https://twitter.com/rmiparks' target="_blank">Twitter</a>
-
-## <a href='https://www.linkedin.com/in/rmiparks/' target="_blank">LinkedIn</a>
-
-## <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">Google Scholar</a>
-
-## <a href='https://orcid.org/0000-0002-7916-1717' target="_blank">ORCID</a>
-
-## [E-mail](mailto:robbie.parks@columbia.edu)
-
 # SPARK Lab NYC
 
 ## The Team
 ### Current lab associates
 - Gali Cohen (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
-- Gabriella Meltzer (T32 Post-doctoral Fellow)
+- Gabriella Meltzer (Post-doctoral Fellow)
 - Raenita (Rae) Spriggs (PhD Student)
+- Xicheng Xie (Masters Student)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
-- Emily Shambaugh (Graduate Research Assistant)
+- Emily Shambaugh (Graduate Research Assistant. Next: TBC)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
-- Daisy Yan (Graduate Research Assistant)
+- Daisy Yan (Graduate Research Assistant. Next: TBC)
 ### Future lab associates
 - You?
 
@@ -252,6 +217,42 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 <b>K</b>nowledge
 
 It also happens to be an anagram of my last name :).
+
+# Robbie M. Parks, PhD
+
+## About me
+### 
+I am an environmental epidemiologist who has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related exposures, public health and equity.
+
+I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/k99).
+
+I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling).
+
+I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://datascience.columbia.edu/people/marianthi-anna-kioumourtzoglou/), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from the [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
+
+I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Fellow](https://agentsofchangeinej.org/).
+
+![headshot](../media/headshot/Robbie_Parks_2023_small.jpg)
+
+## CV
+### 
+Download up to date version via [Overleaf project page](https://www.overleaf.com/read/nmnrrpnrsfvh) (via buttons to the right of green ‘Recompile’ button).
+
+## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
+
+## <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">SHARP Bayesian Modeling for Environmental Health Workshop</a>
+
+## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
+
+## <a href='https://twitter.com/rmiparks' target="_blank">Twitter</a>
+
+## <a href='https://www.linkedin.com/in/rmiparks/' target="_blank">LinkedIn</a>
+
+## <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">Google Scholar</a>
+
+## <a href='https://orcid.org/0000-0002-7916-1717' target="_blank">ORCID</a>
+
+## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # Not academia 
 ## Sound
