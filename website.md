@@ -85,6 +85,10 @@
 ## Press coverage
 ### 2023
 
+<b>Wildfires and public health</b>
+
+- <a href='https://www.politico.com/news/2023/06/08/return-of-the-killer-smog-experts-warn-of-potentially-deadly-nyc-haze-00100911' target="_blank">Return of killer smog? Experts warn of potentially deadly NYC haze</a>, <b>Politico</b>, June 2023<br>
+
 <b>Agents of Change in Environmental Justice</b>
 
 - <a href='https://www.ehn.org/climate-change-and-mental-health-2659589260.html' target="_blank">Op-ed: Mourning family and climate change in the age of loss and damage</b>, March 2023<br>
