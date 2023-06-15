@@ -200,9 +200,13 @@
 
 - <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
 
-## Lab outings
+## Lab activities
 
 ### 2023
+
+<b>Monthly Lab Meeting, June 2023</b>
+
+<img src="../media/lab_outings/2023/group_meeting_june/IMG_0102.jpeg" width="100%">
 
 <b>Yankees Game, May 2023</b>
 
