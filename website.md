@@ -85,6 +85,10 @@
 ## Press coverage
 ### 2023
 
+<b>Air pollution and children's brain development</b>
+
+- <a href='https://insideclimatenews.org/news/24062023/are-legally-acceptable-levels-of-pollution-harming-childrens-cognitive-development/' target="_blank">Are Legally Acceptable Levels of Pollution Harming Children’s Brain Development?</a>, <b>Inside Climate News</b>, June 2023<br>
+
 <b>NIEHS Global Environmental Health</b>
 
 - <a href='https://www.niehs.nih.gov/research/programs/geh/podcasts/2023/june_cyclones/index.cfm' target="_blank">Global Health Impacts of Tropical Cyclones</a>, <b>NIEHS Global Environmental Health Podcasts</b>, June 2023<br>
