@@ -2,10 +2,11 @@
 
 ## The Team
 ### Current lab associates
+- Alexis Bell (High School Student)
 - Gali Cohen (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
-- Raenita (Rae) Spriggs (PhD Student)
+- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
 - Xicheng Xie (Masters Student)
 
 ### Previous lab associates
