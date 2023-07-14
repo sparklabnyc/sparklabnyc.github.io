@@ -285,6 +285,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ### Resurgent Forms
 
+- <a href='https://open.spotify.com/artist/6K1ospdNZUvMjveW6VDDRv?si=PQGJQWoQRcO4XblZ8KbUGQ' target="_blank">Spotify</a><br>
 - <a href='https://www.instagram.com/resurgentforms/' target="_blank">Instagram</a><br>
 - <a href='https://twitter.com/resurgentforms' target="_blank">Twitter</a><br>
 - <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
