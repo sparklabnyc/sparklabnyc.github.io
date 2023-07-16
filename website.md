@@ -213,6 +213,10 @@
 
 ### 2023
 
+<b>Resurgent Forms Live Show, July 2023</b>
+
+<img src="../media/lab_outings/2023/group_meeresurgent_forms_live_show_julyting_june/IMG_4760.jpg" width="100%">
+
 <b>Monthly Lab Meeting, June 2023</b>
 
 <img src="../media/lab_outings/2023/group_meeting_june/IMG_0102.jpeg" width="100%">
