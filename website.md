@@ -209,9 +209,15 @@
 
 - <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
 
+- <a href='https://www.cbc.ca/radio/thecurrent/the-current-for-june-22-2015-1.3122368/environmental-impact-of-pets-may-mean-it-s-time-to-eat-the-dog-1.3122397' target="_blank">Canadian Broadcasting Corporation live interivew on The Current</a>, slightly misunderstanding what I meant in the article but that's OK, June 2015<br>
+
 ## Lab activities
 
 ### 2023
+
+<b>Alexis farewell lunch, July 2023</b>
+
+<img src="../media/lab_outings/2023/alexis_farewell_lunch_july/IMG_9073.jpg" width="100%">
 
 <b>Monthly Lab Meeting, July 2023</b>
 
