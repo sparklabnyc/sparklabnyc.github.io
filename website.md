@@ -86,6 +86,9 @@
 ## Press coverage
 ### 2023
 
+<b>Water pollution<\b>
+- <a href='https://www.nytimes.com/2023/07/28/well/live/water-contamination-beach-safety-swimming.html' target="_blank">Is That Water Too Polluted to Swim in?</a>, <b>The New York Times</b>, July 2023<br>
+
 <b>Air pollution and children's brain development</b>
 
 - <a href='https://insideclimatenews.org/news/24062023/are-legally-acceptable-levels-of-pollution-harming-childrens-cognitive-development/' target="_blank">Are Legally Acceptable Levels of Pollution Harming Children’s Brain Development?</a>, <b>Inside Climate News</b>, June 2023<br>
