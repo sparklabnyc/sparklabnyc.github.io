@@ -2,7 +2,6 @@
 
 ## The Team
 ### Current lab associates
-- Alexis Bell (High School Student)
 - Gali Cohen (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
@@ -11,6 +10,7 @@
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
+- Alexis Bell (High School Student. Next: Finish High School!)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Emily Shambaugh (Graduate Research Assistant. Next: TBC)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
