@@ -86,7 +86,7 @@
 ## Press coverage
 ### 2023
 
-<b>Water pollution<\b>
+<b>Water pollution</b>
 - <a href='https://www.nytimes.com/2023/07/28/well/live/water-contamination-beach-safety-swimming.html' target="_blank">Is That Water Too Polluted to Swim in?</a>, <b>The New York Times</b>, July 2023<br>
 
 <b>Air pollution and children's brain development</b>
