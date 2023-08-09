@@ -6,7 +6,7 @@
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
-- Xicheng Xie (Masters Student)
+- [Xicheng Xie](https://xx2416.github.io/) (Masters Student)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
