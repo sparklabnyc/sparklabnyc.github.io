@@ -86,6 +86,9 @@
 ## Press coverage
 ### 2023
 
+Climate change and mental health
+- <a href='https://www.nytimes.com/2023/08/10/health/heat-mental-health.html' target="_blank">Heat Singes the Mind, Not Just the Body</a>, <b>The New York Times</b>, August 2023<br>
+
 <b>Water pollution</b>
 - <a href='https://www.nytimes.com/2023/07/28/well/live/water-contamination-beach-safety-swimming.html' target="_blank">Is That Water Too Polluted to Swim in?</a>, <b>The New York Times</b>, July 2023<br>
 
