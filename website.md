@@ -22,6 +22,8 @@
 ## Publications
 ### 2023
 
+- <b>Parks RM</b>, Kontis V, Anderson GB, Baldwin JW, Danaei G, Toumi R, Dominici F, Ezzati M, Kioumourtzoglou MA. (2023). [Short-term excess mortality following tropical cyclones in the United States](https://www.science.org/doi/10.1126/sciadv.adg6633) <b>Science Advances</b>. 
+
 - Nunez Y, Balalian A, <b>Parks RM</b>, He M, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Brandt J, Vermeulen R, Peters S, Goldsmith J, Re DB, Weisskopf MG, Kioumourtzoglou MA. (2023). [Exploring Relevant Time Windows in the Association Between PM2.5 Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwad099/7135818?redirectedFrom=fulltext&login=false), <b>American Journal of Epidemiology</b>
 
 - Casey JA, <b>Parks RM</b>, Bruckner TA, Unwin HJT, Gemmill A, Catalano Ralph (2023). [Excess Injury Mortality in Washington State During the 2021 Heat Wave](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2023.307269), <b>American Journal of Public Health</b>
