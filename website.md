@@ -223,6 +223,10 @@ Climate change and mental health
 
 ### 2023
 
+<b>SHARP Bayesian Modeling for Environmental Health Workshop , August 2023</b>
+
+<img src="../media/lab_outings/2023/sharp_bayesian_august/sharp_bayesian_2023.jpg" width="100%">
+
 <b>Alexis farewell lunch, July 2023</b>
 
 <img src="../media/lab_outings/2023/alexis_farewell_lunch_july/IMG_9073.jpg" width="100%">
