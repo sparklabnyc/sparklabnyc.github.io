@@ -88,7 +88,17 @@
 ## Press coverage
 ### 2023
 
-Climate change and mental health
+<b>Short-term excess mortality following tropical cyclones in the United States</b>
+
+Watch this space many more reports to be added here soon
+
+- <a href='https://www.theguardian.com/us-news/2023/aug/16/atlantic-storms-deadlier-people-of-color-excess-deaths' target="_blank">Tropical storms killing more Americans as climate crisis deepens, study finds</a>, <b>The Guardian</b>, August 2023<br>
+- <a href='https://www.nbcnews.com/science/environment/us-hurricane-deaths-concentrated-vulnerable-counties-research-finds-rcna99814' target="_blank">U.S. hurricane deaths concentrated in vulnerable counties, research finds</a>, <b>NBC News</b>, August 2023<br>
+- <a href='https://apnews.com/article/hurricane-poor-vulnerable-deaths-katrina-irma-3d03c6cd94a03dc498c8e84bd2f786f4' target="_blank">New study finds far more hurricane-related deaths in US, especially among poor and vulnerable</a>, <b>AP News</b>, August 2023<br>
+- <a href='https://www.washingtonpost.com/weather/2023/08/16/hurricane-deaths-increasing-vulnerable-groups/' target="_blank">Hurricanes have become deadlier in recent decades, study shows</a>, <b>The Washington Post</b>, August 2023<br>
+- <a href='https://www.npr.org/2023/08/16/1194179424/hurricanes-cause-vast-majority-of-storm-deaths-in-vulnerable-communities' target="_blank">Hurricanes cause vast majority of storm deaths in vulnerable communities</a>, <b>NPR WNYC</b>, August 2023<br>
+
+<b>Climate change and mental health</b>
 - <a href='https://www.nytimes.com/2023/08/10/health/heat-mental-health.html' target="_blank">Heat Singes the Mind, Not Just the Body</a>, <b>The New York Times</b>, August 2023<br>
 
 <b>Water pollution</b>
