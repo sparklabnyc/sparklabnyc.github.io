@@ -233,9 +233,11 @@ Watch this space many more reports to be added here soon
 
 ### 2023
 
-<b>SHARP Bayesian Modeling for Environmental Health Workshop , August 2023</b>
+<b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2023</b>
 
 <img src="../media/lab_outings/2023/sharp_bayesian_august/sharp_bayesian_2023.jpg" width="100%">
+
+<img src="../media/lab_outings/2023/sharp_bayesian_august/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-96.jpg" width="100%">
 
 <b>Alexis farewell lunch, July 2023</b>
 
@@ -293,7 +295,31 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
-## <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">SHARP Bayesian Modeling for Environmental Health Workshop</a>
+## SHARP Bayesian Modeling for Environmental Health Workshop
+
+### Overview
+
+<img src="../media/sharp_bayesian/bmeh-1200x630.jpg" width="100%">
+
+The Bayesian Modeling for Environmental Health Workshop is a two-day intensive course of seminars and hands-on analytical sessions to provide an approachable and practical overview of concepts, techniques, and data analysis methods used in Bayesian modeling with applications in Environmental Health.
+
+Official SHARP Bayesian Modeling for Environmental Health Workshop [website link].(https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling) 
+
+Photos of previous 2023 edition below:
+
+Photos: April Renae.
+
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-96.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-21.jpg" width="49%">
+
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-29.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-32.jpg" width="49%">
+
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-33.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-39.jpg" width="49%">
+
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-41.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-61.jpg" width="49%">
+
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-68.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-73.jpg" width="49%"> 
+
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-80.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-81.jpg" width="49%">
 
 ## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
 
