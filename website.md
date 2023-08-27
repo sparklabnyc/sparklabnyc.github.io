@@ -303,7 +303,10 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 The Bayesian Modeling for Environmental Health Workshop is a two-day intensive course of seminars and hands-on analytical sessions to provide an approachable and practical overview of concepts, techniques, and data analysis methods used in Bayesian modeling with applications in Environmental Health.
 
-Official SHARP Bayesian Modeling for Environmental Health Workshop [website link](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling).
+Official SHARP Bayesian Modeling for Environmental Health Workshop
+<a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">website link</a>.
+
+Course <a href='https://github.com/rmp15/sharp_bayesian_environmental_health_2023' target="_blank">GitHub link</a>.
 
 Photos of previous 2023 edition below:
 
@@ -344,14 +347,11 @@ Photos below by April Renae.
 ### Glitches
 
 - <a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=nGwZ8kWqRE2PuXfbA_LjRQ' target="_blank">Spotify</a><br>
-- <a href='https://www.glitchesmusic.co.uk/' target="_blank">Website</a><br>
-- <a href='https://twitter.com/glitchesmusic' target="_blank">Twitter</a><br>
 
 ### Resurgent Forms
 
 - <a href='https://open.spotify.com/artist/6K1ospdNZUvMjveW6VDDRv?si=PQGJQWoQRcO4XblZ8KbUGQ' target="_blank">Spotify</a><br>
 - <a href='https://www.instagram.com/resurgentforms/' target="_blank">Instagram</a><br>
-- <a href='https://twitter.com/resurgentforms' target="_blank">Twitter</a><br>
 - <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
 
 ### Solo
