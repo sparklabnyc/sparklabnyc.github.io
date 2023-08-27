@@ -307,7 +307,9 @@ Official SHARP Bayesian Modeling for Environmental Health Workshop [website li
 
 Photos of previous 2023 edition below:
 
-Photos: April Renae.
+<img src="../media/lab_outings/2023/sharp_bayesian_august/sharp_bayesian_2023.jpg" width="100%">
+
+Photos below by April Renae.
 
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-96.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-21.jpg" width="49%">
 
