@@ -89,6 +89,10 @@
 ## Press coverage
 ### 2023
 
+<b>Climate-driven deaths</b>
+
+- <a href='https://grist.org/health/why-the-united-states-undercounts-climate-driven-deaths/' target="_blank">Why the United States undercounts climate-driven deaths</a>, <b>Grist</b>, September 2023<br>
+
 <b>Short-term excess mortality following tropical cyclones in the United States</b>
 
 Watch this space many more reports to be added here soon
