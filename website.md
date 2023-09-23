@@ -316,7 +316,27 @@ Official SHARP Bayesian Modeling for Environmental Health Workshop
 
 Course <a href='https://github.com/rmp15/sharp_bayesian_environmental_health_2023' target="_blank">GitHub link</a>.
 
-Photos of previous 2023 edition below:
+### Unfiltred shareable feedback from 2023 edition
+
+"Wonderful course reviewing Bayesian modeling from basic concept to cutting-edge."
+
+"The workshop provided a helpful, programming-centric introduction to Bayesian Modeling in an environmental health context."
+
+"This is an efficient, in-depth course with lecture/lab pairs on topics including Bayesian workflows, temporal models, spatial models, and and non-parametric models. The course gives hands-on practice with the tools used for these analyses, with a focus on NIMBLE, but opportunity to work with INLA and ensemble models."
+
+"It was a very interesting and fascinating course! I would recommend everybody to take the course. The only tip I would give is that you familiarize yourself with Bayesian Statistics beforehand."
+
+"I was highly satisfied with the overall workshop structure and content. Learning Bayesian modeling from the basics to its applications brought me a lot of joy."
+
+"This course was a great overview of how Bayesian models can be used within the environmental health/ public health arenas. User friendly with very knowledgeable instructors that made me excited to incorporate Bayesian models into my research!"
+
+"The Bayesian team was really nice and answered several of our questions and concerns."
+
+"Really wonderful practical introduction! I feel like I am ready to test out some of these methods in my own work."
+
+"The workshop was a meticulously prepared, and every detail was thoughtfully addressed. It was an inspiring experience to have the opportunity to learn from world-leading experts in the field."
+
+### Photos of previous 2023 edition
 
 <img src="../media/lab_outings/2023/sharp_bayesian_august/sharp_bayesian_2023.jpg" width="100%">
 
