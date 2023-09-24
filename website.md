@@ -241,6 +241,10 @@ Watch this space many more reports to be added here soon
 
 ### 2023
 
+<b>ISEE Taiwan, September 2023</b>
+
+<img src="../media/lab_outings/2023/isee_tawian_september/IMG_1044.jpg" width="100%">
+
 <b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2023</b>
 
 <img src="../media/lab_outings/2023/sharp_bayesian_august/sharp_bayesian_2023.jpg" width="100%">
