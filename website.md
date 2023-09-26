@@ -25,7 +25,9 @@
 ## Publications
 ### 2023
 
-- <b>Parks RM</b>, Kontis V, Anderson GB, Baldwin JW, Danaei G, Toumi R, Dominici F, Ezzati M, Kioumourtzoglou MA. (2023). [Short-term excess mortality following tropical cyclones in the United States](https://www.science.org/doi/10.1126/sciadv.adg6633) <b>Science Advances</b>. 
+- <b>Parks RM</b>, Rowland ST, Do V, Boehme AK, Dominici F, Hart CL, Kioumourtzoglou MA. (2023). [The association between temperature and alcohol- and substance-related disorder hospital visits in New York State](https://www.nature.com/articles/s43856-023-00346-1) <b>Communications Medicine</b>
+
+- <b>Parks RM</b>, Kontis V, Anderson GB, Baldwin JW, Danaei G, Toumi R, Dominici F, Ezzati M, Kioumourtzoglou MA. (2023). [Short-term excess mortality following tropical cyclones in the United States](https://www.science.org/doi/10.1126/sciadv.adg6633) <b>Science Advances</b>
 
 - Nunez Y, Balalian A, <b>Parks RM</b>, He M, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Brandt J, Vermeulen R, Peters S, Goldsmith J, Re DB, Weisskopf MG, Kioumourtzoglou MA. (2023). [Exploring Relevant Time Windows in the Association Between PM2.5 Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwad099/7135818?redirectedFrom=fulltext&login=false), <b>American Journal of Epidemiology</b>
 
@@ -90,6 +92,10 @@
 
 ## Press coverage
 ### 2023
+
+<b>The association between temperature and alcohol- and substance-related disorder hospital visits in New York State</b>
+
+- <a href='https://grist.org/health/how-climate-change-is-fueling-alcohol-related-hospitalizations/' target="_blank">How climate change is fueling alcohol-related hospitalizations</a>, <b>Grist</b>, September 2023<br>
 
 <b>Climate-driven deaths</b>
 
