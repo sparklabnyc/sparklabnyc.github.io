@@ -95,6 +95,7 @@
 
 <b>The association between temperature and alcohol- and substance-related disorder hospital visits in New York State</b>
 
+- <a href='https://omny.fm/shows/kcbsam-on-demand/research-shows-a-correlation-between-climate-chang' target="_blank">Research shows a correlation between climate change and alcohol use (Live Radio Interview)</a>, <b>KCBS Radio (San Francisco)</b>, September 2023<br>
 - <a href='https://grist.org/health/how-climate-change-is-fueling-alcohol-related-hospitalizations/' target="_blank">How climate change is fueling alcohol-related hospitalizations</a>, <b>Grist</b>, September 2023<br>
 
 <b>Climate-driven deaths</b>
