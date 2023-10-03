@@ -95,6 +95,8 @@
 
 <b>The association between temperature and alcohol- and substance-related disorder hospital visits in New York State</b>
 
+Watch this space many more reports to be added here soon
+
 - <a href='https://omny.fm/shows/kcbsam-on-demand/research-shows-a-correlation-between-climate-chang' target="_blank">Research shows a correlation between climate change and alcohol use (Live Radio Interview)</a>, <b>KCBS Radio (San Francisco)</b>, September 2023<br>
 - <a href='https://grist.org/health/how-climate-change-is-fueling-alcohol-related-hospitalizations/' target="_blank">How climate change is fueling alcohol-related hospitalizations</a>, <b>Grist</b>, September 2023<br>
 
@@ -302,7 +304,7 @@ I am a tenure-track Assistant Professor of [Environmental Health Sciences](https
 
 I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling).
 
-I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://www.publichealth.columbia.edu/profile/marianthi-anna-kioumourtzoglou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from the [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
+I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://www.publichealth.columbia.edu/profile/marianthi-anna-kioumourtzoglou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
 
 I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
