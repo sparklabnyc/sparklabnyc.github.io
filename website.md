@@ -93,6 +93,11 @@
 ## Press coverage
 ### 2023
 
+<b>Outdoor workers and extreme heat (in collaboration with Columbia Journalism School)</b>
+
+- <a href='https://grist.org/accountability/outdoor-worker-extreme-heat-protections-labor-law-osha/' target="_blank">Workers are dying from extreme heat. Why aren’t there laws to protect them?</a>, <b>Grist</b>, October 2023<br>
+- <a href='https://www.theguardian.com/us-news/2023/oct/19/climate-crisis-extreme-heat-regulations' target="_blank">‘You should be able to have a water break’: US workers fight for extreme-heat rules</a>, <b>The Guardian</b>, October 2023<br>
+
 <b>The association between temperature and alcohol- and substance-related disorder hospital visits in New York State</b>
 
 Watch this space many more reports to be added here soon
