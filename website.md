@@ -8,7 +8,6 @@
 - Kelton Minor (Post-doctoral Fellow)
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
-- Hingling Angel Yu (Masters Student)
 - [Xicheng Xie](https://xx2416.github.io/) (Masters Student)
 
 ### Previous lab associates
