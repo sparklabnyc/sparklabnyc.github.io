@@ -9,14 +9,10 @@
 
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
-<<<<<<< HEAD
-- [Xicheng Xie](https://xx2416.github.io/) (Masters Student)
-=======
 
 - Xuer Liu (Master's Student)
 - Hingling Angel Yu (Master's Student)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student)
->>>>>>> 3aa48f5106b638b2417324d99ff1db836c89657a
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
