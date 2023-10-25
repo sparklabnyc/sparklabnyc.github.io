@@ -6,10 +6,13 @@
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
 - Kelton Minor (Post-doctoral Fellow)
+
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
-- Hingling Angel Yu (Masters Student)
-- [Xicheng Xie](https://xx2416.github.io/) (Masters Student)
+
+- Xuer Liu (Master's Student)
+- Hingling Angel Yu (Master's Student)
+- [Xicheng Xie](https://xx2416.github.io/) (Master's Student)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
