@@ -262,6 +262,14 @@ Watch this space many more reports to be added here soon
 
 ### 2023
 
+<b>Hosting Dr. Seth Flaxman, October 2023</b>
+
+<img src="../media/lab_outings/2023/seth_flaxman_hosting/IMG_9714.jpeg" width="100%">
+
+<b>Monthly Lab Meeting, October 2023</b>
+
+<img src="../media/lab_outings/2023/group_meeting_october/IMG_1481.jpeg" width="100%">
+
 <b>ISEE Taiwan, September 2023</b>
 
 <img src="../media/lab_outings/2023/isee_tawian_september/IMG_1044.jpg" width="100%">
