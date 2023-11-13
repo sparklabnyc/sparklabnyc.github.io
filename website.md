@@ -109,6 +109,7 @@
 
 Watch this space many more reports to be added here soon
 
+- <a href='https://ghhin.org/news/author-qa-the-association-between-temperature-and-alcohol-and-substance-related-disorder-hospital-visits-in-new-york-state/' target="_blank">Global Heat Health Digest </a>, <b>Global Heat Health Information Network (GHHIN)</b>, October 2023<br>
 - <a href='https://omny.fm/shows/kcbsam-on-demand/research-shows-a-correlation-between-climate-chang' target="_blank">Research shows a correlation between climate change and alcohol use (Live Radio Interview)</a>, <b>KCBS Radio (San Francisco)</b>, September 2023<br>
 - <a href='https://grist.org/health/how-climate-change-is-fueling-alcohol-related-hospitalizations/' target="_blank">How climate change is fueling alcohol-related hospitalizations</a>, <b>Grist</b>, September 2023<br>
 
@@ -261,6 +262,12 @@ Watch this space many more reports to be added here soon
 ## Lab activities
 
 ### 2023
+
+<b>Karaoke, November 2023</b>
+
+<img src="../media/lab_outings/2023/karaoke/img_1588_720.jpeg" width="100%">
+
+<img src="../media/lab_outings/2023/karaoke/img_2611_720.jpeg" width="100%">
 
 <b>Hosting Dr. Seth Flaxman, October 2023</b>
 
