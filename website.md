@@ -269,6 +269,10 @@ Watch this space many more reports to be added here soon
 
 <img src="../media/lab_outings/2023/karaoke/img_2611_720.jpeg" width="100%">
 
+<b>P30 Pilot Kickoff Meeting, November 2023</b>
+
+<img src="../media/lab_outings/2023/p30_pilot_kickoff/F-Rn672aMAAwr0o.jpeg" width="100%">
+
 <b>Hosting Dr. Seth Flaxman, October 2023</b>
 
 <img src="../media/lab_outings/2023/seth_flaxman_hosting/IMG_9714.jpeg" width="100%">
