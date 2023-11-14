@@ -9,10 +9,19 @@
 
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
+- Allison L. Stewart (PhD Student)
 
+- Ava Chow (Master's Student)
 - Xuer Liu (Master's Student)
-- Hingling Angel Yu (Master's Student)
+- Jordyn B. Pykon (Master's Student) 
+- Deepshika Verma (Master's Student)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student)
+- Carina Yiu (Master's Student)
+- Hingling Angel Yu (Master's Student)
+- Wei (Audrey) Zhiyu (Master's Student)
+- Janna Zilkha (Master's Student)
+
+- Maren Hale (Research Co-ordinator)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
@@ -22,11 +31,14 @@
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
 - Daisy Yan (Graduate Research Assistant. Next: TBC)
+
 ### Future lab associates
 - You?
 
 ## Publications
 ### 2023
+
+- USGCRP, 2023: [Fifth National Climate Assessment](https://doi.org/10.7930/NCA5.2023). Crimmins, A.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, B.C. Stewart, and T.K. Maycock, Eds. U.S. Global Change Research Program, Washington, DC, USA. (Technical Contributor to Chapter 14: Air Quality)
 
 - <b>Parks RM</b>, Rowland ST, Do V, Boehme AK, Dominici F, Hart CL, Kioumourtzoglou MA. (2023). [The association between temperature and alcohol- and substance-related disorder hospital visits in New York State](https://www.nature.com/articles/s43856-023-00346-1) <b>Communications Medicine</b>
 
