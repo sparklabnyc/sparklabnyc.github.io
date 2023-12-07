@@ -160,6 +160,7 @@ Watch this space many more reports to be added here soon
 
 <b>Agents of Change in Environmental Justice</b>
 
+- <a href='https://open.spotify.com/episode/1hhWU5FFK7wZRFIfDWXOWW?si=06b4d97e0ca5427b' target="_blank">Environmental justice researchers on what it means to be biracial</a>, <b>Environmental Health News</b>, November 2023<br>
 - <a href='https://www.ehn.org/climate-change-and-mental-health-2659589260.html' target="_blank">Op-ed: Mourning family and climate change in the age of loss and damage</a>, <b>Environmental Health News</b>, March 2023<br>
 - <a href='https://www.ehn.org/atravesar-duelos-familiares-y-por-el-cambio-climatico-2659612118.html' target="_blank">Op-ed: Atravesar duelos familiares y por el cambio climático en la era de las pérdidas y los daños</a>, <b>Environmental Health News</b>,  March 2023<br>
 - <a href='https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U' target="_blank">LISTEN: Robbie Parks on climate justice and mental health</a>, <b>Environmental Health News</b>, March 2023<br>
@@ -271,13 +272,41 @@ Watch this space many more reports to be added here soon
 
 - <a href='https://www.cbc.ca/radio/thecurrent/the-current-for-june-22-2015-1.3122368/environmental-impact-of-pets-may-mean-it-s-time-to-eat-the-dog-1.3122397' target="_blank">Canadian Broadcasting Corporation live interivew on The Current</a>, slightly misunderstanding what I meant in the article but that's OK, June 2015<br>
 
-## HEATE
-
-Details coming soon!
-
 ## Lab activities
 
+<b>VICE Magazine print issue</b>
+
+- <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
+
+- <a href='https://www.cbc.ca/radio/thecurrent/the-current-for-june-22-2015-1.3122368/environmental-impact-of-pets-may-mean-it-s-time-to-eat-the-dog-1.3122397' target="_blank">Canadian Broadcasting Corporation live interivew on The Current</a>, slightly misunderstanding what I meant in the article but that's OK, June 2015<br>
+
+<b>VICE Magazine print issue</b>
+
+- <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
+
+<!-- ## HEATE -->
+
+<!-- <img src="../media/HEATE/Flyer English.jpeg" width="100%"> -->
+
+<!-- Do you live in N. Manhattan/South Bronx?
+
+Do you experience freezing temperatures at home in the winter?
+
+What about ridiculous heat in the summer?
+
+Our Columbia University Mailman School of Public Health P30-funded project HEATE wants you!
+
+$50 for participation! A cool team to work with including Yoshira Ornelas Van Horne, Diana Hernández, Maren Hale Marianthi-Anna Kioumourtzoglou, Tarik Benmarhnia, and a great bunch of Master's students working with us.
+
+Register interest below:
+
+XX -->
+
 ### 2023
+
+<b>Holiday Dinner, December 2023</b>
+
+<img src="../media/lab_outings/2023/holiday_dinner/IMG_0142.jpeg" width="100%">
 
 <b>Karaoke, November 2023</b>
 
