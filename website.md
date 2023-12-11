@@ -304,6 +304,10 @@ XX -->
 
 ### 2023
 
+<b>COP28, December 2023</b>
+
+<img src="../media/lab_outings/2023/cop28_december/robbie_cop28.jpeg" width="100%">
+
 <b>Holiday Dinner, December 2023</b>
 
 <img src="../media/lab_outings/2023/holiday_dinner/IMG_0142.jpeg" width="100%">
