@@ -108,6 +108,11 @@
 ## Press coverage
 ### 2023
 
+<b>COP28</b>
+
+- <a href='https://www.ehn.org/cop28-climate-change-health-2666576771.html' target="_blank">An audio diary from the COP28 climate conference, Part 1</a>, <b>Environmental Health News</b>, December 2023<br>
+- <a href='https://www.ehn.org/cop28-climate-change-podcast-2666576699.html' target="_blank">An audio diary from the COP28 climate conference, Part 2</a>, <b>Environmental Health News</b>, December 2023<br>
+
 <b>Science Friday, NPR</b>
 
 - <a href='https://www.youtube.com/watch?v=6246zQ8UsJw' target="_blank">The Future Earth: Human-led Solutions for Our Next Three Decades</a>, <b>Science Friday, NPR</b>, October 2023<br>
@@ -131,8 +136,7 @@ Watch this space many more reports to be added here soon
 
 <b>Short-term excess mortality following tropical cyclones in the United States</b>
 
-Watch this space many more reports to be added here soon
-
+- <a href='https://www.ehn.org/hurricanes-deadlier-2664940195.html#:~:text=Parks%2C%20a%20senior%20Agents%20of,in%20recent%20years%20and%20are' target="_blank">Robbie Parks on why hurricanes are getting deadlier</a>, <b>Environmental Health News</b>, September 2023<br>
 - <a href='https://vimeo.com/861862708?share=copy' target="_blank">Live TV Interview</a>, <b>Weather Channel</b>, September 2023<br>
 - <a href='https://www.theguardian.com/us-news/2023/aug/16/atlantic-storms-deadlier-people-of-color-excess-deaths' target="_blank">Tropical storms killing more Americans as climate crisis deepens, study finds</a>, <b>The Guardian</b>, August 2023<br>
 - <a href='https://www.nbcnews.com/science/environment/us-hurricane-deaths-concentrated-vulnerable-counties-research-finds-rcna99814' target="_blank">U.S. hurricane deaths concentrated in vulnerable counties, research finds</a>, <b>NBC News</b>, August 2023<br>
@@ -171,7 +175,7 @@ Watch this space many more reports to be added here soon
 
 - <a href='https://ehp.niehs.nih.gov/curated-collections/eds-choice-2022' target="_blank">Editors' Choice</a>, <b>Environmental Health Perspectives</b>, March 2023<br>
 
-<b>COP 27</b>
+<b>COP27</b>
 
 - <a href='https://news.climate.columbia.edu/2022/10/31/cop27-plans-and-expectations/' target="_blank">COP27: Delegates From the Columbia Climate School Share Their Plans and Hopes</a>, <b>State of the Planet</b>, November 2022<br>
 
