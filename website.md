@@ -7,7 +7,7 @@
 - Gabriella Meltzer (Post-doctoral Fellow)
 - Kelton Minor (Post-doctoral Fellow)
 
-- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
+- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer. Yes, I based this website on Theo's)
 
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
