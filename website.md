@@ -7,6 +7,8 @@
 - Gabriella Meltzer (Post-doctoral Fellow)
 - Kelton Minor (Post-doctoral Fellow)
 
+- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
+
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
 - Allison L. Stewart (PhD Student)
@@ -14,7 +16,6 @@
 - Ava Chow (Master's Student)
 - Xuer Liu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
-- Deepshika Verma (Master's Student)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student)
 - Carina Yiu (Master's Student)
 - Hingling Angel Yu (Master's Student)
@@ -30,6 +31,7 @@
 - Emily Shambaugh (Graduate Research Assistant. Next: TBC)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
+- Deepshika Verma (Master's Student. Next: Finishing Master's)
 - Daisy Yan (Graduate Research Assistant. Next: TBC)
 
 ### Future lab associates
