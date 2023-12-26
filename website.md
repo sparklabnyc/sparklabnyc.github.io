@@ -114,6 +114,7 @@
 
 - <a href='https://www.ehn.org/cop28-climate-change-health-2666576771.html' target="_blank">An audio diary from the COP28 climate conference, Part 1</a>, <b>Environmental Health News</b>, December 2023<br>
 - <a href='https://www.ehn.org/cop28-climate-change-podcast-2666576699.html' target="_blank">An audio diary from the COP28 climate conference, Part 2</a>, <b>Environmental Health News</b>, December 2023<br>
+- <a href='https://www.publichealth.columbia.edu/news/global-climate-summit-puts-health-agenda' target="_blank">Global Climate Summit Puts Health on the Agenda</a>, <b>Columbia Public Health</b>, November 2023<br>
 
 <b>Science Friday, NPR</b>
 
@@ -135,6 +136,7 @@ Watch this space many more reports to be added here soon
 <b>Climate-driven deaths</b>
 
 - <a href='https://grist.org/health/why-the-united-states-undercounts-climate-driven-deaths/' target="_blank">Why the United States undercounts climate-driven deaths</a>, <b>Grist</b>, September 2023<br>
+- <a href='https://www.publichealth.columbia.edu/news/how-extreme-heat-smoke-flooding-threaten-our-health' target="_blank">How Extreme Heat, Smoke, and Flooding Threaten Our Health</a>, <b>Columbia Public Health</b>, August 2023<br>
 
 <b>Short-term excess mortality following tropical cyclones in the United States</b>
 
