@@ -280,6 +280,8 @@ Watch this space many more reports to be added here soon
 
 - <a href='https://www.cbc.ca/radio/thecurrent/the-current-for-june-22-2015-1.3122368/environmental-impact-of-pets-may-mean-it-s-time-to-eat-the-dog-1.3122397' target="_blank">Canadian Broadcasting Corporation live interivew on The Current</a>, slightly misunderstanding what I meant in the article but that's OK, June 2015<br>
 
+## <a href='https://github.com/sparklabnyc' target="_blank">GitHub</a>
+
 ## Lab activities
 
 <b>VICE Magazine print issue</b>
