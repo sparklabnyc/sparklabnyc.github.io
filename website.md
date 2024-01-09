@@ -282,6 +282,8 @@ Watch this space many more reports to be added here soon
 
 ## <a href='https://github.com/sparklabnyc' target="_blank">GitHub</a>
 
+## <a href='https://github.com/sparklabnyc/resources/wiki' target="_blank">Lab Wiki</a>
+
 ## Lab activities
 
 <b>VICE Magazine print issue</b>
