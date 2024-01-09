@@ -404,7 +404,7 @@ I am proudly both a first-gen academic and an [Agents of Change in Environmental
 
 ## CV
 ### 
-Download up to date version via [Overleaf project page](https://www.overleaf.com/read/nmnrrpnrsfvh) (via buttons to the right of green ‘Recompile’ button).
+Download up to date version via [Overleaf project page](https://www.overleaf.com/read/fkkpwgtfdjjh#324fcb) (via buttons to the right of green ‘Recompile’ button).
 
 ## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
