@@ -38,6 +38,10 @@
 - You?
 
 ## Publications
+### 2024
+
+Coming soon!
+
 ### 2023
 
 - USGCRP, 2023: [Fifth National Climate Assessment](https://doi.org/10.7930/NCA5.2023). Crimmins, A.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, B.C. Stewart, and T.K. Maycock, Eds. U.S. Global Change Research Program, Washington, DC, USA. (Technical Contributor to Chapter 14: Air Quality)
@@ -345,6 +349,10 @@ XX -->
 <b>ISEE Taiwan, September 2023</b>
 
 <img src="../media/lab_outings/2023/isee_tawian_september/IMG_1044.jpg" width="100%">
+
+<img src="../media/lab_outings/2023/isee_tawian_september/IMG_1160.jpg" width="100%">
+
+<img src="../media/lab_outings/2023/isee_tawian_september/IMG_1168.jpg" width="100%">
 
 <b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2023</b>
 
