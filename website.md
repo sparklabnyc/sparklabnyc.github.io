@@ -288,8 +288,6 @@ Watch this space many more reports to be added here soon
 
 ## <a href='https://github.com/sparklabnyc/resources/wiki' target="_blank">Lab Wiki</a>
 
-## Lab activities
-
 <b>VICE Magazine print issue</b>
 
 - <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
@@ -300,23 +298,34 @@ Watch this space many more reports to be added here soon
 
 - <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
 
-<!-- ## HEATE -->
+## HEATE
 
-<!-- <img src="../media/HEATE/Flyer English.jpeg" width="100%"> -->
+### Flyers
 
-<!-- Do you live in N. Manhattan/South Bronx?
+<img src="../media/HEATE/Flyer 2023 11 15.png" width="49%"> <img src="../media/HEATE/Spanish HEATE Flyer With QR Code - 2023 12 08.png" width="49%">
 
-Do you experience freezing temperatures at home in the winter?
+### What are we interested in studying?
 
-What about ridiculous heat in the summer?
+There is a gap for understanding the impacts of extreme weather in New York City on indoor residential temperatures. We want to know how cold apartments get in the winter and how hot apartments get in the summer in 
+NYC, relative to outdoor temperatures. 
 
-Our Columbia University Mailman School of Public Health P30-funded project HEATE wants you!
+### Why are we interested in this?
 
-$50 for participation! A cool team to work with including Yoshira Ornelas Van Horne, Diana Hernández, Maren Hale Marianthi-Anna Kioumourtzoglou, Tarik Benmarhnia, and a great bunch of Master's students working with us.
+Throughout NYC, people are exposed to extreme temperatures in their homes—this directly impacts quality of life. While HEATE is not a quick fix to this problem, collecting data to support related policy agendas is the first step toward addressing this challenge. 
 
-Register interest below:
+### How are we conducting our study?
 
-XX -->
+We are installing two temperature monitors in apartments throughout Northern Manhattan and the South Bronx which will collect data on temperature and relative humidity throughout the coming year. 
+
+### Get involved!
+
+Scan the QR codes in the posters above (Spanish or English) (or use the links below) to fill out a brief form, and we will coordinate sensor installation with you. All households participating in this study will receive $50 in the form of two Visa gift cards given at sensor installation and pick up.
+
+<a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_0evjBRWIBrI1deC' target="_blank">Español</a>
+
+<a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_bK6QFDxe5jB3CYu' target="_blank">English</a>
+
+## Lab activities
 
 ### 2023
 
@@ -505,7 +514,7 @@ Photos below by April Renae.
 ### Overview
 I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't use Instagram. 
 
-Copyright all photos Robbie M Parks 2023.
+Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024.
 
 ### 2023
 
