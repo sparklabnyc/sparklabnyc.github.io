@@ -112,6 +112,12 @@ Coming soon!
 - <b>Parks RM</b> (2016). [Weather, climate and health](https://doi.org/10.1002/wea.2752), <b>Weather</b>
 
 ## Press coverage
+### 2024
+
+<b>Data Science for Public Health</b>
+
+- <a href='https://publichealth.columbia.edu/news/data-science-summit-spotlights-quantitative-cutting-edge' target="_blank">Data Science Summit Spotlights the Quantitative Cutting-Edge</a>, <b>Columbia Public Health</b>, January 2024<br>
+
 ### 2023
 
 <b>COP28</b>
