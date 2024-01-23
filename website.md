@@ -40,7 +40,7 @@
 ## Publications
 ### 2024
 
-Coming soon!
+- Ahn Y, Tuholske C, <b>Parks RM</b>. (2024). [Comparing Approximated Heat Stress Measures Across the United States](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000923) <b>GeoHealth</b>
 
 ### 2023
 
@@ -113,6 +113,10 @@ Coming soon!
 
 ## Press coverage
 ### 2024
+
+<b>Heat-releated Deaths</b>
+
+- <a href='https://www.ehn.org/extreme-heat-deaths-2666991414.html' target="_blank">Op-ed: We are undercounting heat-related deaths in the US</a>, <b>Environmental Health News</b>, January 2024<br>
 
 <b>Data Science for Public Health</b>
 
