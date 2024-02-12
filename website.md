@@ -126,6 +126,7 @@
 
 <b>COP28</b>
 
+- <a href='https://www.publichealth.columbia.edu/news/public-health-professor-shares-audio-diary-climate-conference' target="_blank">Public Health Professor Shares Audio Diary from Climate Conference</a>, <b>Columbia Public Health</b>, February 2024<br>
 - <a href='https://www.ehn.org/cop28-climate-change-health-2666576771.html' target="_blank">An audio diary from the COP28 climate conference, Part 1</a>, <b>Environmental Health News</b>, December 2023<br>
 - <a href='https://www.ehn.org/cop28-climate-change-podcast-2666576699.html' target="_blank">An audio diary from the COP28 climate conference, Part 2</a>, <b>Environmental Health News</b>, December 2023<br>
 - <a href='https://www.publichealth.columbia.edu/news/global-climate-summit-puts-health-agenda' target="_blank">Global Climate Summit Puts Health on the Agenda</a>, <b>Columbia Public Health</b>, November 2023<br>
