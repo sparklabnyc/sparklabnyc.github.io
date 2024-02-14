@@ -417,7 +417,7 @@ It also happens to be an anagram of my last name :).
 
 ## About me
 ### 
-I am an environmental epidemiologist who has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related exposures, public health and equity.
+I am an environmental epidemiologist and physicist who has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related exposures, public health and equity.
 
 I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00).
 
