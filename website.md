@@ -40,6 +40,9 @@
 ## Publications
 ### 2024
 
+
+- Tuholske C, Lynch VD, Spriggs R, Ahn Y, Raymond C, Nigra AE, <b>Parks RM</b>. (2024). [Hazardous heat exposure among incarcerated people in the United States](https://www.nature.com/articles/s41893-024-01293-y) <b>Nature Sustainability</b>
+
 - Ahn Y, Tuholske C, <b>Parks RM</b>. (2024). [Comparing Approximated Heat Stress Measures Across the United States](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000923) <b>GeoHealth</b>
 
 ### 2023
