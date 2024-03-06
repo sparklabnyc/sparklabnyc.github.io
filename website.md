@@ -122,6 +122,7 @@
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
 
 - <a href='https://www.theguardian.com/us-news/2024/mar/05/prisons-heat-deaths-texas-florida' target="_blank">Prisoners in Texas and Florida face biggest risk of increasingly deadly heat</a>, <b>The Guardian</b>, March 2024<br>
+- <a href='https://twitter.com/SenMarkey/status/1765057038449619136' target="_blank">US Senator Ed Markey tweet about paper</a>, <b>X/Twitter</b>, March 2024<br>
 
 <b>Heat-releated Deaths</b>
 
