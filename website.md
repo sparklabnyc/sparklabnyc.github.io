@@ -43,6 +43,8 @@
 
 - Tuholske C, Lynch VD, Spriggs R, Ahn Y, Raymond C, Nigra AE, <b>Parks RM</b>. (2024). [Hazardous heat exposure among incarcerated people in the United States](https://www.nature.com/articles/s41893-024-01293-y) <b>Nature Sustainability</b>
 
+- Lynch VD, <b>Parks RM</b>. (2024). [Incarcerated people in the United States face deadly and growing heat exposure risk](https://www.nature.com/articles/s41893-024-01312-y) <b>Nature Sustainability</b> (accompanying Research Briefing to paper above)
+
 - Ahn Y, Tuholske C, <b>Parks RM</b>. (2024). [Comparing Approximated Heat Stress Measures Across the United States](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000923) <b>GeoHealth</b>
 
 ### 2023
@@ -116,6 +118,10 @@
 
 ## Press coverage
 ### 2024
+
+<b>Hazardous heat exposure among incarcerated people in the United States</b>
+
+- <a href='https://www.theguardian.com/us-news/2024/mar/05/prisons-heat-deaths-texas-florida' target="_blank">Prisoners in Texas and Florida face biggest risk of increasingly deadly heat</a>, <b>The Guardian</b>, March 2024<br>
 
 <b>Heat-releated Deaths</b>
 
