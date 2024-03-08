@@ -348,6 +348,12 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ## Lab activities
 
+### 2024
+
+<b>Majid Ezzati visit, February 2024</b>
+
+<img src="../media/lab_outings/2024/majid_sewell_feb_2024/majid_sewell_feb_2024.jpeg" width="100%">
+
 ### 2023
 
 <b>COP28, December 2023</b>
