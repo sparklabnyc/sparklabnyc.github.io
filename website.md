@@ -513,6 +513,8 @@ Photos below by April Renae.
 
 ## <a href='https://orcid.org/0000-0002-7916-1717' target="_blank">ORCID</a>
 
+## <a href='https://ghhin.org/people/robbie-parks/' target="_blank">Global Heat Health Information Network (GHHIN)</a>
+
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # Not academia 
