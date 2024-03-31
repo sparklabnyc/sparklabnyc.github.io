@@ -40,6 +40,7 @@
 ## Publications
 ### 2024
 
+- Singh A, Ezzine T, Guinto RR, Gepp S, <b>Parks RM</b>, Thondoo M, Patil P, van Daalen KR. (2024). [Reflections from COP28: Resisting healthwashing in climate change negotiations](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003076) <b>PLOS Global Public Health</b>
 
 - Tuholske C, Lynch VD, Spriggs R, Ahn Y, Raymond C, Nigra AE, <b>Parks RM</b>. (2024). [Hazardous heat exposure among incarcerated people in the United States](https://www.nature.com/articles/s41893-024-01293-y) <b>Nature Sustainability</b>
 
