@@ -13,6 +13,9 @@
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
 - Allison L. Stewart (PhD Student)
 
+- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
+- Lisa Yamasaki (Medical Doctor)
+
 - Ava Chow (Master's Student)
 - Xuer Liu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
