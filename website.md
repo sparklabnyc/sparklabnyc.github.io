@@ -43,6 +43,8 @@
 ## Publications
 ### 2024
 
+- van Daalen KR, Wyma N, Schauer-Berg J, Blom IM, Mattijsen J, Othman R, Eissa MM, <b>Parks RM</b>, Wyns A, Aboushady ATA, Hassan M, Ezzine T, Khan S, Zayed MAE, Neggazi S, Alqodmani L, Lowe R. (2024). [The global health community at international climate change negotiations]()<b>BMJ Global Health</b>
+
 - Singh A, Ezzine T, Guinto RR, Gepp S, <b>Parks RM</b>, Thondoo M, Patil P, van Daalen KR. (2024). [Reflections from COP28: Resisting healthwashing in climate change negotiations](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003076) <b>PLOS Global Public Health</b>
 
 - Tuholske C, Lynch VD, Spriggs R, Ahn Y, Raymond C, Nigra AE, <b>Parks RM</b>. (2024). [Hazardous heat exposure among incarcerated people in the United States](https://www.nature.com/articles/s41893-024-01293-y) <b>Nature Sustainability</b>
@@ -353,6 +355,18 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 ## Lab activities
 
 ### 2024
+
+<b>Happy Hour, April 2024</b>
+
+<img src="../media/lab_outings/2024/happy_hour_april_2024/image_720.png" width="100%">
+
+<b>UTokyo, March 2024</b>
+
+<img src="../media/lab_outings/2024/utokyo_march_2024/BD131331-1767-43CE-84C5-4A6810E46A8C_1_105_c.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/utokyo_march_2024/IMG_2825.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/utokyo_march_2024/IMG_2907.jpeg" width="100%">
 
 <b>Majid Ezzati visit, February 2024</b>
 
