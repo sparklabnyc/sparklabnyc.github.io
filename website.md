@@ -43,7 +43,7 @@
 ## Publications
 ### 2024
 
-- van Daalen KR, Wyma N, Schauer-Berg J, Blom IM, Mattijsen J, Othman R, Eissa MM, <b>Parks RM</b>, Wyns A, Aboushady ATA, Hassan M, Ezzine T, Khan S, Zayed MAE, Neggazi S, Alqodmani L, Lowe R. (2024). [The global health community at international climate change negotiations]()<b>BMJ Global Health</b>
+- van Daalen KR, Wyma N, Schauer-Berg J, Blom IM, Mattijsen J, Othman R, Eissa MM, <b>Parks RM</b>, Wyns A, Aboushady ATA, Hassan M, Ezzine T, Khan S, Zayed MAE, Neggazi S, Alqodmani L, Lowe R. (2024). [The global health community at international climate change negotiations]() <b>BMJ Global Health</b>
 
 - Singh A, Ezzine T, Guinto RR, Gepp S, <b>Parks RM</b>, Thondoo M, Patil P, van Daalen KR. (2024). [Reflections from COP28: Resisting healthwashing in climate change negotiations](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003076) <b>PLOS Global Public Health</b>
 
