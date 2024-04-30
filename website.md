@@ -43,6 +43,9 @@
 ## Publications
 ### 2024
 
+
+- Matte T, Lane K, Tipaldo J, Barnes J, Knowlton K, Torem E, Anand G, Yoon L, Marcotullio P, Balk D, Constible J, Elszasz H, Ito K, Jessel S, Limaye V, <b>Parks RM</b>, Rutigliano M, Sorenson C, Yuan A. (2024). [Climate Change and New York City’s Health Risk](https://climateassessment.nyc/wp-content/uploads/2024/04/NPCC4_HealthInterimR2.pdf) <b>New York City Panel on Climate Change 4th Assessment</b>
+
 - Prada D, Kupsco A, Baccarelli AA, <b>Parks RM</b>. (2024). [Climate change and health: understanding mechanisms will inform mitigation and prevention strategies](https://www.nature.com/articles/s41591-024-02925-8) <b>Nature Medicine</b>
 
 - van Daalen KR, Wyma N, Schauer-Berg J, Blom IM, Mattijsen J, Othman R, Eissa MM, <b>Parks RM</b>, Wyns A, Aboushady ATA, Hassan M, Ezzine T, Khan S, Zayed MAE, Neggazi S, Alqodmani L, Lowe R. (2024). [The global health community at international climate change negotiations](https://gh.bmj.com/content/9/4/e015292) <b>BMJ Global Health</b>
