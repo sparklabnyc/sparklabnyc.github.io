@@ -19,7 +19,6 @@
 - Ava Chow (Master's Student)
 - Xuer Liu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
-- [Xicheng Xie](https://xx2416.github.io/) (Master's Student)
 - Carina Yiu (Master's Student)
 - Hingling Angel Yu (Master's Student)
 - Wei (Audrey) Zhiyu (Master's Student)
@@ -35,6 +34,7 @@
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
 - Deepshika Verma (Master's Student. Next: Finishing Master's)
+- [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
 - Daisy Yan (Graduate Research Assistant. Next: TBC)
 
 ### Future lab associates
@@ -360,6 +360,18 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 ## Lab activities
 
 ### 2024
+
+<b>Photovoice class with Dr. Manuel Franco, May 2024</b>
+
+<img src="../media/lab_outings/2024/photovoice_may_2024/IMG_4230.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/photovoice_may_2024/IMG_4325.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/photovoice_may_2024/IMG_4237.jpeg" width="100%">
+
+<b>Xicheng Xie graduation, May 2024</b>
+
+<img src="../media/lab_outings/2024/xicheng_graduation_may_2024/IMG_1876.jpeg" width="100%">
 
 <b>Happy Hour, April 2024</b>
 
