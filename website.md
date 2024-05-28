@@ -7,7 +7,7 @@
 - Gabriella Meltzer (Post-doctoral Fellow)
 - Kelton Minor (Post-doctoral Fellow)
 
-- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer. Yes, I based this website on Theo's)
+- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
 
 - Grace Santos (PhD Student)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
@@ -16,19 +16,19 @@
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
 - Lisa Yamasaki (Medical Doctor)
 
-- Ava Chow (Master's Student)
+- Maren Hale (Research Co-ordinator)
+
 - Xuer Liu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
-- Carina Yiu (Master's Student)
 - Hingling Angel Yu (Master's Student)
-- Wei (Audrey) Zhiyu (Master's Student)
 - Janna Zilkha (Master's Student)
 
-- Maren Hale (Research Co-ordinator)
+- Hannah Sanghvi (Barnard Senior)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
+- Ava Chow (Master's Student. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Emily Shambaugh (Graduate Research Assistant. Next: TBC)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
@@ -36,6 +36,9 @@
 - Deepshika Verma (Master's Student. Next: Finishing Master's)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
 - Daisy Yan (Graduate Research Assistant. Next: TBC)
+- Carina Yiu (Master's Student. Next: Finishing Master's)
+- Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
+
 
 ### Future lab associates
 - You?
