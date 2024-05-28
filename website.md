@@ -9,8 +9,9 @@
 
 - [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
 
+- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
+
 - Grace Santos (PhD Student)
-- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Student)
 - Allison L. Stewart (PhD Student)
 
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
@@ -21,7 +22,6 @@
 - Xuer Liu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
 - Hingling Angel Yu (Master's Student)
-- Janna Zilkha (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
 
@@ -30,15 +30,15 @@
 - Alexis Bell (High School Student. Next: Finish High School!)
 - Ava Chow (Master's Student. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
-- Emily Shambaugh (Graduate Research Assistant. Next: TBC)
+- Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
 - Deepshika Verma (Master's Student. Next: Finishing Master's)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
-- Daisy Yan (Graduate Research Assistant. Next: TBC)
+- Daisy Yan (Graduate Research Assistant. Next: UCSF)
 - Carina Yiu (Master's Student. Next: Finishing Master's)
 - Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
-
+- Janna Zilkha (Master's Student. Next: Finishing Master's)
 
 ### Future lab associates
 - You?
