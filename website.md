@@ -46,6 +46,7 @@
 ## Publications
 ### 2024
 
+- Cohen G, Rowland ST, Benavides J, Lindert J, Kioumourtzoglou MA, <b>Parks RM</b>. (2024). [Daily temperature variability and mental health-related hospital visits in New York State](https://www.sciencedirect.com/science/article/abs/pii/S0013935124011435) <b>Environmental Research</b>
 
 - Matte T, Lane K, Tipaldo J, Barnes J, Knowlton K, Torem E, Anand G, Yoon L, Marcotullio P, Balk D, Constible J, Elszasz H, Ito K, Jessel S, Limaye V, <b>Parks RM</b>, Rutigliano M, Sorenson C, Yuan A. (2024). [Climate Change and New York City’s Health Risk](https://climateassessment.nyc/wp-content/uploads/2024/04/NPCC4_HealthInterimR2.pdf) <b>New York City Panel on Climate Change 4th Assessment</b>
 
