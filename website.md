@@ -20,6 +20,7 @@
 - Maren Hale (Research Co-ordinator)
 
 - Xuer Liu (Master's Student)
+- Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
 - Hingling Angel Yu (Master's Student)
 
