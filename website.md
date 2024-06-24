@@ -22,6 +22,7 @@
 - Xuer Liu (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
+- Jenna Nicole Swartz (Master's Student) 
 - Hingling Angel Yu (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
@@ -365,6 +366,18 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 ## Lab activities
 
 ### 2024
+
+<b>ISEE Asia, Malaysia, June 2024</b>
+
+<img src="../media/lab_outings/2024/isee_asia_june_2024/IMG_6101.jpeg" width="100%">
+
+<b>Visiting University of Oxford with Drs. Seth Flaxman, Elizaveta Semenova, and Moritz Kraemer, June 2024</b>
+
+<img src="../media/lab_outings/2024/oxford_june_2024/695b2905-3469-4133-a89f-b1a5dd767baf.jpg" width="100%">
+
+<img src="../media/lab_outings/2024/oxford_june_2024/190ea796-9383-4c96-8fd9-52df517d8d2f.jpg" width="100%">
+
+<img src="../media/lab_outings/2024/oxford_june_2024/IMG_4490.jpeg" width="100%">
 
 <b>Photovoice class with Dr. Manuel Franco, May 2024</b>
 
