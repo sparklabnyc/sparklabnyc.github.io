@@ -326,15 +326,7 @@ Watch this space many more reports to be added here soon
 
 ## <a href='https://github.com/sparklabnyc/resources/wiki' target="_blank">Lab Wiki</a>
 
-<b>VICE Magazine print issue</b>
-
-- <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
-
-- <a href='https://www.cbc.ca/radio/thecurrent/the-current-for-june-22-2015-1.3122368/environmental-impact-of-pets-may-mean-it-s-time-to-eat-the-dog-1.3122397' target="_blank">Canadian Broadcasting Corporation live interivew on The Current</a>, slightly misunderstanding what I meant in the article but that's OK, June 2015<br>
-
-<b>VICE Magazine print issue</b>
-
-- <a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
+## <a href='https://www.reddit.com/r/heat_prep/' target="_blank">Reddit r/heat_prep</a>
 
 ## HEATE
 
