@@ -3,6 +3,7 @@
 ## The Team
 ### Current lab associates
 - Gali Cohen (Post-doctoral Fellow)
+- Wil Lieberman-Cribbin (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
 - Kelton Minor (Post-doctoral Fellow)
