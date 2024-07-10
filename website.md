@@ -137,6 +137,10 @@
 ## Press coverage
 ### 2024
 
+<b>Reddit r/heat_prep channel</b>
+
+- - <a href=https://www.publichealth.columbia.edu/news/reddit-community-shares-strategies-coping-extreme-heat target="_blank">Reddit Community Shares Strategies on Coping with Extreme Heat</a>, <b>Columbia Mailman School of Public Health</b>, July 2024<br>
+
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
 
 - <a href=https://insideclimatenews.org/news/02072024/prisons-jails-hazardous-heat/ target="_blank">US Prisons and Jails Exposed to an Increasing Number of Hazardous Heat Days, Study Says</a>, <b>Inside Climate News</b>, July 2024<br>
