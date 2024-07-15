@@ -27,6 +27,7 @@
 - Hingling Angel Yu (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
+- Ahmed Mahmud (DSI Scholar)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
