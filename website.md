@@ -140,7 +140,9 @@
 
 <b>Reddit r/heat_prep channel</b>
 
-- - <a href=https://www.publichealth.columbia.edu/news/reddit-community-shares-strategies-coping-extreme-heat target="_blank">Reddit Community Shares Strategies on Coping with Extreme Heat</a>, <b>Columbia Mailman School of Public Health</b>, July 2024<br>
+- <a href=https://www.reddit.com/r/heat_prep/comments/1dz9pj6/our_first_rheat_prep_ama_join_the_fun_july_16/ target="_blank">r/heat_prep AMA</a>, <b>Reddit</b>, July 2024<br>
+- <a href=https://www.publichealth.columbia.edu/news/reddit-community-shares-strategies-coping-extreme-heat target="_blank">Reddit Community Shares Strategies on Coping with Extreme Heat</a>, <b>Columbia Mailman School of Public Health</b>, July 2024<br>
+
 
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
 
