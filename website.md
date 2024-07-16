@@ -32,7 +32,7 @@
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
-- Ava Chow (Master's Student. Next: TBC)
+- Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
@@ -142,6 +142,7 @@
 
 - <a href=https://www.reddit.com/r/heat_prep/comments/1dz9pj6/our_first_rheat_prep_ama_join_the_fun_july_16/ target="_blank">r/heat_prep AMA</a>, <b>Reddit</b>, July 2024<br>
 - <a href=https://www.publichealth.columbia.edu/news/reddit-community-shares-strategies-coping-extreme-heat target="_blank">Reddit Community Shares Strategies on Coping with Extreme Heat</a>, <b>Columbia Mailman School of Public Health</b>, July 2024<br>
+
 
 
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
