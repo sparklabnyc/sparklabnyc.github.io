@@ -147,6 +147,7 @@
 
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
 
+- <a href=https://www.markey.senate.gov/news/press-releases/senator-markey-rep-pressley-introduce-environmental-health-in-prisons-act target="_blank">Senator Markey, Rep. Pressley Introduce Environmental Health in Prisons Act</a>, <b>Press Release</b>, July 2024<br>
 - <a href=https://insideclimatenews.org/news/02072024/prisons-jails-hazardous-heat/ target="_blank">US Prisons and Jails Exposed to an Increasing Number of Hazardous Heat Days, Study Says</a>, <b>Inside Climate News</b>, July 2024<br>
 - <a href='https://www.thenationshealth.org/content/54/4/1.1' target="_blank">Climate change’s higher temperatures increase suffering at US carceral facilities</a>, <b>The Nation's Health: A Publication of the American Public Health Association</b>, June 2024<br>
 - <a href='https://www.theguardian.com/us-news/2024/mar/05/prisons-heat-deaths-texas-florida' target="_blank">Prisoners in Texas and Florida face biggest risk of increasingly deadly heat</a>, <b>The Guardian</b>, March 2024<br>
