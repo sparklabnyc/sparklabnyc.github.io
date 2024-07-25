@@ -593,7 +593,7 @@ Photos below by April Renae.
 - <a href='https://www.instagram.com/resurgentforms/' target="_blank">Instagram</a><br>
 - <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
 
-### Solo
+### Just me
 
 - <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
 - <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
