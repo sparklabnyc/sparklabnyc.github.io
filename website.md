@@ -147,6 +147,7 @@
 
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
 
+- <a href=https://www.washingtonpost.com/nation/2024/07/30/prisons-heat-waves-deaths-air-conditioning/ target="_blank">For inmates, little escape from brutal heat in prisons without air conditioning</a>, <b>The Washington Post</b>, July 2024<br>
 - <a href=https://news.wttw.com/2024/07/24/men-stateville-prison-fear-ongoing-poor-conditions-threat-heat-month-after-man-dies target="_blank">Men in Stateville Prison Fear Ongoing Poor Conditions, Threat of Heat a Month After Man Dies in Custody</a>, <b>WTTW | Chicago's PBS Station</b>, July 2024<br>
 - <a href=https://www.markey.senate.gov/news/press-releases/senator-markey-rep-pressley-introduce-environmental-health-in-prisons-act target="_blank">Senator Markey, Rep. Pressley Introduce Environmental Health in Prisons Act</a>, <b>Press Release</b>, July 2024<br>
 - <a href=https://insideclimatenews.org/news/02072024/prisons-jails-hazardous-heat/ target="_blank">US Prisons and Jails Exposed to an Increasing Number of Hazardous Heat Days, Study Says</a>, <b>Inside Climate News</b>, July 2024<br>
