@@ -138,6 +138,14 @@
 ## Press coverage
 ### 2024
 
+<b>Olympics Paris 2024</b>
+
+- <a href=https://www.nbcnewyork.com/paris-2024-summer-olympics/paris-olympics-is-bracing-for-a-heat-wave-following-a-soggy-start/5648018/ target="_blank">Paris Olympics is bracing for a heat wave following a soggy start (Tory Lynch TV interview)</a>, <b>NBC New York</b>, August 2024<br>
+
+<b>e.coli outbreak</b>
+- <a href=https://abc.com/episode/07387aca-bd18-4f0f-8c09-aeeb28ba3872/playlist/PL553044961 target="_blank">Teen recalls E. coli kidney failure horror after lake weekend (Tory Lynch TV interview)</a>, <b>ABC</b>, August 2024<br>
+
+
 <b>Reddit r/heat_prep channel</b>
 
 - <a href=https://www.reddit.com/r/heat_prep/comments/1dz9pj6/our_first_rheat_prep_ama_join_the_fun_july_16/ target="_blank">r/heat_prep AMA</a>, <b>Reddit</b>, July 2024<br>
