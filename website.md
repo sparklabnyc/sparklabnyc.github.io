@@ -606,11 +606,12 @@ Photos below by April Renae.
 
 - <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
 - <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
+- <a href='https://instagram.com/rmiparks/' target="_blank">Instagram<br></a>
 
 ## Photography
 
 ### Overview
-I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use Instagram anymore. 
+I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use my <a href='https://instagram.com/rmiparks/' target="_blank">Instagram<br></a> anymore, though it's currently still active. 
 
 Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024.
 
