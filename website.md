@@ -820,3 +820,9 @@ Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024.
 <img src="../media/photography/2019/94020019_small.jpg" width="49%"> <img src="../media/photography/2019/94020020_small.jpg" width="49%"> 
 
 <img src="../media/photography/2019/94030015_small.jpg" width="49%"> <img src="../media/photography/2019/94030017_small.jpg" width="49%"> 
+
+## <a href='https://www.goodreads.com/robbiemparks' target="_blank">Books</a>
+
+## <a href='https://letterboxd.com/robbiemparks/' target="_blank">Movies</a>
+
+## <a href='https://www.strava.com/athletes/rmiparks' target="_blank">Running</a>
