@@ -509,7 +509,7 @@ I am an environmental epidemiologist and physicist who has diverse experience in
 
 I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00).
 
-I teach the graduate course P8301: Atmospheric and Climate Science for Public Health at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). 
+I teach the graduate course Atmospheric and Climate Science for Public Health at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). 
 
 I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://www.publichealth.columbia.edu/profile/marianthi-anna-kioumourtzoglou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
 
