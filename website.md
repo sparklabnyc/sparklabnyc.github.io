@@ -147,16 +147,15 @@
 <b>e.coli outbreak</b>
 - <a href=https://abc.com/episode/07387aca-bd18-4f0f-8c09-aeeb28ba3872/playlist/PL553044961 target="_blank">Teen recalls E. coli kidney failure horror after lake weekend (Tory Lynch TV interview)</a>, <b>ABC</b>, August 2024<br>
 
-
 <b>Reddit r/heat_prep channel</b>
 
 - <a href=https://www.reddit.com/r/heat_prep/comments/1dz9pj6/our_first_rheat_prep_ama_join_the_fun_july_16/ target="_blank">r/heat_prep AMA</a>, <b>Reddit</b>, July 2024<br>
 - <a href=https://www.publichealth.columbia.edu/news/reddit-community-shares-strategies-coping-extreme-heat target="_blank">Reddit Community Shares Strategies on Coping with Extreme Heat</a>, <b>Columbia Mailman School of Public Health</b>, July 2024<br>
 
-
-
 <b>Hazardous heat exposure among incarcerated people in the United States</b>
 
+- <a href=https://www.scientificamerican.com/article/without-ac-texan-prisons-sentence-people-to-unsafe-heat/ target="_blank">Without AC, Texan Prisons Sentence People to Unsafe Heat</a>, <b>Scientific American</b>, August 2024<br>
+- <a href=https://www.eenews.net/articles/lawsuit-takes-on-extreme-heat-in-texas-prisons/ target="_blank">Lawsuit takes on extreme heat in Texas prisons</a>, <b>E&E News by Politico</b>, August 2024<br>
 - <a href=https://www.washingtonpost.com/nation/2024/07/30/prisons-heat-waves-deaths-air-conditioning/ target="_blank">For inmates, little escape from brutal heat in prisons without air conditioning</a>, <b>The Washington Post</b>, July 2024<br>
 - <a href=https://news.wttw.com/2024/07/24/men-stateville-prison-fear-ongoing-poor-conditions-threat-heat-month-after-man-dies target="_blank">Men in Stateville Prison Fear Ongoing Poor Conditions, Threat of Heat a Month After Man Dies in Custody</a>, <b>WTTW | Chicago's PBS Station</b>, July 2024<br>
 - <a href=https://www.markey.senate.gov/news/press-releases/senator-markey-rep-pressley-introduce-environmental-health-in-prisons-act target="_blank">Senator Markey, Rep. Pressley Introduce Environmental Health in Prisons Act</a>, <b>Press Release</b>, July 2024<br>
