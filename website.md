@@ -382,6 +382,12 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2024
 
+<b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2024</b>
+
+<img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_group_photo_2024.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_instructor_photo_2024.jpeg" width="100%">
+
 <b>ISEE Asia, Malaysia, June 2024</b>
 
 <img src="../media/lab_outings/2024/isee_asia_june_2024/IMG_6404.jpg" width="100%">
@@ -533,7 +539,17 @@ The Bayesian Modeling for Environmental Health Workshop is a two-day intensive c
 Official SHARP Bayesian Modeling for Environmental Health Workshop
 <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">website link</a>.
 
-Course <a href='https://github.com/rmp15/sharp_bayesian_environmental_health_2023' target="_blank">GitHub link</a>.
+Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">GitHub link</a>.
+
+### Unfiltred shareable feedback from 2024 edition
+
+Coming soon.
+
+### Photos of previous 2024 edition
+
+<img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_group_photo_2024.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_instructor_photo_2024.jpeg" width="100%">
 
 ### Unfiltred shareable feedback from 2023 edition
 
