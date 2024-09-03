@@ -382,6 +382,14 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2024
 
+<b>ISEE Chile, August 2024</b>
+
+<img src="../media/lab_outings/2024/isee_chile_august_2024/lab_photo_santiago_2024.jpg" width="100%">
+
+<img src="../media/lab_outings/2024/isee_chile_august_2024/tropic_symposium_santiago_2024.jpeg" width="100%">
+
+<img src="../media/lab_outings/2024/isee_chile_august_2024/workshop_santiago_2024.jpeg" width="100%">
+
 <b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2024</b>
 
 <img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_group_photo_2024.jpeg" width="100%">
