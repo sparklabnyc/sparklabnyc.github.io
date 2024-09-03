@@ -636,7 +636,7 @@ Photos below by April Renae.
 ## Photography
 
 ### Overview
-I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use my <a href='https://instagram.com/rmiparks/' target="_blank">Instagram<br></a> anymore, though it's currently still active. 
+I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use my <a href='https://instagram.com/robbiemparks/' target="_blank">Instagram<br></a> anymore, though it's currently still active. 
 
 Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024.
 
