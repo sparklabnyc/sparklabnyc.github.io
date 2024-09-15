@@ -549,9 +549,19 @@ Official SHARP Bayesian Modeling for Environmental Health Workshop
 
 Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">GitHub link</a>.
 
-### Unfiltred shareable feedback from 2024 edition
+### Unfiltered shareable feedback from 2024 edition
 
-Coming soon.
+"Well-paced, clearly-explained lectures by instructors."
+
+"A thorough and highly applicable introduction to Bayesian modeling."
+
+"Overall, I learned a lot. But I think it was because I had some background in Bayesian and spatial stat, and this workshop helped me to get response for the questions. Otherwise, it could be very confusing. Thanks."
+
+"This course was an exercise in Bayesian praxis. It provided tools to implement theories I had only read about but couldn't figure out how to implement with code."
+
+"The instructors were very knowledgable on the topic and packed a lot into two days. They were very open to questions and diving deeper on topics when students asked."
+
+"This was a compelling workshop taught by people who know their material.  Thorough without getting bogged down in the weeds, and practical examples are provided with pre-written scripts to follow."
 
 ### Photos of previous 2024 edition
 
@@ -559,7 +569,7 @@ Coming soon.
 
 <img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_instructor_photo_2024.jpeg" width="100%">
 
-### Unfiltred shareable feedback from 2023 edition
+### Unfiltered shareable feedback from 2023 edition
 
 "Wonderful course reviewing Bayesian modeling from basic concept to cutting-edge."
 
