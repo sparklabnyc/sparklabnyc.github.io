@@ -20,10 +20,12 @@
 
 - Maren Hale (Research Co-ordinator)
 
+- Alexandra Carlin (Master's Student)
 - Xuer Liu (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
 - Jenna Nicole Swartz (Master's Student) 
+- Iris Yang (Master's Student)
 - Hingling Angel Yu (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
