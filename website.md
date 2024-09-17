@@ -410,8 +410,6 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 <img src="../media/lab_outings/2024/oxford_june_2024/190ea796-9383-4c96-8fd9-52df517d8d2f.jpg" width="100%">
 
-<img src="../media/lab_outings/2024/oxford_june_2024/IMG_4490.jpeg" width="100%">
-
 <b>Photovoice class with Dr. Manuel Franco, May 2024</b>
 
 <img src="../media/lab_outings/2024/photovoice_may_2024/IMG_4230.jpeg" width="100%">
