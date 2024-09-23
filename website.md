@@ -630,6 +630,7 @@ Photos below by April Renae.
 ### Glitches
 
 - <a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=nGwZ8kWqRE2PuXfbA_LjRQ' target="_blank">Spotify</a><br>
+- <a href='https://www.youtube.com/watch?v=bY4MzMkrtMU&ab_channel=Mahogany' target="_blank">Warm Seas on Mahogany Sessions</a><br>
 
 ### Resurgent Forms
 
