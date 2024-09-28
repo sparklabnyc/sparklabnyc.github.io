@@ -20,10 +20,12 @@
 
 - Maren Hale (Research Co-ordinator)
 
+- Alexandra Carlin (Master's Student)
 - Xuer Liu (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
 - Jenna Nicole Swartz (Master's Student) 
+- Iris Yang (Master's Student)
 - Hingling Angel Yu (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
@@ -408,8 +410,6 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 <img src="../media/lab_outings/2024/oxford_june_2024/190ea796-9383-4c96-8fd9-52df517d8d2f.jpg" width="100%">
 
-<img src="../media/lab_outings/2024/oxford_june_2024/IMG_4490.jpeg" width="100%">
-
 <b>Photovoice class with Dr. Manuel Franco, May 2024</b>
 
 <img src="../media/lab_outings/2024/photovoice_may_2024/IMG_4230.jpeg" width="100%">
@@ -630,6 +630,10 @@ Photos below by April Renae.
 ### Glitches
 
 - <a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=nGwZ8kWqRE2PuXfbA_LjRQ' target="_blank">Spotify</a><br>
+- <a href='https://www.youtube.com/watch?v=bY4MzMkrtMU&ab_channel=Mahogany' target="_blank">Warm Seas on Mahogany Sessions</a><br>
+- <a href='https://www.bbc.co.uk/programmes/b045y8m3' target="_blank">BBC Radio 2 live session with Dermot O' Leary</a><br>
+
+
 
 ### Resurgent Forms
 
