@@ -142,6 +142,10 @@
 ## Press coverage
 ### 2024
 
+<b>HEATE</b>
+
+- <a href=https://www.publichealth.columbia.edu/news/its-getting-hot-here-researchers-focuses-indoor-temperatures?mc_cid=36058d4025&mc_eid=ce87a3a67c target="_blank">It’s Getting Hot in Here: Researchers Examine Excessive Indoor Heat</a>, <b>Columbia Mailman School of Public Health</b>, September 2024<br>
+
 <b>Olympics Paris 2024</b>
 
 - <a href=https://www.nbcnewyork.com/paris-2024-summer-olympics/paris-olympics-is-bracing-for-a-heat-wave-following-a-soggy-start/5648018/ target="_blank">Paris Olympics is bracing for a heat wave following a soggy start (Tory Lynch TV interview)</a>, <b>NBC New York</b>, August 2024<br>
