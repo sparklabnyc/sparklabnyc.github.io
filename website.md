@@ -388,6 +388,14 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2024
 
+<b>Lancet Commission on 21st Century Global Threats to Health & Climate Consultation, September 2024</b>
+
+<img src="../media/lab_outings/2024/lancet_meeting_2024/lancet_meeting_2024.jpeg" width="100%">
+
+<b>Monthly Lab Meeting, September 2024</b>
+
+<img src="../media/lab_outings/2024/group_meeting_september_2024/group_meeting_september_2024.jpeg" width="100%">
+
 <b>ISEE Chile, August 2024</b>
 
 <img src="../media/lab_outings/2024/isee_chile_august_2024/lab_photo_santiago_2024.jpg" width="100%">
