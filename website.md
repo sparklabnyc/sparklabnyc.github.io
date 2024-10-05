@@ -645,13 +645,16 @@ Photos below by April Renae.
 - <a href='https://www.youtube.com/watch?v=bY4MzMkrtMU&ab_channel=Mahogany' target="_blank">Warm Seas on Mahogany Sessions</a><br>
 - <a href='https://www.bbc.co.uk/programmes/b045y8m3' target="_blank">BBC Radio 2 live session with Dermot O' Leary</a><br>
 
-
-
 ### Resurgent Forms
 
 - <a href='https://open.spotify.com/artist/6K1ospdNZUvMjveW6VDDRv?si=PQGJQWoQRcO4XblZ8KbUGQ' target="_blank">Spotify</a><br>
 - <a href='https://www.instagram.com/resurgentforms/' target="_blank">Instagram</a><br>
 - <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
+
+### hyperpyror
+
+- <a href='https://www.instagram.com/hyperpryor/' target="_blank">Instagram</a><br>
+Details forthcoming
 
 ### Just me
 
