@@ -388,6 +388,10 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2024
 
+<b>Environment, Health and Justice: Concepts and Practice, October 2024</b>
+
+<img src="../media/lab_outings/2024/ej_lecture_oct_2024/ej_lecture_oct_2024.jpeg" width="100%">
+
 <b>Lancet Commission on 21st Century Global Threats to Health & Climate Consultation, September 2024</b>
 
 <img src="../media/lab_outings/2024/lancet_meeting_2024/lancet_meeting_2024.jpeg" width="100%">
