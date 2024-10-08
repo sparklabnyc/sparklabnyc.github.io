@@ -655,7 +655,7 @@ Photos below by April Renae.
 - <a href='https://www.instagram.com/resurgentforms/' target="_blank">Instagram</a><br>
 - <a href='https://volumepoetry.com/Quietude-Resurgent-Forms' target="_blank">Quietude in Volume Poetry</a><br>
 
-### hyperpyror
+### hyperpryor
 
 - <a href='https://www.instagram.com/hyperpryor/' target="_blank">Instagram</a><br>
 Details forthcoming
