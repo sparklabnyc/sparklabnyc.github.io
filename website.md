@@ -392,6 +392,10 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2024
 
+<b>Quantifying the impact of the environment on health using Bayesian methods, October 2024</b>
+
+<img src="../media/lab_outings/2024/imperial_bayesian_october_2024/imperial_bayesian_october_2024.jpeg" width="100%">
+
 <b>Environment, Health and Justice: Concepts and Practice, October 2024</b>
 
 <img src="../media/lab_outings/2024/ej_lecture_oct_2024/ej_lecture_oct_2024.jpeg" width="100%">
