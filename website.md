@@ -142,6 +142,10 @@
 ## Press coverage
 ### 2024
 
+<b>Hurricane Helene</b>
+
+- <a href=https://www.nytimes.com/2024/10/02/business/economy/hurricane-helene-deaths-climate.html target="_blank">Hurricane Helene Deaths Will Continue for Years, Study Suggests</a>, <b>The New York Times</b>, October 2024<br>
+
 <b>HEATE</b>
 
 - <a href=https://www.publichealth.columbia.edu/news/its-getting-hot-here-researchers-focuses-indoor-temperatures?mc_cid=36058d4025&mc_eid=ce87a3a67c target="_blank">It’s Getting Hot in Here: Researchers Examine Excessive Indoor Heat</a>, <b>Columbia Mailman School of Public Health</b>, September 2024<br>
