@@ -52,6 +52,8 @@
 ## Publications
 ### 2024
 
+- Do V, <b>Parks RM</b>, Casey JA,  Goin DE, Kioumourtzoglou MA. (2024). [Use, limitations, and future directions of mixtures approaches to understand the health impacts of weather- and climate change-related exposures, an under-studied aspect of the exposome](https://academic.oup.com/exposome/advance-article/doi/10.1093/exposome/osae007/7824058) <b>Exposome</b>
+
 - Ziska LH, <b>Parks RM</b>. (2024). [Recent and projected changes in global climate may increase nicotine absorption and the risk of green tobacco sickness](https://www.nature.com/articles/s43856-024-00584-x) <b>Communications Medicine</b>
 
 - Cohen G, Rowland ST, Benavides J, Lindert J, Kioumourtzoglou MA, <b>Parks RM</b>. (2024). [Daily temperature variability and mental health-related hospital visits in New York State](https://www.sciencedirect.com/science/article/abs/pii/S0013935124011435) <b>Environmental Research</b>
