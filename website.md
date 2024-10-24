@@ -144,8 +144,9 @@
 ## Press coverage
 ### 2024
 
-<b>Hurricane Helene</b>
+<b>Hurricane season 2024</b>
 
+- <a href=https://www.nationalgeographic.com/environment/article/hurricane-storms-death-toll-counts target="_blank">Hurricane Helene’s death toll could miss thousands of related deaths</a>, <b>National Geographic</b>, October 2024<br>
 - <a href=https://www.nytimes.com/2024/10/02/business/economy/hurricane-helene-deaths-climate.html target="_blank">Hurricane Helene Deaths Will Continue for Years, Study Suggests</a>, <b>The New York Times</b>, October 2024<br>
 
 <b>HEATE</b>
