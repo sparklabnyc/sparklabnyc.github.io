@@ -364,6 +364,44 @@ Watch this space many more reports to be added here soon
 
 ## <a href='https://www.reddit.com/r/heat_prep/' target="_blank">Reddit r/heat_prep</a>
 
+## G-TROPIC
+
+### Summary
+
+Building a worldwide tropical cyclone resilience network in a changing climate.
+
+<img src="../media/GTROPIC/draft_symbol.png" width="100%">
+
+Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award' target="_blank">Calderone Awards for Junior Faculty Development</a> 
+
+### Japan
+
+More details forthcoming.
+
+### Korea
+
+More details forthcoming.
+
+### Madagascar
+
+More details forthcoming.
+
+### Mexico
+
+More details forthcoming.
+
+### Philippines
+
+More details forthcoming.
+
+### United States
+
+More details forthcoming.
+
+### World Meteorological Organization
+
+More details forthcoming.
+
 ## HEATE
 
 ### Flyers
