@@ -6,6 +6,7 @@
 - Wil Lieberman-Cribbin (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
+- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
 - Kelton Minor (Post-doctoral Fellow)
 
 - [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
