@@ -16,6 +16,8 @@
 - Grace Santos (PhD Student)
 - Allison L. Stewart (PhD Student)
 
+- Lincole Jiang (Research Assistant)
+
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
 - Lisa Yamasaki (Medical Doctor)
 
@@ -401,6 +403,7 @@ Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/
 ### United States
 
 - G. Brooke Anderson (Colorado State University)
+- Lincole Jiang (Columbia University)
 - Yoshira Ornelas Van Horne (Columbia University)
 - Robbie M. Parks (Columbia University)
 
