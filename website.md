@@ -377,31 +377,37 @@ Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/
 
 ### Japan
 
-More details forthcoming.
+- Masahiro Hashizume (University of Tokyo)
+- Paul Lester Chua (University of Tokyo)
+- Hiroyaki Murayama (University of Tokyo)
+- Lisa Yamasaki (University of Tokyo)
 
 ### Korea
 
-More details forthcoming.
+- Changwoo Han (Chungnam National University College of Medicine)
 
 ### Madagascar
 
-More details forthcoming.
+- Christopher Golden (Harvard University)
 
 ### Mexico
 
-More details forthcoming.
+- Iván Y. Hernández Paniagua (Universidad Nacional Autónoma de México)
 
 ### Philippines
 
-More details forthcoming.
+- Lorenzo R. Guinto (St. Luke's Medical Center College of Medicine)
 
 ### United States
 
-More details forthcoming.
+- G. Brooke Anderson (Colorado State University)
+- Yoshira Ornelas Van Horne (Columbia University)
+- Robbie M. Parks (Columbia University)
 
-### World Meteorological Organization
+### International
 
-More details forthcoming.
+- Nathaniel Matthews (Americares)
+- Joy Shumake-Guillemot (World Meteorological Organization)
 
 ## HEATE
 
