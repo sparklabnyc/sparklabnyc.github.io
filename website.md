@@ -409,7 +409,7 @@ Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/
 
 ### International
 
-- Nathaniel Matthews (Americares)
+- Nathaniel Matthews-Trigg (Americares)
 - Joy Shumake-Guillemot (World Meteorological Organization)
 
 ## HEATE
