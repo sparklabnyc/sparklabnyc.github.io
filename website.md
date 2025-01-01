@@ -24,12 +24,10 @@
 - Maren Hale (Research Co-ordinator)
 
 - Alexandra Carlin (Master's Student)
-- Xuer Liu (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
 - Jenna Nicole Swartz (Master's Student) 
 - Iris Yang (Master's Student)
-- Hingling Angel Yu (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
 - Ahmed Mahmud (DSI Scholar)
@@ -39,6 +37,7 @@
 - Alexis Bell (High School Student. Next: Finish High School!)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
+- Xuer Liu (Master's Student. Next: TBC)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
@@ -46,6 +45,7 @@
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
 - Daisy Yan (Graduate Research Assistant. Next: UCSF)
 - Carina Yiu (Master's Student. Next: Finishing Master's)
+- Hingling Angel Yu (Master's Student. Next: TBC)
 - Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
 - Janna Zilkha (Master's Student. Next: Finishing Master's)
 
@@ -443,6 +443,10 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2024
 
+<b>P8301 Atmospheric and Climate Science for Public Health end of course group photo, December 2024</b>
+
+<img src="../media/lab_outings/2024/p8301_december_2024/p8301_december_2024.jpeg" width="100%">
+
 <b>Quantifying the impact of the environment on health using Bayesian methods, October 2024</b>
 
 <img src="../media/lab_outings/2024/imperial_bayesian_october_2024/imperial_bayesian_october_2024.jpeg" width="100%">
@@ -607,7 +611,7 @@ I am proudly both a first-gen academic and an [Agents of Change in Environmental
 
 ## CV
 ### 
-Download up to date version via [Overleaf project page](https://www.overleaf.com/read/fkkpwgtfdjjh#324fcb) (via buttons to the right of green ‘Recompile’ button).
+Download up to date version via [Overleaf project page](https://www.overleaf.com/read/bhsmjnfqjmrr#a048f6) (via buttons to the right of green ‘Recompile’ button).
 
 ## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
