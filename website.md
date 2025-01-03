@@ -53,6 +53,10 @@
 - You?
 
 ## Publications
+### 2025
+
+- Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2024). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b>
+
 ### 2024
 
 - Do V, <b>Parks RM</b>, Casey JA,  Goin DE, Kioumourtzoglou MA. (2024). [Use, limitations, and future directions of mixtures approaches to understand the health impacts of weather- and climate change-related exposures, an under-studied aspect of the exposome](https://academic.oup.com/exposome/advance-article/doi/10.1093/exposome/osae007/7824058) <b>Exposome</b>
