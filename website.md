@@ -55,7 +55,7 @@
 ## Publications
 ### 2025
 
-- Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2024). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b>
+- Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2025). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b>
 
 ### 2024
 
