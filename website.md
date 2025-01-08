@@ -13,8 +13,9 @@
 
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
 
+- Fintan Mooney (PhD Student)
 - Grace Santos (PhD Student)
-- Allison L. Stewart (PhD Student)
+- Allison L. Stewart Ruano (PhD Student)
 
 - Lincole Jiang (Research Assistant)
 
