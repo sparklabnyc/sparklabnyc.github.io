@@ -7,14 +7,12 @@
 - Victoria D. Lynch (Post-doctoral Fellow)
 - Gabriella Meltzer (Post-doctoral Fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
-- Kelton Minor (Post-doctoral Fellow)
 
 - [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
 
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
 
 - Fintan Mooney (PhD Student)
-- Grace Santos (PhD Student)
 - Allison L. Stewart Ruano (PhD Student)
 
 - Lincole Jiang (Research Assistant)
@@ -39,6 +37,8 @@
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Xuer Liu (Master's Student. Next: TBC)
+- Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
+- Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
@@ -55,6 +55,8 @@
 
 ## Publications
 ### 2025
+
+- Shea B, Meltzer GY, Steiger BB, <b>Parks RM</b>, Do V, McBrien H, Flores N, Gordon M, Blake EM, JA Casey. (2025). [Co-occurring Climate Events and Environmental Justice in California, 2018-2019](https://iopscience.iop.org/article/10.1088/2752-5309/ada97a) <b>Environmental Research: Health</b>
 
 - Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2025). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b>
 
