@@ -25,11 +25,11 @@
 - Alexandra Carlin (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
+- Naomi Simon-Kumar (Master's Student)
 - Jenna Nicole Swartz (Master's Student) 
 - Iris Yang (Master's Student)
 
 - Hannah Sanghvi (Barnard Senior)
-- Ahmed Mahmud (DSI Scholar)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
@@ -37,6 +37,7 @@
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Xuer Liu (Master's Student. Next: TBC)
+- Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
