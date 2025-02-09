@@ -57,6 +57,8 @@
 ## Publications
 ### 2025
 
+- Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2025). [Disruption to test scores after hurricanes in the United States](https://www.researchgate.net/publication/388766952_Disruption_to_test_scores_after_hurricanes_in_the_United_States) <b>Environmental Research: Health</b>
+
 - Shea B, Meltzer GY, Steiger BB, <b>Parks RM</b>, Do V, McBrien H, Flores N, Gordon M, Blake EM, JA Casey. (2025). [Co-occurring Climate Events and Environmental Justice in California, 2018-2019](https://iopscience.iop.org/article/10.1088/2752-5309/ada97a) <b>Environmental Research: Health</b>
 
 - Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2025). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b>
@@ -696,7 +698,7 @@ Photos below by April Renae.
 
 ## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
 
-## <a href='https://twitter.com/robbiemparks' target="_blank">Twitter</a>
+## <a href='https://bsky.app/profile/robbieparks.bsky.social' target="_blank">Bluesky</a>
 
 ## <a href='https://www.linkedin.com/in/robbiemparks/' target="_blank">LinkedIn</a>
 
