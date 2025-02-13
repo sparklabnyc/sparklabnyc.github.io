@@ -625,6 +625,48 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
+## P8301: Atmospheric and Climate Science for Public Health
+
+### Course description
+
+This course introduces the fundamental physical principles that govern the behavior of the earth's atmosphere and climate. 
+
+Topics to be studied include the general circulation of the atmosphere, motions on a rotating sphere, atmospheric thermodynamics, radiative transfer, the basic chemistry and physics of air pollution, the hydrologic cycle, climate dynamics and synoptic weather. 
+
+The effects of these systems on public health, including mental health, rates of exercise, infectious disease, allergens and asthma, heat morbidity and mortality, will be explored throughout the course.
+
+### Course learning objectives
+
+By the time you complete this course, you should be able to:
+
+Explain the dynamics, thermodynamics and radiative processes governing the atmosphere.
+
+Analyze the climate as a system of interconnected reservoirs (atmosphere, hydrosphere, cryosphere, geosphere), in which mass and energy flow from one part to another through dynamic processes that operate on a range of scales.
+
+Synthesize how climate and weather can and do affect human health, as well as recognize the scales at which these impacts, and interactions, occur.
+
+Apply concepts from reading and lecture to solving problems, demonstrating quantitative reasoning and skills. Students will develop the ability to read and understand research articles in the atmospheric and climate science literature.
+
+Analyze meteorological and climate data, interpret climate and weather forecasts, and evaluate models and their simulations.
+
+### Shareable feedback from 2024 edition
+
+"The lectures and course content and very interesting. The professor does a thorough job at explaining complicated concepts."
+
+"Very different than the rest of the classes I've taken in the MPH program in terms of content. Although I wasn't very good at this course it was extremely interesting and I would love to learn more about the subject and its applications."
+
+"The course was really interesting and covered a lot of material. I learned a lot and Robbie was very committed to imparting his extensive knowledge on the material. The homeworks and quizzes helped to solidify the important topics to understand, which was necessary because of the high volume of material we covered. Robbie was always open to questions and always wanted to make sure we really understood the key concepts."
+
+"The instructor put in a lot of effort and time to make sure we understood. he explained things multiple times which really helped. it was a collaborative classroom where there were no dumb questions and learning was really encouraged. I learned a lot in this class."
+
+"The concepts were explained clearly and understandable for someone with little background on the subject. The homework was a good way to apply and better learn the concepts."
+
+"Robbie is a fantastic teacher that really helps to make the underlying physics behind the course material easily digestable."
+
+"We learned really interesting information about how the world works, important context for the history of the Earth's climate, and the essential details of some really complicated physics and processes. I walked away from the class with good background knowledge to do what I would like to do in climate science. Although we obviously weren't able to cover everything, I feel like I know essential concepts, and I know more about what I don't know."
+
+"[The TA] was very responsive and it seems like she worked very hard to get this course up and running with Robbie. Everything was posted and graded in a timely manner."
+
 ## SHARP Bayesian Modeling for Environmental Health Workshop
 
 ### Overview
