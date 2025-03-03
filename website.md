@@ -155,11 +155,18 @@
 - <b>Parks RM</b> (2016). [Weather, climate and health](https://doi.org/10.1002/wea.2752), <b>Weather</b>
 
 ## Press coverage
+### 2025
+
+<b>Large floods drive changes in cause-specific mortality in the United States</b>
+
+- <a href=https://factor.niehs.nih.gov/2025/2/science-highlights/flooding-health-effects target="_blank">'Hidden effects of floods' linked to higher death rates</a>, <b>NIEHS Environmental Factor</b>, February/March 2025<br>
+- <a href=https://factor.niehs.nih.gov/2025/2/papers/dert?utm_medium=email&utm_source=govdelivery#a6 target="_blank">NIEHS papers of the month</a>, February/March 2025<br>
+
 ### 2024
 
 <b>Hurricane season 2024</b>
 
-- <a href=https://www.nationalgeographic.com/environment/article/hurricane-storms-death-toll-counts target="_blank">Hurricane Helene’s death toll could miss thousands of related deaths</a>, <b>National Geographic</b>, October 2024<br>
+- <a href=https://www.nationalgeographic.com/environment/article/hurricane-storms-death-toll-counts target="_blank">Hurricane Helene's death toll could miss thousands of related deaths</a>, <b>National Geographic</b>, October 2024<br>
 - <a href=https://www.nytimes.com/2024/10/02/business/economy/hurricane-helene-deaths-climate.html target="_blank">Hurricane Helene Deaths Will Continue for Years, Study Suggests</a>, <b>The New York Times</b>, October 2024<br>
 
 <b>HEATE</b>
