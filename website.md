@@ -10,6 +10,7 @@
 
 - [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
 
+- Heather McBrien (PhD Candidate)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
 
 - Fintan Mooney (PhD Student)
