@@ -58,6 +58,8 @@
 ## Publications
 ### 2025
 
+- Park RY, Bilinski A, <b>Parks RM</b>, Flaxman S. (2025). [Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2833316) <b>JAMA Pediatrics</b>
+
 - Meltzer GY, Anderson GB, Xie X, Casey JA, Schwartz J, Bell ML, Ornelas Van Horne Y, Fox J, Kioumourtzoglou MA, <b>Parks RM</b>. (2025). [Disruption to test scores after hurricanes in the United States](https://www.researchgate.net/publication/388766952_Disruption_to_test_scores_after_hurricanes_in_the_United_States) <b>Environmental Research: Health</b>
 
 - Shea B, Meltzer GY, Steiger BB, <b>Parks RM</b>, Do V, McBrien H, Flores N, Gordon M, Blake EM, JA Casey. (2025). [Co-occurring Climate Events and Environmental Justice in California, 2018-2019](https://iopscience.iop.org/article/10.1088/2752-5309/ada97a) <b>Environmental Research: Health</b>
