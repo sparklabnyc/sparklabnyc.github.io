@@ -2,6 +2,7 @@
 
 ## The Team
 ### Current lab associates
+- Felipe L. Antequera (Post-doctoral Fellow)
 - Wil Lieberman-Cribbin (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
