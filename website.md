@@ -2,10 +2,8 @@
 
 ## The Team
 ### Current lab associates
-- Gali Cohen (Post-doctoral Fellow)
 - Wil Lieberman-Cribbin (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
-- Gabriella Meltzer (Post-doctoral Fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
 
 - [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
@@ -24,6 +22,7 @@
 - Maren Hale (Research Co-ordinator)
 
 - Alexandra Carlin (Master's Student)
+- Jiayi Ge (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Jordyn B. Pykon (Master's Student) 
 - Naomi Simon-Kumar (Master's Student)
@@ -36,9 +35,11 @@
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
+- Gali Cohen (Post-doctoral Fellow. Next: TBC))
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Xuer Liu (Master's Student. Next: TBC)
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
+- Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
