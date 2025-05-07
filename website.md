@@ -30,6 +30,7 @@
 - Jenna Nicole Swartz (Master's Student) 
 - Iris Yang (Master's Student)
 
+- Gabriela Imbert (Barnard Senior)
 - Hannah Sanghvi (Barnard Senior)
 
 ### Previous lab associates
