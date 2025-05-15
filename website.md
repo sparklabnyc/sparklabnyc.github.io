@@ -16,18 +16,16 @@
 - Allison L. Stewart Ruano (PhD Student)
 
 - Lincole Jiang (Research Assistant)
+- Jenna Nicole Swartz (Research Assistant)
 
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
 - Lisa Yamasaki (Medical Doctor)
 
 - Maren Hale (Research Co-ordinator)
 
-- Alexandra Carlin (Master's Student)
 - Jiayi Ge (Master's Student)
 - Yuanyu Lu (Master's Student)
-- Jordyn B. Pykon (Master's Student) 
 - Naomi Simon-Kumar (Master's Student)
-- Jenna Nicole Swartz (Master's Student) 
 - Iris Yang (Master's Student)
 
 - Gabriela Imbert (Barnard Senior)
@@ -36,6 +34,7 @@
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
+- Alexandra Carlin (Master's Student. Next: Finishing Master's)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: TBC))
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
@@ -43,6 +42,7 @@
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
+- Jordyn B. Pykon (Master's Student. Next: TBC)) 
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
