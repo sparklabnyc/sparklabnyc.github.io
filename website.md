@@ -61,6 +61,8 @@
 ## Publications
 ### 2025
 
+- Stewart-Ruano A, Spriggs R, Lawrance EL, Massazza A, Czerniewska A, Reale AS, Shumake-Guillemot J, Keyes KM, Ornelas Van Horne Y, <b>Parks RM</b>. (2025). [A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide](https://link.springer.com/article/10.1007/s40572-025-00486-7) <b>Current Environmental Health Reports</b>
+
 - Park RY, Bilinski A, <b>Parks RM</b>, Flaxman S. (2025). [Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2833316) <b>JAMA Pediatrics</b>
 
 - Meltzer GY, Anderson GB, Xie X, Casey JA, Schwartz J, Bell ML, Ornelas Van Horne Y, Fox J, Kioumourtzoglou MA, <b>Parks RM</b>. (2025). [Disruption to test scores after hurricanes in the United States](https://www.researchgate.net/publication/388766952_Disruption_to_test_scores_after_hurricanes_in_the_United_States) <b>Environmental Research: Health</b>
