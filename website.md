@@ -36,13 +36,13 @@
 - Alexis Bell (High School Student. Next: Finish High School!)
 - Alexandra Carlin (Master's Student. Next: Finishing Master's)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
-- Gali Cohen (Post-doctoral Fellow. Next: TBC))
+- Gali Cohen (Post-doctoral Fellow. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Xuer Liu (Master's Student. Next: TBC)
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
-- Jordyn B. Pykon (Master's Student. Next: TBC)) 
+- Jordyn B. Pykon (Master's Student. Next: TBC)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
@@ -165,6 +165,14 @@
 ## Press coverage
 ### 2025
 
+<b>A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide</b>
+
+- <a href=https://www.publichealth.columbia.edu/news/heat-health-plans-overlook-mental-health-risks target="_blank">Heat-Health Plans Overlook Mental Health Risks</a>, <b>Columbia Mailman School of Public Health</b>, May 2025<br>
+
+<b>Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023</b>
+
+- <a href=https://www.bostonglobe.com/2025/04/29/metro/maternal-deaths-double-us-covid-pandemic-brown-university-study/ target="_blank">Maternal deaths doubled in the US during the height of COVID, new Brown University study finds</a>, <b>The Boston Globe</b>, April 2025<br>
+
 <b>Large floods drive changes in cause-specific mortality in the United States</b>
 
 - <a href=https://factor.niehs.nih.gov/2025/2/science-highlights/flooding-health-effects target="_blank">'Hidden effects of floods' linked to higher death rates</a>, <b>NIEHS Environmental Factor</b>, February/March 2025<br>
@@ -186,6 +194,7 @@
 - <a href=https://www.nbcnewyork.com/paris-2024-summer-olympics/paris-olympics-is-bracing-for-a-heat-wave-following-a-soggy-start/5648018/ target="_blank">Paris Olympics is bracing for a heat wave following a soggy start (Tory Lynch TV interview)</a>, <b>NBC New York</b>, August 2024<br>
 
 <b>e.coli outbreak</b>
+
 - <a href=https://abc.com/episode/07387aca-bd18-4f0f-8c09-aeeb28ba3872/playlist/PL553044961 target="_blank">Teen recalls E. coli kidney failure horror after lake weekend (Tory Lynch TV interview)</a>, <b>ABC</b>, August 2024<br>
 
 <b>Reddit r/heat_prep channel</b>
