@@ -403,6 +403,10 @@ Watch this space many more reports to be added here soon
 
 ## G-TROPIC
 
+### Register interest in joing G-TROPIC
+
+<a href='mailto:robbie.parks@columbia.edu?subject=Interested%20in%20joining%20G-TROPIC%20network' target="_blank">Register your interest in joining G-TROPIC with subject line 'G-TROPIC'</a>
+
 ### Summary
 
 Building a worldwide tropical cyclone resilience network in a changing climate.
