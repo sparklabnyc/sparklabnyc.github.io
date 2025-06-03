@@ -167,6 +167,7 @@
 
 <b>A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide</b>
 
+- <a href=https://www.scientificamerican.com/article/the-world-isnt-ready-for-the-mental-health-toll-of-extreme-heat/ target="_blank">The World Isn’t Ready for the Mental Health Toll of Extreme Heat</a>, <b>Scientific American</b>, June 2025<br>
 - <a href=https://www.publichealth.columbia.edu/news/heat-health-plans-overlook-mental-health-risks target="_blank">Heat-Health Plans Overlook Mental Health Risks</a>, <b>Columbia Mailman School of Public Health</b>, May 2025<br>
 
 <b>Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023</b>
