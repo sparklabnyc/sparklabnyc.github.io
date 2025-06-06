@@ -11,9 +11,9 @@
 
 - Heather McBrien (PhD Candidate)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
+- Allison L. Stewart Ruano (PhD Candidate)
 
 - Fintan Mooney (PhD Student)
-- Allison L. Stewart Ruano (PhD Student)
 
 - Lincole Jiang (Research Assistant)
 - Jenna Nicole Swartz (Research Assistant)
