@@ -61,21 +61,21 @@
 ## Publications
 ### 2025
 
-- Stewart-Ruano A, Spriggs R, Lawrance EL, Massazza A, Czerniewska A, Reale AS, Shumake-Guillemot J, Keyes KM, Ornelas Van Horne Y, <b>Parks RM</b>. (2025). [A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide](https://link.springer.com/article/10.1007/s40572-025-00486-7) <b>Current Environmental Health Reports</b>
+- Stewart-Ruano A, Spriggs R, Lawrance EL, Massazza A, Czerniewska A, Reale AS, Shumake-Guillemot J, Keyes KM, Ornelas Van Horne Y, <b>Parks RM</b>. (2025). [A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide](https://link.springer.com/article/10.1007/s40572-025-00486-7) <b>Current Environmental Health Reports</b> 
 
-- Park RY, Bilinski A, <b>Parks RM</b>, Flaxman S. (2025). [Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2833316) <b>JAMA Pediatrics</b>
+- Park RY, Bilinski A, <b>Parks RM</b>, Flaxman S. (2025). [Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2833316) <b>JAMA Pediatrics</b> [(code)](https://github.com/MLGlobalHealth/MCHTrends)
 
-- Meltzer GY, Anderson GB, Xie X, Casey JA, Schwartz J, Bell ML, Ornelas Van Horne Y, Fox J, Kioumourtzoglou MA, <b>Parks RM</b>. (2025). [Disruption to test scores after hurricanes in the United States](https://www.researchgate.net/publication/388766952_Disruption_to_test_scores_after_hurricanes_in_the_United_States) <b>Environmental Research: Health</b>
+- Meltzer GY, Anderson GB, Xie X, Casey JA, Schwartz J, Bell ML, Ornelas Van Horne Y, Fox J, Kioumourtzoglou MA, <b>Parks RM</b>. (2025). [Disruption to test scores after hurricanes in the United States](https://www.researchgate.net/publication/388766952_Disruption_to_test_scores_after_hurricanes_in_the_United_States) <b>Environmental Research: Health</b> [(code)](https://github.com/sparklabnyc/tropical_cyclones_educational_attainment_2022)
 
-- Shea B, Meltzer GY, Steiger BB, <b>Parks RM</b>, Do V, McBrien H, Flores N, Gordon M, Blake EM, JA Casey. (2025). [Co-occurring Climate Events and Environmental Justice in California, 2018-2019](https://iopscience.iop.org/article/10.1088/2752-5309/ada97a) <b>Environmental Research: Health</b>
+- Shea B, Meltzer GY, Steiger BB, <b>Parks RM</b>, Do V, McBrien H, Flores N, Gordon M, Blake EM, JA Casey. (2025). [Co-occurring Climate Events and Environmental Justice in California, 2018-2019](https://iopscience.iop.org/article/10.1088/2752-5309/ada97a) <b>Environmental Research: Health</b> 
 
-- Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2025). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b>
+- Lynch VD, Sullivan JA, Flores AB, Xie X, Aggarwal S, Nethery RC, Kioumourtzoglou MA, Nigra AE, <b>Parks RM</b>. (2025). [Large floods drive changes in cause-specific mortality in the United States](https://www.nature.com/articles/s41591-024-03358-z) <b>Nature Medicine</b> [(code)](https://github.com/sparklabnyc/usa_floods_mortality_2024)
 
 ### 2024
 
 - Do V, <b>Parks RM</b>, Casey JA,  Goin DE, Kioumourtzoglou MA. (2024). [Use, limitations, and future directions of mixtures approaches to understand the health impacts of weather- and climate change-related exposures, an under-studied aspect of the exposome](https://academic.oup.com/exposome/advance-article/doi/10.1093/exposome/osae007/7824058) <b>Exposome</b>
 
-- Ziska LH, <b>Parks RM</b>. (2024). [Recent and projected changes in global climate may increase nicotine absorption and the risk of green tobacco sickness](https://www.nature.com/articles/s43856-024-00584-x) <b>Communications Medicine</b>
+- Ziska LH, <b>Parks RM</b>. (2024). [Recent and projected changes in global climate may increase nicotine absorption and the risk of green tobacco sickness](https://www.nature.com/articles/s43856-024-00584-x) <b>Communications Medicine</b> [(code)](https://github.com/sparklabnyc/green_tobacco_sickness_climate_change_worldwide_2024)
 
 - Cohen G, Rowland ST, Benavides J, Lindert J, Kioumourtzoglou MA, <b>Parks RM</b>. (2024). [Daily temperature variability and mental health-related hospital visits in New York State](https://www.sciencedirect.com/science/article/abs/pii/S0013935124011435) <b>Environmental Research</b>
 
@@ -87,7 +87,7 @@
 
 - Singh A, Ezzine T, Guinto RR, Gepp S, <b>Parks RM</b>, Thondoo M, Patil P, van Daalen KR. (2024). [Reflections from COP28: Resisting healthwashing in climate change negotiations](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003076) <b>PLOS Global Public Health</b>
 
-- Tuholske C, Lynch VD, Spriggs R, Ahn Y, Raymond C, Nigra AE, <b>Parks RM</b>. (2024). [Hazardous heat exposure among incarcerated people in the United States](https://www.nature.com/articles/s41893-024-01293-y) <b>Nature Sustainability</b>
+- Tuholske C, Lynch VD, Spriggs R, Ahn Y, Raymond C, Nigra AE, <b>Parks RM</b>. (2024). [Hazardous heat exposure among incarcerated people in the United States](https://www.nature.com/articles/s41893-024-01293-y) <b>Nature Sustainability</b> [(code)](https://github.com/sparklabnyc/temperature_prisons_united_states_2024)
 
 - Lynch VD, <b>Parks RM</b>. (2024). [Incarcerated people in the United States face deadly and growing heat exposure risk](https://www.nature.com/articles/s41893-024-01312-y) <b>Nature Sustainability</b> (accompanying Research Briefing to paper above)
 
