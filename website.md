@@ -176,6 +176,7 @@
 
 <b>Large floods drive changes in cause-specific mortality in the United States</b>
 
+- <a href=https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences/who-we-are/andrea-baccarelli-best-paper-award target="_blank">Andrea Baccarelli paper of the year</a>, June 2025<br>
 - <a href=https://factor.niehs.nih.gov/2025/2/science-highlights/flooding-health-effects target="_blank">'Hidden effects of floods' linked to higher death rates</a>, <b>NIEHS Environmental Factor</b>, February/March 2025<br>
 - <a href=https://factor.niehs.nih.gov/2025/2/papers/dert?utm_medium=email&utm_source=govdelivery#a6 target="_blank">NIEHS papers of the month</a>, February/March 2025<br>
 
