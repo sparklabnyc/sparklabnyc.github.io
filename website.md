@@ -24,7 +24,6 @@
 - Maren Hale (Research Co-ordinator)
 
 - Jiayi Ge (Master's Student)
-- Yuanyu Lu (Master's Student)
 - Naomi Simon-Kumar (Master's Student)
 - Iris Yang (Master's Student)
 
@@ -39,6 +38,7 @@
 - Gali Cohen (Post-doctoral Fellow. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Xuer Liu (Master's Student. Next: TBC)
+- Yuanyu Lu (Master's Student. Next: Clinical Research Biostatistician at Beijing Tiantan Hospital/China National Clinical Research Center for Neurological Diseases)
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
