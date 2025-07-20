@@ -3,7 +3,6 @@
 ## The Team
 ### Current lab associates
 - Felipe L. Antequera (Post-doctoral Fellow)
-- Wil Lieberman-Cribbin (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
 
@@ -40,6 +39,7 @@
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
+- Wil Lieberman-Cribbin (Post-doctoral Fellow. Next: Assistant Professor at Northwell Health)
 - Xuer Liu (Master's Student. Next: TBC)
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
