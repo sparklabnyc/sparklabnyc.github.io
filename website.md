@@ -65,6 +65,8 @@
 
 - <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
+- <b>Aggarwal S</b>, Hu JK, Sullivan JA, <b>Parks RM</b>, Nethery RC. (In Press). [TBD]() <b>TBD</b> [(code)]()
+
 - Stewart-Ruano A, Spriggs R, Lawrance EL, Massazza A, Czerniewska A, Reale AS, Shumake-Guillemot J, Keyes KM, Ornelas Van Horne Y, <b>Parks RM</b>. (2025). [A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide](https://link.springer.com/article/10.1007/s40572-025-00486-7) <b>Current Environmental Health Reports</b> [(code)](https://github.com/sparklabnyc/global_heat_plans_mental_health_2025)
 
 - Park RY, Bilinski A, <b>Parks RM</b>, Flaxman S. (2025). [Trends in Maternal, Fetal, and Infant Mortality in the US, 2000-2023](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2833316) <b>JAMA Pediatrics</b> [(code)](https://github.com/MLGlobalHealth/MCHTrends)
