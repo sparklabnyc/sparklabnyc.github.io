@@ -2,6 +2,9 @@
 
 ## The Team
 ### Current lab associates
+
+- Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
+
 - Felipe L. Antequera (Post-doctoral Fellow)
 - Victoria D. Lynch (Post-doctoral Fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
