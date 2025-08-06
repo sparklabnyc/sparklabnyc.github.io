@@ -507,6 +507,12 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 <img src="../media/lab_outings/2025/salvador_ayala_july_2025/salvador_ayala_july_2025 1.jpeg" width="100%">
 
+<b>Accra, Ghana workshop, July 2025</b>
+
+<img src="../media/lab_outings/2025/ghana_visit_july_2025/ghana_visit_july_2025 1.jpeg" width="100%">
+
+<img src="../media/lab_outings/2025/ghana_visit_july_2025/ghana_visit_july_2025 2.jpeg" width="100%">
+
 ### 2024
 
 <b>P8301 Atmospheric and Climate Science for Public Health end of course group photo, December 2024</b>
