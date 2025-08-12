@@ -34,6 +34,7 @@
 - Hannah Sanghvi (Barnard Senior)
 
 - Jackson Chen (High school intern)
+- Ayush Panchal (High school intern)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
