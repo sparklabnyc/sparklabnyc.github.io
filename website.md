@@ -5,33 +5,34 @@
 
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
 
-- Felipe L. Antequera (Post-doctoral Fellow)
-- Victoria D. Lynch (Post-doctoral Fellow)
-- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
+- Felipe L. Antequera (Post-doctoral fellow)
+- Victoria D. Lynch (Post-doctoral fellow)
+- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
 
-- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
+- [Theo Rashid](https://theorashid.github.io) (Research software engineer)
 
-- Heather McBrien (PhD Candidate)
-- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
-- Allison L. Stewart Ruano (PhD Candidate)
+- Heather McBrien (PhD candidate)
+- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate)
+- Allison L. Stewart Ruano (PhD candidate)
 
-- Fintan Mooney (PhD Student)
+- Carlos Carrillo-Gallegos (PhD student)
+- Fintan Mooney (PhD student)
 
-- Lincole Jiang (Research Assistant)
-- Jenna Nicole Swartz (Research Assistant)
+- Lincole Jiang (Research assistant)
+- Jenna Nicole Swartz (Research assistant)
 
-- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
-- Lisa Yamasaki (Medical Doctor)
+- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student)
+- Lisa Yamasaki (Medical doctor)
 
-- Maren Hale (Research Co-ordinator)
+- Maren Hale (Research co-ordinator)
 
-- Jiayi Ge (Master's Student)
-- Yuanyu Lu (Master's Student)
-- Naomi Simon-Kumar (Master's Student)
-- Iris Yang (Master's Student)
+- Jiayi Ge (Master's student)
+- Yuanyu Lu (Master's student)
+- Naomi Simon-Kumar (Master's student)
+- Iris Yang (Master's student)
 
-- Gabriela Imbert (Barnard Senior)
-- Hannah Sanghvi (Barnard Senior)
+- Gabriela Imbert (Barnard senior)
+- Hannah Sanghvi (Barnard senior)
 
 - Jackson Chen (High school intern)
 - Ayush Panchal (High school intern)
@@ -502,6 +503,14 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2025
 
+<b>ISEE Atlanta USA, August 2025</b>
+
+<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025.jpeg" width="100%">
+
+<b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2025</b>
+
+<img src="../media/lab_outings/2025/sharp_bayesian_august_2025/sharp_bayesian_august_2025.jpeg" width="100%">
+
 <b>Dr. Salvador Andres Ayala visit, July 2025</b>
 
 <img src="../media/lab_outings/2025/salvador_ayala_july_2025/salvador_ayala_july_2025 2.jpeg" width="100%">
@@ -513,6 +522,10 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 <img src="../media/lab_outings/2025/ghana_visit_july_2025/ghana_visit_july_2025 1.jpeg" width="100%">
 
 <img src="../media/lab_outings/2025/ghana_visit_july_2025/ghana_visit_july_2025 2.jpeg" width="100%">
+
+<b>Santiago, Chile visit, March 2025</b>
+
+<!-- <img src="../media/lab_outings/2025/santiago_chile_march_2025/santiago_chile_march_2025 1.jpeg" width="100%"> -->
 
 ### 2024
 
@@ -681,6 +694,8 @@ I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow
 I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
 ![headshot](../media/headshot/Robbie_Parks_2023_small.jpg)
+
+![headshot](../media/headshot/Robbie Parks defend science.jpeg)
 
 ## CV
 ### 
