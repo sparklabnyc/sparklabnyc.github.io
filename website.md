@@ -525,7 +525,7 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 <b>Santiago, Chile visit, March 2025</b>
 
-<!-- <img src="../media/lab_outings/2025/santiago_chile_march_2025/santiago_chile_march_2025 1.jpeg" width="100%"> -->
+<img src="../media/lab_outings/2025/santiago_chile_visit_march_2025/santiago_chile_visit_march_2025.jpeg" width="100%">
 
 ### 2024
 
