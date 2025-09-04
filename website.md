@@ -505,7 +505,9 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 <b>ISEE Atlanta USA, August 2025</b>
 
-<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025.jpeg" width="100%">
+<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025 1.jpeg" width="100%">
+
+<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025 2.jpeg" width="100%">
 
 <b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2025</b>
 
