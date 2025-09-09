@@ -27,12 +27,15 @@
 - Maren Hale (Research co-ordinator)
 
 - Jiayi Ge (Master's student)
+- Gabriela Imbert (Master's student)
 - Yuanyu Lu (Master's student)
 - Naomi Simon-Kumar (Master's student)
 - Iris Yang (Master's student)
 
-- Gabriela Imbert (Barnard senior)
-- Hannah Sanghvi (Barnard senior)
+- Morgan CD Jackson (Data Science Institute Capstone student)
+- Majd Abid (Data Science Institute Capstone student)
+- Jiujiu Zhou (Data Science Institute Capstone student)
+- Bala Manikandan (Data Science Institute Capstone student)
 
 - Jackson Chen (High school intern)
 - Ayush Panchal (High school intern)
@@ -50,6 +53,7 @@
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
 - Jordyn B. Pykon (Master's Student. Next: TBC)
+- Hannah Sanghvi (Barnard senior: Next: TBC)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
