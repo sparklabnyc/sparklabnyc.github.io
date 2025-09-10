@@ -23,7 +23,6 @@
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
 - Lisa Yamasaki (Medical Doctor)
 
-- Alexandra Carlin (Research Manager)
 - Maren Hale (Research Co-ordinator)
 
 - Jiayi Ge (Master's Student)
@@ -40,6 +39,7 @@
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
+- Alexandra Carlin (Master's Student. Next: Finishing Master's)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
