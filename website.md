@@ -15,6 +15,7 @@
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
 - Allison L. Stewart Ruano (PhD Candidate)
 
+- Carlos Carrillo-Gallegos (PhD Student)
 - Fintan Mooney (PhD Student)
 
 - Maren Hale (Research Assistant)
@@ -27,11 +28,16 @@
 - Alexandra Carlin (Research Manager)
 
 - Jiayi Ge (Master's Student)
+- Gabriela Imbert (Master's Student)
 - Yuanyu Lu (Master's Student)
 - Naomi Simon-Kumar (Master's Student)
 - Iris Yang (Master's Student)
 
-- Gabriela Imbert (Barnard Senior)
+- Majd Abid (DSI Capstone Student)
+- Morgan Jackson (DSI Capstone Student)
+- Bala Manikandan (DSI Capstone Student)
+- Jiujiu Zhou (DSI Capstone Student)
+
 - Hannah Sanghvi (Barnard Senior)
 
 - Jackson Chen (High school intern)
