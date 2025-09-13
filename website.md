@@ -1,44 +1,51 @@
 # SPARK Lab NYC
 
+## Opportunties to join SPARK Lab NYC
+### Open positions
+
+- [Postdoctoral Research Scientist](https://apply.interfolio.com/173634)
+
+### Previously filled positions
+
+- See also [team page](https://sparklabnyc.github.io/site/the_team.html) for previously filled positions 
+
 ## The Team
 ### Current lab associates
 
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
 
-- Felipe L. Antequera (Post-doctoral Fellow)
-- Victoria D. Lynch (Post-doctoral Fellow)
-- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral Fellow)
+- Felipe L. Antequera (Post-doctoral fellow)
+- Victoria D. Lynch (Post-doctoral fellow)
+- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
+- [Open position: Postdoctoral Research Scientist](https://apply.interfolio.com/173634)
 
-- [Theo Rashid](https://theorashid.github.io) (Research Software Engineer)
+- [Theo Rashid](https://theorashid.github.io) (Research software engineer)
 
-- Heather McBrien (PhD Candidate)
-- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD Candidate)
-- Allison L. Stewart Ruano (PhD Candidate)
+- Heather McBrien (PhD candidate)
+- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate)
+- Allison L. Stewart Ruano (PhD candidate)
 
-- Carlos Carrillo-Gallegos (PhD Student)
-- Fintan Mooney (PhD Student)
+- Carlos Carrillo-Gallegos (PhD student)
+- Fintan Mooney (PhD student)
 
-- Maren Hale (Research Assistant)
-- Lincole Jiang (Research Assistant)
-- Jenna Nicole Swartz (Research Assistant)
+- Lincole Jiang (Research assistant)
+- Jenna Nicole Swartz (Research assistant)
 
-- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical Student)
-- Lisa Yamasaki (Medical Doctor)
+- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student)
+- Lisa Yamasaki (Medical doctor)
 
-- Alexandra Carlin (Research Manager)
+- Maren Hale (Research co-ordinator)
 
-- Jiayi Ge (Master's Student)
-- Gabriela Imbert (Master's Student)
-- Yuanyu Lu (Master's Student)
-- Naomi Simon-Kumar (Master's Student)
-- Iris Yang (Master's Student)
+- Jiayi Ge (Master's student)
+- Gabriela Imbert (Master's student)
+- Yuanyu Lu (Master's student)
+- Naomi Simon-Kumar (Master's student)
+- Iris Yang (Master's student)
 
-- Majd Abid (DSI Capstone Student)
-- Morgan Jackson (DSI Capstone Student)
-- Bala Manikandan (DSI Capstone Student)
-- Jiujiu Zhou (DSI Capstone Student)
-
-- Hannah Sanghvi (Barnard Senior)
+- Morgan CD Jackson (Data Science Institute Capstone student)
+- Majd Abid (Data Science Institute Capstone student)
+- Jiujiu Zhou (Data Science Institute Capstone student)
+- Bala Manikandan (Data Science Institute Capstone student)
 
 - Jackson Chen (High school intern)
 - Ayush Panchal (High school intern)
@@ -46,6 +53,7 @@
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
+- Alexandra Carlin (Master's Student. Next: Finishing Master's)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: TBC)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
@@ -55,6 +63,7 @@
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
 - Jordyn B. Pykon (Master's Student. Next: TBC)
+- Hannah Sanghvi (Barnard senior: Next: TBC)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
@@ -508,6 +517,18 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 ### 2025
 
+<b>ISEE Atlanta USA, August 2025</b>
+
+<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025 1.jpeg" width="100%">
+
+<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025 2.jpeg" width="100%">
+
+<img src="../media/lab_outings/2025/isee_atlanta_august_2025/isee_atlanta_august_2025 3.jpeg" width="100%">
+
+<b>SHARP Bayesian Modeling for Environmental Health Workshop, August 2025</b>
+
+<img src="../media/lab_outings/2025/sharp_bayesian_august_2025/sharp_bayesian_august_2025.jpeg" width="100%">
+
 <b>Dr. Salvador Andres Ayala visit, July 2025</b>
 
 <img src="../media/lab_outings/2025/salvador_ayala_july_2025/salvador_ayala_july_2025 2.jpeg" width="100%">
@@ -519,6 +540,10 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 <img src="../media/lab_outings/2025/ghana_visit_july_2025/ghana_visit_july_2025 1.jpeg" width="100%">
 
 <img src="../media/lab_outings/2025/ghana_visit_july_2025/ghana_visit_july_2025 2.jpeg" width="100%">
+
+<b>Santiago, Chile visit, March 2025</b>
+
+<img src="../media/lab_outings/2025/santiago_chile_visit_march_2025/santiago_chile_visit_march_2025.jpeg" width="100%">
 
 ### 2024
 
@@ -687,6 +712,8 @@ I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow
 I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
 ![headshot](../media/headshot/Robbie_Parks_2023_small.jpg)
+
+![headshot](../media/headshot/Robbie Parks defend science.jpeg)
 
 ## CV
 ### 
