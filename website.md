@@ -711,7 +711,7 @@ I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow
 
 I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
-![headshot](../media/headshot/Robbie_Parks_2023_small.jpg)
+![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
 
 ![headshot](../media/headshot/Robbie Parks defend science.jpeg)
 
