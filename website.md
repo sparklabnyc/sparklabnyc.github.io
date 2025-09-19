@@ -486,7 +486,7 @@ Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/
 - Nathaniel Matthews-Trigg (Americares)
 - Joy Shumake-Guillemot (World Meteorological Organization)
 
-## HEATE
+<!-- ## HEATE
 
 ### Flyers
 
@@ -511,7 +511,7 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 <a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_bK6QFDxe5jB3CYu' target="_blank">Español</a>
 
-<a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_0evjBRWIBrI1deC' target="_blank">English</a>
+<a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_0evjBRWIBrI1deC' target="_blank">English</a> -->
 
 ## Lab activities
 
