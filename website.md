@@ -776,6 +776,25 @@ Official SHARP Bayesian Modeling for Environmental Health Workshop
 
 Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">GitHub link</a>.
 
+### Unfiltered shareable feedback from 2025 edition
+
+"Overall it was a very solid workshop, and I feel much more confident about transitioning to a bayesian workflow and attempting to answer complex environmental questions. The instructing team did a very good job of explaining complex concepts in simple digestible ways."
+
+"Challenging material, with expert instructors who seemed to know the field extremely well. I'm still a frequentist but now more open to Bayesian approaches."
+
+"The Bayesian Modeling Workshop is a very good introductions for spatio-temporal modelling in Public Health. Begin with de principal fundaments in bayesian statistics and to finish with the most recent models. I recommend this course for any person interest to learn about statistical methods with spatial and temporal data. 
+Brilliant instructors and systematic approach to a crash course in fairly complex models. Well illustrated with reproducible examples."
+
+"This was a great course with wonderful instructors‚ true professionals who are not only highly knowledgeable but also excellent teachers. The course was very well-structured, covering a wide range of material, starting from the basics and progressing to more complex cases. It was a valuable experience from which I learned a great deal."
+
+"The workshop substantially improved my understanding of using bayesian models for environmental health in just two days given the real-world applicability of the workshop materials. The instructing team were very passionate and knowledgable about the material."
+
+"Overall, the workshop was good, and the instructing team was very experienced. The only limitation was the short time available to absorb such a large amount of information during the two-day training."
+
+### Photos of previous 2025 edition
+
+<img src="../media/lab_outings/2025/sharp_bayesian_august_2025/sharp_bayesian_august_2025.jpeg" width="100%">
+
 ### Unfiltered shareable feedback from 2024 edition
 
 "Well-paced, clearly-explained lectures by instructors."
