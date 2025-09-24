@@ -42,6 +42,8 @@
 - Naomi Simon-Kumar (Master's student)
 - Iris Yang (Master's student)
 
+- Marcelo Jauregui-Volpe (Podcast producer)
+
 - Morgan CD Jackson (Data Science Institute Capstone student)
 - Majd Abid (Data Science Institute Capstone student)
 - Jiujiu Zhou (Data Science Institute Capstone student)
