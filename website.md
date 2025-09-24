@@ -776,7 +776,9 @@ The Bayesian Modeling for Environmental Health Workshop is a two-day intensive c
 Official SHARP Bayesian Modeling for Environmental Health Workshop
 <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">website link</a>.
 
-Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">GitHub link</a>.
+Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2025' target="_blank">2025 GitHub link</a>.
+Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">2024 GitHub link</a>.
+Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2023' target="_blank">2023 GitHub link</a>.
 
 ### Unfiltered shareable feedback from 2025 edition
 
