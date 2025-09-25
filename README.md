@@ -4,7 +4,7 @@
 
 Art by Amy Wolfe.
 
-Website for my academic group.
+Website for SPARK Lab NYC academic group.
 
 Site generated using [Mizi](https://github.com/abstractxan/Mizi). Inspired by [hundredrabbits/100r.co](100r.co).
 
