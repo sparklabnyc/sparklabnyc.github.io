@@ -84,6 +84,8 @@
 
 ## Publications
 
+### Summary
+
 44 peer-reviewed papers, including 21 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New
 Scientist, CNN.
 
