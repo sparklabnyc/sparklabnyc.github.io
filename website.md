@@ -41,6 +41,7 @@
 - Yuanyu Lu (Master's student)
 - Naomi Simon-Kumar (Master's student)
 - Iris Yang (Master's student)
+- Yifei Yu (Master's student)
 
 - Marcelo Jauregui-Volpe (Podcast producer)
 
@@ -86,7 +87,9 @@
 
 - <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
-- <b>Aggarwal S</b>, Hu JK, Sullivan JA, <b>Parks RM</b>, Nethery RC. (2025). [Severe flooding and cause-specific hospitalisation among older adults in the USA: a retrospective matched cohort analysis](https://www.sciencedirect.com/science/article/pii/S2542519625001329) <b>Lancet Planetary Health</b> [(code)](https://github.com/NSAPH-Projects/floods-hospitalizations-glm)
+- Yao Q, Lynch VD, Liu M, Wu X, <b>Parks RM</b>, Pei S. (2025). [Adaptive mobility responses during Hurricanes Helene and Milton in 2024](https://iopscience.iop.org/article/10.1088/1748-9326/ae0e39) <b>Environmental Research Letters</b>
+
+- Aggarwal S, Hu JK, Sullivan JA, <b>Parks RM</b>, Nethery RC. (2025). [Severe flooding and cause-specific hospitalisation among older adults in the USA: a retrospective matched cohort analysis](https://www.sciencedirect.com/science/article/pii/S2542519625001329) <b>Lancet Planetary Health</b> [(code)](https://github.com/NSAPH-Projects/floods-hospitalizations-glm)
 
 - Stewart-Ruano A, Spriggs R, Lawrance EL, Massazza A, Czerniewska A, Reale AS, Shumake-Guillemot J, Keyes KM, Ornelas Van Horne Y, <b>Parks RM</b>. (2025). [A Critical Gap in Addressing Mental Health in Heat-Health Action Plans Worldwide](https://link.springer.com/article/10.1007/s40572-025-00486-7) <b>Current Environmental Health Reports</b> [(code)](https://github.com/sparklabnyc/global_heat_plans_mental_health_2025)
 
