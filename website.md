@@ -12,6 +12,8 @@
 ## The Team
 ### Current lab associates
 
+- Alexandra Carlin (Research manager)
+
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
 
 - Felipe L. Antequera (Post-doctoral fellow)
@@ -36,11 +38,7 @@
 
 - Maren Hale (Research co-ordinator)
 
-- Jiayi Ge (Master's student)
 - Gabriela Imbert (Master's student)
-- Yuanyu Lu (Master's student)
-- Naomi Simon-Kumar (Master's student)
-- Iris Yang (Master's student)
 
 - Marcelo Jauregui-Volpe (Podcast producer)
 
@@ -55,24 +53,28 @@
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Finish High School!)
-- Alexandra Carlin (Master's Student. Next: Finishing Master's)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: TBC)
+- Jiayi Ge (Master's student. Next: Finishing Master's)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Wil Lieberman-Cribbin (Post-doctoral Fellow. Next: Assistant Professor at Northwell Health)
 - Xuer Liu (Master's Student. Next: TBC)
+- Yuanyu Lu (Master's student. Next: TBC) 
+
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
 - Jordyn B. Pykon (Master's Student. Next: TBC)
-- Hannah Sanghvi (Barnard senior: Next: TBC)
+- Hannah Sanghvi (Barnard senior. Next: TBC)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
+- Naomi Simon-Kumar (Master's student. Next: TBC)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
 - Deepshika Verma (Master's Student. Next: Finishing Master's)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
 - Daisy Yan (Graduate Research Assistant. Next: UCSF)
+- Iris Yang (Master's student. Next: TBC)
 - Carina Yiu (Master's Student. Next: Finishing Master's)
 - Hingling Angel Yu (Master's Student. Next: TBC)
 - Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
