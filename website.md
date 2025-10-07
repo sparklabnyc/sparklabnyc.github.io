@@ -12,9 +12,9 @@
 ## The Team
 ### Current lab associates
 
-- Alexandra Carlin (Research manager)
-
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
+
+- Alexandra Carlin (Research manager)
 
 - Felipe L. Antequera (Post-doctoral fellow)
 - Victoria D. Lynch (Post-doctoral fellow)
