@@ -711,15 +711,15 @@ It also happens to be an anagram of my last name :).
 
 ## About me
 ### 
-I am an environmental epidemiologist and physicist who has diverse experience in large-scale multi-disciplinary quantitative research focused on climate change, public health and equity.
+I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
 
-I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). 
+I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month.
 
-I teach the graduate course Atmospheric and Climate Science for Public Health at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). I supervise several post-doctoral fellows, PhD students, and Master’s students.
+I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
 
-I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://www.publichealth.columbia.edu/profile/marianthi-anna-kioumourtzoglou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
+I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://vivo.brown.edu/display/mkioumou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
 
-I am proudly both a first-gen academic and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
+I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
 ![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
 
@@ -772,6 +772,16 @@ Analyze meteorological and climate data, interpret climate and weather forecasts
 "We learned really interesting information about how the world works, important context for the history of the Earth's climate, and the essential details of some really complicated physics and processes. I walked away from the class with good background knowledge to do what I would like to do in climate science. Although we obviously weren't able to cover everything, I feel like I know essential concepts, and I know more about what I don't know."
 
 "[The TA] was very responsive and it seems like she worked very hard to get this course up and running with Robbie. Everything was posted and graded in a timely manner."
+
+## P8332: Advanced Analytic Methods in Environmental Health Sciences 
+
+### Course description
+
+Watch this space for updates...
+
+### Course learning objectives
+
+Watch this space for updates...
 
 ## SHARP Bayesian Modeling for Environmental Health Workshop
 
