@@ -707,29 +707,7 @@ Scan the QR codes in the posters above (Spanish or English) (or use the links be
 
 It also happens to be an anagram of my last name :).
 
-# Robbie M. Parks, PhD
-
-## About me
-### 
-I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
-
-I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month.
-
-I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
-
-I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://vivo.brown.edu/display/mkioumou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
-
-I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
-
-![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
-
-![headshot](../media/headshot/Robbie Parks defend science.jpeg)
-
-## CV
-### 
-Download up to date version via [Overleaf project page](https://www.overleaf.com/read/bhsmjnfqjmrr#a048f6) (via buttons to the right of green ‘Recompile’ button).
-
-## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
+# Teaching 
 
 ## P8301: Atmospheric and Climate Science for Public Health
 
@@ -874,6 +852,30 @@ Photos below by April Renae.
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-68.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-73.jpg" width="49%"> 
 
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-80.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-81.jpg" width="49%">
+
+# Robbie M. Parks, PhD
+
+## About me
+### 
+I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
+
+I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month.
+
+I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
+
+I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://vivo.brown.edu/display/mkioumou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
+
+I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
+
+![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
+
+![headshot](../media/headshot/Robbie Parks defend science.jpeg)
+
+## CV
+### 
+Download up to date version via [Overleaf project page](https://www.overleaf.com/read/bhsmjnfqjmrr#a048f6) (via buttons to the right of green ‘Recompile’ button).
+
+## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
 ## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
 
