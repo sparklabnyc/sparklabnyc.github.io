@@ -200,6 +200,10 @@
 ## Press coverage
 ### 2025
 
+<b>Data-driven collaboration on extreme heat and incarcerated people with The Washington Post</b>
+
+- <a href=https://www.washingtonpost.com/climate-environment/interactive/2025/ice-detention-extreme-heat/ target="_blank">ICE detainees face greater risk from extreme heat than most prisoners.</a>, <b>The Washington Post</b>, October 2025<br>
+
 <b>Data-driven collaboration on tropical cyclone impacts with The Washington Post</b>
 
 - <a href=https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/ target="_blank">A new era of floods has arrived. America isn’t prepared.</a>, <b>The Washington Post</b>, July 2025<br>
