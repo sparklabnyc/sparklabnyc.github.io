@@ -47,6 +47,8 @@
 - Jiujiu Zhou (Data Science Institute Capstone student)
 - Bala Manikandan (Data Science Institute Capstone student)
 
+- Alicia Lopez-Guerra (Barnard senior)
+
 - Jackson Chen (High school intern)
 - Ayush Panchal (High school intern)
 
