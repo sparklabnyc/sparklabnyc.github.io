@@ -3,8 +3,8 @@
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
-- [Postdoctoral Research Scientist](https://apply.interfolio.com/173634)
-- [Postdoctoral Research Scientist](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
+- [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
+- [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
 
 ### Previously filled positions
 
