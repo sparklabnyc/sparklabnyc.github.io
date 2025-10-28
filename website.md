@@ -4,6 +4,7 @@
 ### Open positions
 
 - [Postdoctoral Research Scientist](https://apply.interfolio.com/173634)
+- [Postdoctoral Research Scientist](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 
 ### Previously filled positions
 
@@ -20,6 +21,7 @@
 - Victoria D. Lynch (Post-doctoral fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
 - [Open position: Postdoctoral Research Scientist](https://apply.interfolio.com/173634)
+- [Open position: Postdoctoral Research Scientist](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer)
 
