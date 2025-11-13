@@ -461,8 +461,8 @@ Watch this space many more reports to be added here soon
 
 Rapid impact assessments for recent hurricanes:
 
-- [Melissa](/hurricanes/Rapid_Melissa_2025.html)
-- [Kalmaegi](/hurricanes/Rapid_Kalmaegi_2025.html)
+- [Melissa](/hurricanes/Report_Melissa_2025.html)
+- [Kalmaegi](/hurricanes/Report_Kalmaegi_2025.html)
 
 ### Register interest in joing G-TROPIC
 
