@@ -464,8 +464,6 @@ Rapid impact assessments for recent hurricanes:
 - [Melissa](/hurricanes/Rapid_Melissa_2025.html)
 - [Kalmaegi](/hurricanes/Rapid_Kalmaegi_2025.html)
 
-[View all reports ➡️](/hurricanes/)
-
 ### Register interest in joing G-TROPIC
 
 <a href='mailto:robbie.parks@columbia.edu?subject=Interested%20in%20joining%20G-TROPIC%20network' target="_blank">Register your interest in joining G-TROPIC with subject line 'G-TROPIC'</a>
