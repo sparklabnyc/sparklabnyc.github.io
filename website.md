@@ -463,6 +463,7 @@ Rapid impact assessments for recent hurricanes:
 
 - [Melissa (2025)](/hurricanes/Report_Melissa_2025.html)
 - [Kalmaegi (2025)](/hurricanes/Report_Kalmaegi_2025.html)
+- [Fung-Wong (2025)](/hurricanes/Report_Fung-Wong_2025.html)
 
 ### Register interest in joing G-TROPIC
 
