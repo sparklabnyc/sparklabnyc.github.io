@@ -516,33 +516,6 @@ Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/
 - Nathaniel Matthews-Trigg (Americares)
 - Joy Shumake-Guillemot (World Meteorological Organization)
 
-<!-- ## HEATE
-
-### Flyers
-
-<img src="../media/HEATE/Flyer 2023 11 15.png" width="49%"> <img src="../media/HEATE/Spanish HEATE Flyer With QR Code - 2023 12 08.png" width="49%">
-
-### What are we interested in studying?
-
-There is a gap for understanding the impacts of extreme weather in New York City on indoor residential temperatures. We want to know how cold apartments get in the winter and how hot apartments get in the summer in 
-NYC, relative to outdoor temperatures. 
-
-### Why are we interested in this?
-
-Throughout NYC, people are exposed to extreme temperatures in their homes—this directly impacts quality of life. While HEATE is not a quick fix to this problem, collecting data to support related policy agendas is the first step toward addressing this challenge. 
-
-### How are we conducting our study?
-
-We are installing two temperature monitors in apartments throughout Northern Manhattan and the South Bronx which will collect data on temperature and relative humidity throughout the coming year. 
-
-### Get involved!
-
-Scan the QR codes in the posters above (Spanish or English) (or use the links below) to fill out a brief form, and we will coordinate sensor installation with you. All households participating in this study will receive $50 in the form of two Visa gift cards given at sensor installation and pick up.
-
-<a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_bK6QFDxe5jB3CYu' target="_blank">Español</a>
-
-<a href='https://qualtricsxmh3xjrkdzf.qualtrics.com/jfe/form/SV_0evjBRWIBrI1deC' target="_blank">English</a> -->
-
 ## Lab activities
 
 ### 2025
