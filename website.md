@@ -457,18 +457,6 @@ Watch this space many more reports to be added here soon
 
 ## G-TROPIC
 
-### Rapid Reports
-
-Rapid impact assessments for recent hurricanes:
-
-- [Melissa (2025)](/hurricanes/Report_Melissa_2025.html)
-- [Kalmaegi (2025)](/hurricanes/Report_Kalmaegi_2025.html)
-- [Fung-Wong (2025)](/hurricanes/Report_Fung-Wong_2025.html)
-
-### Register interest in joing G-TROPIC
-
-<a href='mailto:robbie.parks@columbia.edu?subject=Interested%20in%20joining%20G-TROPIC%20network' target="_blank">Register your interest in joining G-TROPIC with subject line 'G-TROPIC'</a>
-
 ### Summary
 
 Building a worldwide tropical cyclone resilience network in a changing climate.
@@ -477,44 +465,58 @@ Building a worldwide tropical cyclone resilience network in a changing climate.
 
 Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award' target="_blank">Calderone Awards for Junior Faculty Development</a> 
 
-### Japan
+### Rapid Reports
+
+Rapid impact assessments for recent hurricanes:
+
+- [Fung-Wong (2025)](/hurricanes/Report_Fung-Wong_2025.html)
+- [Kalmaegi (2025)](/hurricanes/Report_Kalmaegi_2025.html)
+- [Melissa (2025)](/hurricanes/Report_Melissa_2025.html)
+
+### Collaborators
+
+#### Japan
 
 - Masahiro Hashizume (University of Tokyo)
 - Paul Lester Chua (University of Tokyo)
 - Hiroyaki Murayama (University of Tokyo)
 - Lisa Yamasaki (University of Tokyo)
 
-### Korea
+#### Korea
 
 - Changwoo Han (Chungnam National University College of Medicine)
 
-### Madagascar
+#### Madagascar
 
 - Christopher Golden (Harvard University)
 
-### Mexico
+#### Mexico
 
 - Iván Y. Hernández Paniagua (Universidad Nacional Autónoma de México)
 
-### Philippines
+#### Philippines
 
 - Lorenzo R. Guinto (St. Luke's Medical Center College of Medicine)
 
-### United Kingdom
+#### United Kingdom
 
 - Ralf Toumi (Imperial College London)
 
-### United States
+#### United States
 
 - G. Brooke Anderson (Colorado State University)
 - Lincole Jiang (Columbia University)
 - Yoshira Ornelas Van Horne (Columbia University)
 - Robbie M. Parks (Columbia University)
 
-### International
+#### International
 
 - Nathaniel Matthews-Trigg (Americares)
 - Joy Shumake-Guillemot (World Meteorological Organization)
+
+### Register interest in joing G-TROPIC
+
+<a href='mailto:robbie.parks@columbia.edu?subject=Interested%20in%20joining%20G-TROPIC%20network' target="_blank">Register your interest in joining G-TROPIC with subject line 'G-TROPIC'</a>
 
 ## Lab activities
 
