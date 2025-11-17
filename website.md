@@ -475,41 +475,41 @@ Rapid impact assessments for recent hurricanes:
 
 ### Collaborators
 
-*Japan*
+<b>Japan</b>
 
 - Masahiro Hashizume (University of Tokyo)
 - Paul Lester Chua (University of Tokyo)
 - Hiroyaki Murayama (University of Tokyo)
 - Lisa Yamasaki (University of Tokyo)
 
-*Korea*
+<b>Korea</b>
 
 - Changwoo Han (Chungnam National University College of Medicine)
 
-*Madagascar*
+<b>Madagascar</b>
 
 - Christopher Golden (Harvard University)
 
-*Mexico*
+<b>Mexico</b>
 
 - Iván Y. Hernández Paniagua (Universidad Nacional Autónoma de México)
 
-*Philippines*
+<b>Philippines</b>
 
 - Lorenzo R. Guinto (St. Luke's Medical Center College of Medicine)
 
-*United Kingdom*
+<b>United Kingdom</b>
 
 - Ralf Toumi (Imperial College London)
 
-*United States*
+<b>United States</b>
 
 - G. Brooke Anderson (Colorado State University)
 - Lincole Jiang (Columbia University)
 - Yoshira Ornelas Van Horne (Columbia University)
 - Robbie M. Parks (Columbia University)
 
-*International*
+<b>International</b>
 
 - Nathaniel Matthews-Trigg (Americares)
 - Joy Shumake-Guillemot (World Meteorological Organization)
