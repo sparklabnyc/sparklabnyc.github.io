@@ -860,6 +860,8 @@ I teach the graduate courses (i) Atmospheric and Climate Science for Public Heal
 
 I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://vivo.brown.edu/display/mkioumou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
 
+I have contributed to pieces in various media outlets including The New Yorker, The New York Times, Washington Post, Scientific American, National Geographic, Grist, The Guardian, NPR, and many others.
+
 I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
 ![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
