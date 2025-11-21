@@ -4,10 +4,10 @@
 ### Open positions
 
 - [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
-- [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
 
 ### Previously filled positions
 
+- [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
 - See also [team page](https://sparklabnyc.github.io/site/the_team.html) for previously filled positions 
 
 ## The Team
@@ -20,7 +20,7 @@
 - Felipe L. Antequera (Post-doctoral fellow)
 - Victoria D. Lynch (Post-doctoral fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
-- [Open position: Postdoctoral Research Scientist](https://apply.interfolio.com/173634)
+- Anna Palmer (Post-doctoral fellow)
 - [Open position: Postdoctoral Research Scientist](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer)
