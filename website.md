@@ -207,6 +207,10 @@
 ## Press coverage
 ### 2025
 
+<b>COP30</b>
+
+- <a href=https://news.climate.columbia.edu/2025/12/03/columbia-and-climate-school-delegates-reflect-on-cop30/ target="_blank">Columbia and Climate School Delegates Reflect on COP30</a>, <b>Columbia Climate School State of the Planet</b>, December 2025<br>
+
 <b>The New Yorker hurricanes story</b>
 
 - <a href=https://www.newyorker.com/news/the-lede/the-hidden-devastation-of-hurricanes target="_blank">The hidden devastation of hurricanes</a>, <b>The New Yorker</b>, November 2025<br>
