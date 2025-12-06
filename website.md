@@ -209,6 +209,7 @@
 
 <b>COP30</b>
 
+- <a href=https://news.climate.columbia.edu/2025/12/05/the-sights-and-sounds-of-cop30/ target="_blank">The Sights and Sounds of COP30</a>, <b>Columbia Climate School State of the Planet</b>, December 2025<br>
 - <a href=https://news.climate.columbia.edu/2025/12/03/columbia-and-climate-school-delegates-reflect-on-cop30/ target="_blank">Columbia and Climate School Delegates Reflect on COP30</a>, <b>Columbia Climate School State of the Planet</b>, December 2025<br>
 
 <b>The New Yorker hurricanes story</b>
