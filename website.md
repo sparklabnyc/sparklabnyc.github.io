@@ -23,6 +23,7 @@
 - Anna Palmer (Post-doctoral fellow)
 - [Open position: Postdoctoral Research Scientist](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 
+- [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer)
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer)
 
 - Heather McBrien (PhD candidate)
