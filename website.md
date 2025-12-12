@@ -771,7 +771,7 @@ Watch this space for updates...
 
 <img src="../media/sharp_bayesian/bmeh-1200x630.jpg" width="100%">
 
-The Bayesian Modeling for Environmental Health Workshop is a two-day intensive course of seminars and hands-on analytical sessions to provide an approachable and practical overview of concepts, techniques, and data analysis methods used in Bayesian modeling with applications in Environmental Health.
+The Bayesian Modeling for Environmental Health Workshop is a three-day intensive course of seminars and hands-on analytical sessions to provide an approachable and practical overview of concepts, techniques, and data analysis methods used in Bayesian modeling with applications in Environmental Health.
 
 Official SHARP Bayesian Modeling for Environmental Health Workshop
 <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">website link</a>.
