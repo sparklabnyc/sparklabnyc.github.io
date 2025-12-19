@@ -17,6 +17,8 @@
 
 - Alexandra Carlin (Research manager)
 
+- Marcelo Jauregui-Volpe (Podcast producer)
+
 - Felipe L. Antequera (Post-doctoral fellow)
 - Victoria D. Lynch (Post-doctoral fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
@@ -41,14 +43,11 @@
 
 - Maren Hale (Research co-ordinator)
 
+- Majd Abid (Master's student)
 - Gabriela Imbert (Master's student)
-
-- Marcelo Jauregui-Volpe (Podcast producer)
-
-- Morgan CD Jackson (Data Science Institute Capstone student)
-- Majd Abid (Data Science Institute Capstone student)
-- Jiujiu Zhou (Data Science Institute Capstone student)
-- Bala Manikandan (Data Science Institute Capstone student)
+- Morgan CD Jackson (Master's student)
+- Bala Manikandan (Master's student)
+- Yifei Yu (Master's student)
 
 - Alicia Lopez-Guerra (Barnard senior)
 
@@ -82,6 +81,7 @@
 - Carina Yiu (Master's Student. Next: Finishing Master's)
 - Hingling Angel Yu (Master's Student. Next: TBC)
 - Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
+- Jiujiu (Jojo) Zhou (Data Science Institute Capstone student. Next: TBC)
 - Janna Zilkha (Master's Student. Next: Finishing Master's)
 
 ### Future lab associates
