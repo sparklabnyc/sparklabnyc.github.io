@@ -93,7 +93,6 @@
 
 - 44 peer-reviewed papers, including 21 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
-
 ### 2026
 
 - <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (In Press). [TBD]() <b>TBD</b> [(code)]()
@@ -207,6 +206,11 @@
 
 ## Press coverage
 ### 2025
+
+<b>Columbia Public Health Magazine 2025-2026</b>
+
+- <a href=https://www.publichealth.columbia.edu/news/heat target="_blank">The Heat is On</a>, <b>Columbia Public Health Magazine 2025-2026</b>, December 2025<br>
+- <a href=https://news.climate.columbia.edu/2025/12/03/
 
 <b>COP30</b>
 
@@ -857,13 +861,15 @@ Photos below by April Renae.
 
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-80.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-81.jpg" width="49%">
 
+## <a href='https://www.imperial.ac.uk/continuing-professional-development/short-courses/eng/environmental/advanced-methods-for-climate-and-health-attribution-summer-school/' target="_blank">Advanced methods for climate and health attribution Summer School</a>
+
 # Robbie M. Parks, PhD
 
 ## About me
 ### 
 I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
 
-I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month.
+I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am curently funded by grants from NIH, Wellcome Trust, NSF, and several others. \smallskip
 
 I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
 
@@ -873,8 +879,10 @@ I have contributed to pieces in various media outlets including The New Yorker, 
 
 I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
 
+Photo credit below John Herr.
 ![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
 
+Photo credit below Ryan Murphy/Reuters
 ![headshot](../media/headshot/Robbie Parks defend science.jpeg)
 
 ## CV
