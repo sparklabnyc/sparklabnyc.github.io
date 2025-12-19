@@ -869,7 +869,7 @@ Photos below by April Renae.
 ### 
 I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
 
-I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am curently funded by grants from NIH, Wellcome Trust, NSF, and several others. \smallskip
+I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am curently funded by grants from NIH, Wellcome Trust, NSF, and several others.
 
 I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
 
