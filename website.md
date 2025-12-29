@@ -91,9 +91,11 @@
 
 ### Summary
 
-- 45 peer-reviewed papers, including 21 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
+- 46 peer-reviewed papers, including 21 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
 ### 2026
+
+- Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
 - <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
