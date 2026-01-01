@@ -91,9 +91,11 @@
 
 ### Summary
 
-- 46 peer-reviewed papers, including 22 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
+- 47 peer-reviewed papers, including 22 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
 ### 2026
+
+- Tobias A, Honda Y, Madaniyazi L, Multi-City Multi-Country (MCC) Collaborative Research Network (including <b>Parks RM</b>), Hashizume M. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
 - Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
