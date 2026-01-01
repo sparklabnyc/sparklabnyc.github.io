@@ -765,7 +765,7 @@ Analyze meteorological and climate data, interpret climate and weather forecasts
 
 "[The TA] was very responsive and it seems like she worked very hard to get this course up and running with Robbie. Everything was posted and graded in a timely manner."
 
-## P8332: Advanced Analytic Methods in Environmental Health Sciences 
+## P8332: Advanced Analytic Methods in Environmental Health Sciences
 
 ### Course description
 
