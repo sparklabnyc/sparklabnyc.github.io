@@ -769,11 +769,47 @@ Analyze meteorological and climate data, interpret climate and weather forecasts
 
 ### Course description
 
-Watch this space for updates...
+This seminar course will introduce advanced methods and tools used in Environmental Health Sciences. 
+
+These topics include advanced regression techniques especially pertinent to environmental health, mixtures methods, Bayesian statistics, prediction and forecasting techniques, and attribution science in public health. 
+
+Each class will have two components: a lecture and a coding lab. 
+
+Although other courses in the School and other Departments might also present some of the methods covered here, the emphasis of this course will be on applications in EHS specifically and the appropriateness, assumptions, strength, limitations and interpretation of results in the EHS framework. R will be used for all coding, with GitHub for code and lecture material co-ordination.
 
 ### Course learning objectives
 
-Watch this space for updates...
+By the time you complete this course, you should be able to:
+
+MPH/MS-specific competencies:
+
+Critically evaluate the current literature in environmental health sciences including identifying gaps and uncertainties in the knowledge base and in the methodological approaches to solving environmental health problems
+
+Communicate effectively in writing and orally a knowledge of environmental hazards to other professionals and the public, including effective risk communication
+
+Apply data science methods to solving issues in the environmental health sciences
+
+Identify sources of data and demonstrate the ability to clean and organize data
+
+Synthesis complex environmental health challenges from a public health perspective
+
+Distinguish and appropriately apply data analysis statistical tools 
+
+General competencies:
+
+Analyze Environmental Health-relevant data employing advanced analytic approaches
+
+Identify when each method is appropriate to use, given the research question
+
+Apply the advanced methods presented in class using R (please see the course schedule for a list of the methods that will be introduced) and coordinating material with GitHub
+
+Critically evaluate scientific literature by assessing the strengths and limitations of scientific papers
+
+Evaluate whether the conclusions drawn reflect the initial hypothesis and results in published journal articles
+
+Conduct a research project from design to implementation
+
+Compose components of a publishable scientific paper
 
 ## SHARP Bayesian Modeling for Environmental Health Workshop
 
@@ -827,7 +863,7 @@ Brilliant instructors and systematic approach to a crash course in fairly comple
 
 <img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_group_photo_2024.jpeg" width="100%">
 
-<img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_instructor_photo_2024.jpeg" width="100%">
+<!-- <img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_instructor_photo_2024.jpeg" width="100%"> -->
 
 ### Unfiltered shareable feedback from 2023 edition
 
@@ -855,7 +891,7 @@ Brilliant instructors and systematic approach to a crash course in fairly comple
 
 Photos below by April Renae.
 
-<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-96.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-21.jpg" width="49%">
+<!-- <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-96.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-21.jpg" width="49%">
 
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-29.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-32.jpg" width="49%">
 
@@ -865,7 +901,7 @@ Photos below by April Renae.
 
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-68.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-73.jpg" width="49%"> 
 
-<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-80.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-81.jpg" width="49%">
+<img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-80.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-81.jpg" width="49%"> -->
 
 ## <a href='https://www.imperial.ac.uk/continuing-professional-development/short-courses/eng/environmental/advanced-methods-for-climate-and-health-attribution-summer-school/' target="_blank">Advanced methods for climate and health attribution Summer School</a>
 
