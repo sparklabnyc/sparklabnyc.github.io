@@ -93,7 +93,7 @@
 
 - 48 peer-reviewed papers, including 23 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
-### 2026
+### In press
 
 - Jiang L, Anderson GB, Lynch VD, Wu X, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
@@ -101,7 +101,9 @@
 
 - Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
-- <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (In Press). [TBD]() <b>TBD</b> [(code)]()
+### 2026
+
+- <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (2026). [Higher temperatures are associated with increased interpersonal and self inflicted violence-related Medicaid hospital visits in the United States](https://www.nature.com/articles/s44458-025-00001-x) <b>Communications Sustainability</b> [(code)](https://github.com/sparklabnyc/usa_temperature_medicaid_violence_2025)
 
 ### 2025
 
