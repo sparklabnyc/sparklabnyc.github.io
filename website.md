@@ -752,6 +752,22 @@ Apply concepts from reading and lecture to solving problems, demonstrating quant
 
 Analyze meteorological and climate data, interpret climate and weather forecasts, and evaluate models and their simulations.
 
+### Shareable feedback from 2025 edition
+
+"This was an excellent course - my favourite so far in my MPH!! Robbie was a great teacher and was able to explain (both verbally and through helpful diagrams) very complex concepts in an easy-to-understand way. Carlos was also a great TA, with assignments graded super efficiently. While the topics were tricky at times, I felt like it challenged us appropriately and equipped us with the necessary knowledge to talk about climate change in our professional/daily lives. Other strengths: regular office hours (both Robbie and Carlos made themselves available to support us); spaced out + routine homework assignments to apply concepts; spread out 3hr lecture block into two classes; participation encouraged + supportive/enjoyable classroom environment."
+
+"Having office hours right after class was helpful. Very supportive TA and professor to foster learning - Working through exercises/practice problems during lecture. Having a reasonable quantity of homeworks throughout the semester. Interactive learning environment: felt comfortable asking questions during class and office hours. Having lecture slides to annotate on during class - Posting homework answers after homework deadline. Detailing what to focus on in preparation for the final exam, as the course material was quite intensive and lengthy. Fair and generous grading on assignments."
+
+"I don’t have a physics background and haven’t learned much of this material before, so the class was challenging but also incredibly rewarding. It took me longer to grasp some of the concepts, but I’m genuinely proud of how much I’ve been able to learn. The material is dense, but the examples, drawings, and diagrams made the key concepts much easier to understand. Walking through the equations step-by-step in class was especially helpful. The homework closely reflected the in-class exercises, so it felt manageable rather than overwhelming. It was also always clear what we needed to study for the exams, which made the workload feel fair and doable! I will miss this class!"
+
+"Class camaraderie Approachability of Robbie and Carlos Development of hard science skills!!!"
+
+"This class was difficult, but I think it is worth receiving this content. I learned so much even if it was difficult to grasp since I don't have a background in physics, it is necessary to understand climate and health."
+
+"Designated office hours! So helpful for reviewing the material."
+
+"The professor would draw diagrams on the whiteboard that were very helpful for understanding the complex concepts."
+
 ### Shareable feedback from 2024 edition
 
 "The lectures and course content and very interesting. The professor does a thorough job at explaining complicated concepts."
