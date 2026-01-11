@@ -95,13 +95,14 @@
 
 ### In press
 
-- Jiang L, Anderson GB, Lynch VD, Wu X, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
 - Tobias A, Honda Y, Madaniyazi L, Multi-City Multi-Country (MCC) Collaborative Research Network (including <b>Parks RM</b>), Hashizume M. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
 - Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
 ### 2026
+
+- Jiang L, Anderson GB, Lynch VD, Wu X, <b>Parks RM</b>. (2026). [Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context](https://iopscience.iop.org/article/10.1088/1748-9326/ae34cc/meta) <b>Environmental Research Letters</b> [(code)](https://github.com/sparklabnyc/global_tc_2024)
 
 - <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (2026). [Higher temperatures are associated with increased interpersonal and self inflicted violence-related Medicaid hospital visits in the United States](https://www.nature.com/articles/s44458-025-00001-x) <b>Communications Sustainability</b> [(code)](https://github.com/sparklabnyc/usa_temperature_medicaid_violence_2025)
 
