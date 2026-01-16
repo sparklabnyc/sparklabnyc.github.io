@@ -486,7 +486,7 @@ Building a worldwide tropical cyclone resilience network in a changing climate.
 
 <img src="../media/GTROPIC/draft_symbol.jpeg" width="100%">
 
-Funded by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award' target="_blank">Calderone Awards for Junior Faculty Development</a> 
+Funded so far by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award' target="_blank">Calderone Awards for Junior Faculty Development</a> and the Columbia EHS P30 Career Development Award.
 
 ### Interactive visualizations
 
@@ -500,7 +500,7 @@ Rapid impact assessments for recent hurricanes:
 - [Kalmaegi (2025)](/hurricanes/Report_Kalmaegi_2025.html)
 - [Melissa (2025)](/hurricanes/Report_Melissa_2025.html)
 
-### Collaborators
+<!-- ### Collaborators
 
 <b>Japan</b>
 
@@ -539,7 +539,7 @@ Rapid impact assessments for recent hurricanes:
 <b>International</b>
 
 - Nathaniel Matthews-Trigg (Americares)
-- Joy Shumake-Guillemot (World Meteorological Organization)
+- Joy Shumake-Guillemot (World Meteorological Organization) -->
 
 ### Register interest in joing G-TROPIC
 
