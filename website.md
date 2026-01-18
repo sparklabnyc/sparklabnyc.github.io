@@ -3,10 +3,11 @@
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
-- [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
+Watch this space!
 
 ### Previously filled positions
 
+- [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 - [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
 - See also [team page](https://sparklabnyc.github.io/site/the_team.html) for previously filled positions 
 
@@ -23,7 +24,7 @@
 - Victoria D. Lynch (Post-doctoral fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
 - Anna Palmer (Post-doctoral fellow)
-- [Open position: Postdoctoral Research Scientist](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
+- Martha Lee (Post-doctoral fellow)
 
 - [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer)
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer)
