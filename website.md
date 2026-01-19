@@ -973,6 +973,11 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # Not academia 
+## Surviving the Climate 
+
+### Overview
+Watch this space...
+
 ## Sound
 
 ### Overview
