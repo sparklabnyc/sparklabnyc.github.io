@@ -976,7 +976,10 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 ## Surviving the Climate 
 
 ### Overview
-Watch this space...
+The climate crisis demands collective preparedness, evidence-based research, creative innovation, and a good podcast to listen to while hunkering down in your bunker. Surviving the Climate is your weekly podcast hosted by professor Robbie Parks and emergency manager Nate Matthews-Trigg. These longtime friends will discuss climate and disaster-related news, pop culture, the latest research, all with a focus on practical insights for regular people just trying to make do with what they have.
+
+Artwork below by Blanche Ellis.
+<img src="../media/surviving_the_climate/Surviving The Climate Podcast Cover V4 Final.png" width="100%"> 
 
 ## Sound
 
@@ -1009,7 +1012,7 @@ Details forthcoming
 ## Photography
 
 ### Overview
-I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use my <a href='https://instagram.com/robbiemparks/' target="_blank">Instagram<br></a> anymore, though it's currently still active. 
+I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use my <a href='https://instagram.com/robbiemparks/' target="_blank">Instagram<br></a> anymore, and it's currently inactive. 
 
 Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024, 2025.
 
