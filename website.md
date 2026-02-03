@@ -479,6 +479,9 @@ Watch this space many more reports to be added here soon
 
 ## <a href='https://www.reddit.com/r/heat_prep/' target="_blank">Reddit r/heat_prep</a>
 
+## <a href='https://sparklabnyc.github.io/heat_health_action_plan_registry/' target="_blank">Global Heat-Health Action Plan Registry</a>
+
+
 ## G-TROPIC
 
 ### Summary
