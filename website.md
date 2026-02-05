@@ -939,7 +939,7 @@ Photos below by April Renae.
 ### 
 I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
 
-I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am curently funded by grants from NIH, Wellcome Trust, NSF, and several others.
+I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am currently funded by grants from NIH, Wellcome Trust, NSF, and several others.
 
 I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling) and the [Imperial College Advanced Methods for Climate and Health Attribution Summer School](https://www.imperial.ac.uk/continuing-professional-development/short-courses/eng/environmental/advanced-methods-for-climate-and-health-attribution-summer-school/). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
 
@@ -947,7 +947,7 @@ I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow
 
 I have contributed to pieces in various media outlets including The New Yorker, The New York Times, Washington Post, Scientific American, National Geographic, Grist, The Guardian, NPR, and many others.
 
-I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/).
+I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/). I am proudly a first-gen academic, of Filipino heritage, an Agents of Change in Environmental Justice Senior Fellow, and a [National Academy of Sciences Frontiers of Science Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/).
 
 Photo credit below John Herr.
 ![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
