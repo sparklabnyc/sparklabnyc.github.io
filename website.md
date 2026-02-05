@@ -947,7 +947,7 @@ I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow
 
 I have contributed to pieces in various media outlets including The New Yorker, The New York Times, Washington Post, Scientific American, National Geographic, Grist, The Guardian, NPR, and many others.
 
-I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/). I am proudly a first-gen academic, of Filipino heritage, an Agents of Change in Environmental Justice Senior Fellow, and a [National Academy of Sciences Frontiers of Science Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/).
+I am proudly both a first-gen academic, of Filipino heritage, and an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/), and a [National Academy of Sciences Frontiers of Science Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/).
 
 Photo credit below John Herr.
 ![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
