@@ -12,6 +12,7 @@ Watch this space!
 - See also [team page](https://sparklabnyc.github.io/site/the_team.html) for previously filled positions 
 
 ## The Team
+
 ### Current lab associates
 
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
@@ -30,7 +31,7 @@ Watch this space!
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer)
 
 - Heather McBrien (PhD candidate)
-- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate)
+- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate; current SPARK Lab NYC Social Director)
 - Allison L. Stewart Ruano (PhD candidate)
 
 - Carlos Carrillo-Gallegos (PhD student)
@@ -48,7 +49,6 @@ Watch this space!
 - Majd Abid (Master's student)
 - Gabriela Imbert (Master's student)
 - Morgan CD Jackson (Master's student)
-- Bala Manikandan (Master's student)
 - Yifei Yu (Master's student)
 
 - Alicia Lopez-Guerra (Barnard senior)
@@ -67,6 +67,7 @@ Watch this space!
 - Xuer Liu (Master's Student. Next: TBC)
 - Yuanyu Lu (Master's student. Next: TBC) 
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
+- Bala Manikandan (Master's student. Next: AT&T)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
 - Jordyn B. Pykon (Master's Student. Next: TBC)
