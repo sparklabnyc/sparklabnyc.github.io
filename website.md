@@ -101,7 +101,7 @@ Watch this space!
 
 ### 2026
 
-- Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (2026). [Tropical Cyclone Exposure and Psychoactive Drug–Related Death RatesD]() <b>JAMA Network Open</b> [(code)](https://github.com/sparklabnyc/usa_tc_psych_drug_mortality_2026)
+- Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (2026). [Tropical Cyclone Exposure and Psychoactive Drug–Related Death Rates]() <b>JAMA Network Open</b> [(code)](https://github.com/sparklabnyc/usa_tc_psych_drug_mortality_2026)
 
 - Jiang L, Anderson GB, Lynch VD, Wu X, <b>Parks RM</b>. (2026). [Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context](https://iopscience.iop.org/article/10.1088/1748-9326/ae34cc) <b>Environmental Research Letters</b> [(code)](https://github.com/sparklabnyc/global_tc_2024) [(interactive visualization)](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/) 
 
