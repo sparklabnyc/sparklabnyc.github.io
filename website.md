@@ -3,6 +3,38 @@
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
+<b>Summer 2026 APEx opportunities</b> 
+
+SPARK Lab NYC is seeking two research assistants for the ongoing project 'Data solution for impacts of climate-related extremes on incarcerated people in the United States'. 
+
+<b>Research Assistant: Data management and analysis</b>
+
+This person will assist with cleaning and preparing large datasets for statistical analyses.
+Start Date: March 1st 2026
+Desired Qualifications
+
+Strong data analysis skills
+Knowledge of working with large, complex datasets
+Proficiency in at least one programming language (R or Python preferred)
+
+<b>Research Assistant: Focus group Coordinator</b>
+
+This person will assist in organizing focus groups between formerly incarcerated people, policy makers, journalists, and lawyers. 
+Start Date: June 1st 2026
+Desired Qualifications
+
+Strong interpersonal skills
+Experience or interest in qualitative methodologies and community-engaged research
+
+<b>Position Details</b>
+
+Open to Columbia Mailman masters students
+Applicants must submit a resume and cover letter part of the application process.
+Employment Type: Part-time
+Compensation: $25/hr
+
+To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.edu with the subject line 'SPARK Lab APEx Application'.
+
 Watch this space!
 
 ### Previously filled positions
