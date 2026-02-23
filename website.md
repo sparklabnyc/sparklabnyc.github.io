@@ -55,7 +55,7 @@ Watch this space!
 
 - Felipe L. Antequera (Post-doctoral fellow)
 - Victoria D. Lynch (Post-doctoral fellow)
-- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow)
+- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow. Faculty from Fall 2026)
 - Anna Palmer (Post-doctoral fellow)
 - Martha Lee (Post-doctoral fellow)
 
@@ -70,17 +70,13 @@ Watch this space!
 - Raffaela Langer (PhD student)
 - Fintan Mooney (PhD student)
 
+- Majd Abid (Research assistant)
 - Lincole Jiang (Research assistant)
 - Jenna Nicole Swartz (Research assistant)
 
-- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student)
-- Lisa Yamasaki (Medical doctor)
-
 - Maren Hale (Research co-ordinator)
 
-- Majd Abid (Master's student)
 - Gabriela Imbert (Master's student)
-- Morgan CD Jackson (Master's student)
 - Yifei Yu (Master's student)
 
 - Alicia Lopez-Guerra (Barnard senior)
@@ -90,20 +86,22 @@ Watch this space!
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
-- Alexis Bell (High School Student. Next: Finish High School!)
+- Alexis Bell (High School Student. Next: Undergraduate degree at Cornell University)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
-- Gali Cohen (Post-doctoral Fellow. Next: TBC)
+- Gali Cohen (Post-doctoral Fellow. Next: Faculty role)
 - Jiayi Ge (Master's student. Next: Finishing Master's)
+- Morgan CD Jackson (Master's student. Next: High school teacher)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Wil Lieberman-Cribbin (Post-doctoral Fellow. Next: Assistant Professor at Northwell Health)
-- Xuer Liu (Master's Student. Next: TBC)
-- Yuanyu Lu (Master's student. Next: TBC) 
+- Xuer Liu (Master's Student. Next: Founder of Auristar Innovation)
+- Yuanyu Lu (Master's student. Next: Clinical Research Biostatistician, Beijing Tiantan) 
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Bala Manikandan (Master's student. Next: AT&T)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
-- Kelton Minor (Post-doctoral Fellow. Next: Assistant Professor at Columbia University)
-- Jordyn B. Pykon (Master's Student. Next: TBC)
-- Hannah Sanghvi (Barnard senior. Next: TBC)
+- Kelton Minor (Post-doctoral Fellow. Next: Associate Professor at University of Copenhagen
+- [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student. Next: Finishing medical degree)
+- Jordyn B. Pykon (Master's Student. Next: Tandem)
+- Hannah Sanghvi (Barnard senior. Next: Compost Associate at Queens Botanical Garde)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Naomi Simon-Kumar (Master's student. Next: TBC)
@@ -111,12 +109,13 @@ Watch this space!
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
 - Deepshika Verma (Master's Student. Next: Finishing Master's)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
+- Lisa Yamasaki (Medical doctor. Next: PhD in United States)
 - Daisy Yan (Graduate Research Assistant. Next: UCSF)
 - Iris Yang (Master's student. Next: TBC)
 - Carina Yiu (Master's Student. Next: Finishing Master's)
 - Hingling Angel Yu (Master's Student. Next: TBC)
 - Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
-- Jiujiu (Jojo) Zhou (Data Science Institute Capstone student. Next: TBC)
+- Jiujiu (Jojo) Zhou (Data Science Institute Capstone student. Next: Data Science role)
 - Janna Zilkha (Master's Student. Next: Finishing Master's)
 
 ### Future lab associates
@@ -132,11 +131,11 @@ Watch this space!
 
 - Tobias A, Honda Y, Madaniyazi L, Multi-City Multi-Country (MCC) Collaborative Research Network (including <b>Parks RM</b>), Hashizume M. (In Press). [TBD]() <b>TBD</b> [(code)]()
 
-- Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (In Press). [TBD]() <b>TBD</b> [(code)]()
-
 ### 2026
 
-- Jiang L, Anderson GB, Lynch VD, Wu X, <b>Parks RM</b>. (2026). [Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context](https://iopscience.iop.org/article/10.1088/1748-9326/ae34cc/meta) <b>Environmental Research Letters</b> [(code)](https://github.com/sparklabnyc/global_tc_2024) [(interactive visualization)](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/) 
+- Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (2026). [Tropical Cyclone Exposure and Psychoactive Drug–Related Death Rates](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845323) <b>JAMA Network Open</b> [(code)](https://github.com/sparklabnyc/usa_tc_psych_drug_mortality_2026)
+
+- Jiang L, Anderson GB, Lynch VD, Wu X, <b>Parks RM</b>. (2026). [Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context](https://iopscience.iop.org/article/10.1088/1748-9326/ae34cc) <b>Environmental Research Letters</b> [(code)](https://github.com/sparklabnyc/global_tc_2024) [(interactive visualization)](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/) 
 
 - <b>Parks RM</b>, Flynn L, Gu Z, Braun D, Cerna-Turoff I, Tuholske C, Dominici F, Lindert J, Kioumourtzoglou MA. (2026). [Higher temperatures are associated with increased interpersonal and self inflicted violence-related Medicaid hospital visits in the United States](https://www.nature.com/articles/s44458-025-00001-x) <b>Communications Sustainability</b> [(code)](https://github.com/sparklabnyc/usa_temperature_medicaid_violence_2025)
 
