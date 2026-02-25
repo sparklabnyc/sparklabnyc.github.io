@@ -127,11 +127,9 @@ Watch this space!
 
 - 48 peer-reviewed papers, including 23 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
-### In press
-
-- Tobias A, Honda Y, Madaniyazi L, Multi-City Multi-Country (MCC) Collaborative Research Network (including <b>Parks RM</b>), Hashizume M. (In Press). [TBD]() <b>TBD</b> [(code)]()
-
 ### 2026
+
+- Tobias A, Honda Y, Madaniyazi L, Alahmad B, Lavigne E, Roye D, Tong S, Coelho MSZS, Huber V, Urban A, Pereira da Silva SN, Achilleos S, <b>Parks RM</b>, Iñiguez C, Masselot P, Vicedo-Cabrera AM, Armstrong B, Gasparrini A, Hashizume M, Abrutzky R, et al. (2026). [Variation in reporting of heatstroke mortality: evidence from a multi-country study](http://sciencedirect.com/science/article/pii/S2468266725003226). <b>The Lancet Public Health</b>
 
 - Spriggs R, Lynch VD, Lu Y, Jiang L, Lieberman-Cribbin, Anderson GB, Keyes KM, Kioumourtzoglou MA, Hernández D, Nigra AE, <b>Parks RM</b>. (2026). [Tropical Cyclone Exposure and Psychoactive Drug–Related Death Rates](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845323) <b>JAMA Network Open</b> [(code)](https://github.com/sparklabnyc/usa_tc_psych_drug_mortality_2026)
 
