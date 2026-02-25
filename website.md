@@ -527,6 +527,7 @@ Funded so far by the <a href='https://www.publichealth.columbia.edu/people/our-f
 
 ### Interactive visualizations
 
+[Characterizing global tropical cyclone events of 2025 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2025/)
 [Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/)
 
 ### Rapid Reports
