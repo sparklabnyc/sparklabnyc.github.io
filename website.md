@@ -773,6 +773,8 @@ It also happens to be an anagram of my last name :).
 
 ### Course description
 
+<a href='https://vergil.columbia.edu/vergil/course/20261/40073' target="_blank">Vergil link</a>
+
 This course introduces the fundamental physical principles that govern the behavior of the earth's atmosphere and climate. 
 
 Topics to be studied include the general circulation of the atmosphere, motions on a rotating sphere, atmospheric thermodynamics, radiative transfer, the basic chemistry and physics of air pollution, the hydrologic cycle, climate dynamics and synoptic weather. 
@@ -831,6 +833,8 @@ Analyze meteorological and climate data, interpret climate and weather forecasts
 
 ### Course description
 
+<a href='https://vergil.columbia.edu/vergil/course/20261/10803/14817' target="_blank">Vergil link</a>
+
 This seminar course will introduce advanced methods and tools used in Environmental Health Sciences. 
 
 These topics include advanced regression techniques especially pertinent to environmental health, mixtures methods, Bayesian statistics, prediction and forecasting techniques, and attribution science in public health. 
@@ -872,6 +876,36 @@ Evaluate whether the conclusions drawn reflect the initial hypothesis and result
 Conduct a research project from design to implementation
 
 Compose components of a publishable scientific paper
+
+## CLMT5095G: Quantitative Methods in Climate Change and Public Health
+
+### Course description
+
+<a href='https://vergil.columbia.edu/vergil/course/20261/107266' target="_blank">Vergil link</a>
+
+This course provides an interdisciplinary introduction to the public health dimensions of climate change, with a focus on the mechanisms linking climate-related hazards to health outcomes, the methods used to study these relationships, and the policy and intervention frameworks that shape responses. 
+
+Students will examine major climate exposures—including hazardous heat stress, floods, tropical cyclones, air pollution, and other environmental stressors—and their impacts on population health, with particular attention to vulnerable communities, local and global inequities, and environmental justice. 
+
+The course emphasizes core epidemiologic and attribution methods used in climate–health research, alongside evaluation of public health adaptation and mitigation strategies. Students will also explore the role of global governance, international institutions, and financing mechanisms in addressing climate-related health risks. 
+
+Through lectures, applied examples, and student-led presentations, the course fosters systems thinking and critical analysis, equipping students from diverse disciplinary backgrounds to assess evidence, communicate uncertainty, and engage with real-world climate and health decision-making. 
+
+### Course learning objectives
+
+By the end of the course, students will be able to:
+
+Describe and analyze the major climate-related hazards and detailed pathways through which climate change affects population health, with attention to vulnerability and inequities.
+
+Apply and critically evaluate epidemiologic methods used to quantify climate–health relationships, including exposure assessment and sources of uncertainty.
+
+Assess and compare public health adaptation and mitigation strategies, considering effectiveness, health co-benefits, and equity implications.
+
+Explain the role of global and national governance structures, policies, and institutions in shaping climate–health responses.
+
+Interpret and communicate climate–health attribution findings, including counterfactual reasoning and uncertainty, for public health and policy audiences.
+
+Integrate environmental justice principles into the analysis of climate–health research, interventions, and policy decisions.
 
 ## SHARP Bayesian Modeling for Environmental Health Workshop
 
