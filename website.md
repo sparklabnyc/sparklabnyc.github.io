@@ -125,9 +125,11 @@ Watch this space!
 
 ### Summary
 
-- 48 peer-reviewed papers, including 23 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
+- 49 peer-reviewed papers, including 23 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
 ### 2026
+
+- Achebak H, Paniello-Castillo B, <b>Parks RM</b>, van Daalen K. (In press). TBC. <b>TBC</b>.
 
 - Tobias A, Honda Y, Madaniyazi L, Alahmad B, Lavigne E, Roye D, Tong S, Coelho MSZS, Huber V, Urban A, Pereira da Silva SN, Achilleos S, <b>Parks RM</b>, Iñiguez C, Masselot P, Vicedo-Cabrera AM, Armstrong B, Gasparrini A, Hashizume M, Abrutzky R, et al. (2026). [Variation in reporting of heatstroke mortality: evidence from a multi-country study](http://sciencedirect.com/science/article/pii/S2468266725003226). <b>The Lancet Public Health</b>
 
@@ -1009,7 +1011,7 @@ I am an environmental epidemiologist and physicist whose quantitative research i
 
 I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am currently funded by grants from NIH, Wellcome Trust, NSF, and several others.
 
-I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, and (ii) Advanced Analytic Methods in Environmental Health Sciences at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling) and the [Imperial College Advanced Methods for Climate and Health Attribution Summer School](https://www.imperial.ac.uk/continuing-professional-development/short-courses/eng/environmental/advanced-methods-for-climate-and-health-attribution-summer-school/). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
+I teach the graduate courses (i) Atmospheric and Climate Science for Public Health, (ii) Advanced Analytic Methods in Environmental Health Science, and (iii) Quantitative Methods in Climate Change and Public Health at Columbia University. I am also the Lead Instructor of the Columbia University SHARP Course [Bayesian Modeling for Environmental Health](https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling) and the [Imperial College Advanced Methods for Climate and Health Attribution Summer School](https://www.imperial.ac.uk/continuing-professional-development/short-courses/eng/environmental/advanced-methods-for-climate-and-health-attribution-summer-school/). I supervise several post-doctoral fellows, PhD students, Master's students, and undergraduate students.
 
 I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow](https://www.climate.columbia.edu/postdoctoral-research-program) from 2019 to 2022 with Prof. [Marianthi-Anna Kioumourtzoglou](https://vivo.brown.edu/display/mkioumou), completed my PhD at the School of Public Health at Imperial College London with Profs. [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) and [Ralf Toumi](http://www.sp.ph.imperial.ac.uk/~rtoumi/) in 2019, and graduated with a BA/MA (Oxon) in Physics from [Keble College, University of Oxford](https://www.keble.ox.ac.uk/).
 
