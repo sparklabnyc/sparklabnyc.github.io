@@ -837,6 +837,8 @@ Analyze meteorological and climate data, interpret climate and weather forecasts
 
 <a href='https://vergil.columbia.edu/vergil/course/20261/10803/14817' target="_blank">Vergil link</a>
 
+Course <a href='https://github.com/sparklabnyc/advanced_analytic_methods_in_environmental_health_sciences_2026' target="_blank">2026 GitHub link</a>.
+
 This seminar course will introduce advanced methods and tools used in Environmental Health Sciences. 
 
 These topics include advanced regression techniques especially pertinent to environmental health, mixtures methods, Bayesian statistics, prediction and forecasting techniques, and attribution science in public health. 
@@ -921,8 +923,8 @@ Official SHARP Bayesian Modeling for Environmental Health Workshop
 <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">website link</a>.
 
 Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2025' target="_blank">2025 GitHub link</a>.
-Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">2024 GitHub link</a>.
-Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2023' target="_blank">2023 GitHub link</a>.
+<!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">2024 GitHub link</a>. -->
+<!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2023' target="_blank">2023 GitHub link</a>. -->
 
 ### Unfiltered shareable feedback from 2025 edition
 
@@ -1031,7 +1033,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
-## <a href='https://github.com/rmp15' target="_blank">GitHub</a>
+<!-- ## <a href='https://github.com/rmp15' target="_blank">GitHub</a> -->
 
 ## <a href='https://bsky.app/profile/robbieparks.bsky.social' target="_blank">Bluesky</a>
 
