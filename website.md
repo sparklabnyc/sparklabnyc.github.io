@@ -587,7 +587,29 @@ Rapid impact assessments for recent hurricanes:
 
 ## Lab activities
 
+### 2026
+
+<b>National Academy of Sciences, Frontiers of Science Fellowship, March 2026</b>
+
+<img src="../media/lab_outings/2026/nas_fos_march_2026/nas_fos_march_2026 1.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/nas_fos_march_2026/nas_fos_march_2026 2.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/nas_fos_march_2026/nas_fos_march_2026 3.jpeg" width="100%">
+
+<b>SPARK Lab NYC happy hour, February 2026</b>
+
+<img src="../media/lab_outings/2026/happy_hour_february_2026/happy_hour_february_2026.jpeg" width="100%">
+
 ### 2025
+
+<b>SPARK Lab NYC holiday party, December 2025</b>
+
+<img src="../media/lab_outings/2025/holiday_party_december_2025/holiday_party_december_2025.jpeg" width="100%">
+
+<b>P8301 Atmospheric and Climate Science for Public Health end of course group photo, December 2025</b>
+
+<img src="../media/lab_outings/2025/p8301_december_2025/p8301_december_2025.jpeg" width="100%">
 
 <b>ISEE Atlanta USA, August 2025</b>
 
