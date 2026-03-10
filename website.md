@@ -54,6 +54,7 @@ Watch this space!
 - Marcelo Jauregui-Volpe (Podcast producer)
 
 - Felipe L. Antequera (Post-doctoral fellow)
+- Brandon Lewis (Post-doctoral fellow. Climate School. From Summer 2026)
 - Victoria D. Lynch (Post-doctoral fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow. Faculty from Fall 2026)
 - Anna Palmer (Post-doctoral fellow)
