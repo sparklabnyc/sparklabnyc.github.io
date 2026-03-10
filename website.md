@@ -1103,215 +1103,307 @@ Details forthcoming
 ## Photography
 
 ### Overview
-I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly. I don't really use my <a href='https://instagram.com/robbiemparks/' target="_blank">Instagram<br></a> anymore, and it's currently inactive. 
 
-Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024, 2025.
-
-### 2023
-
-<img src="../media/photography/2023/000493440006_small.jpg" width="49%"> <img src="../media/photography/2023/000493440007_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493440011_small.jpg" width="49%"> <img src="../media/photography/2023/000493440008_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493440013_small.jpg" width="32%"> <img src="../media/photography/2023/000493440013_small.jpg" width="32%"> <img src="../media/photography/2023/000493440013_small.jpg" width="32%">
-
-<img src="../media/photography/2023/000493440022_small.jpg" width="49%"> <img src="../media/photography/2023/000493440014_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493440027_small.jpg" width="49%"> <img src="../media/photography/2023/000493440030_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493440034_small.jpg" width="32%"> <img src="../media/photography/2023/000493440029_small.jpg" width="32%"> <img src="../media/photography/2023/000493440028_small.jpg" width="32%">
-
-<img src="../media/photography/2023/000493450020_small.jpg" width="49%"> <img src="../media/photography/2023/000493450018_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493450030_small.jpg" width="49%"> <img src="../media/photography/2023/000493460005_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493450015_small.jpg" width="32%"> <img src="../media/photography/2023/000493450015_small.jpg" width="32%"> <img src="../media/photography/2023/000493450015_small.jpg" width="32%">
-
-<img src="../media/photography/2023/000493460018_small.jpg" width="49%"> <img src="../media/photography/2023/000493460013_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493460029_small.jpg" width="49%"> <img src="../media/photography/2023/000493460028_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000493450009_small.jpg" width="49%"> <img src="../media/photography/2023/000493460032_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613770020_small.jpg" width="32%"> <img src="../media/photography/2023/000613770012_small.jpg" width="32%"> <img src="../media/photography/2023/000613770020_small.jpg" width="32%">
-
-<img src="../media/photography/2023/000613770023_small.jpg" width="49%"> <img src="../media/photography/2023/000613770025_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613770036_small.jpg" width="49%"> <img src="../media/photography/2023/000613770035_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750017_small.jpg" width="49%"> <img src="../media/photography/2023/000613760026_small.jpg" width="49%">
-
-<img src="../media/photography/2023/000613750031_small.jpg" width="49%"> <img src="../media/photography/2023/000613760022_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750036_small.jpg" width="49%"> <img src="../media/photography/2023/000613750023_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613760008_small.jpg" width="32%"> <img src="../media/photography/2023/000613760034_small.jpg" width="32%"> <img src="../media/photography/2023/000613760008_small.jpg" width="32%">
-
-<img src="../media/photography/2023/000613750027_small.jpg" width="49%"> <img src="../media/photography/2023/000613750025_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750028_small.jpg" width="49%"> <img src="../media/photography/2023/000613750026_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750014_small.jpg" width="49%"> <img src="../media/photography/2023/000613750013_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750015_small.jpg" width="49%"> <img src="../media/photography/2023/000613750016_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750001_small.jpg" width="49%"> <img src="../media/photography/2023/000613750007_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613750008_small.jpg" width="49%"> <img src="../media/photography/2023/000613750009_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613760033_small.jpg" width="49%"> <img src="../media/photography/2023/000613760035_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613760037_small.jpg" width="49%"> <img src="../media/photography/2023/000613760036_small.jpg" width="49%"> 
-
-<img src="../media/photography/2023/000613770018_small.jpg" width="49%"> <img src="../media/photography/2023/000613770007_small.jpg" width="49%"> 
-
-### 2022
-
-<img src="../media/photography/2022/000430490032_small.jpg" width="49%"> <img src="../media/photography/2022/000430490031_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000430490025_small.jpg" width="49%"> <img src="../media/photography/2022/000430490026_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000430490027_small.jpg" width="49%"> <img src="../media/photography/2022/000430490030_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000430490020_small.jpg" width="49%"> <img src="../media/photography/2022/000430490017_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000430490011_small.jpg" width="49%"> <img src="../media/photography/2022/000430490005_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000430490003_small.jpg" width="49%"> <img src="../media/photography/2022/000430490003_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000421650001_small.jpeg" width="49%"> <img src="../media/photography/2022/000421650002_small.jpeg" width="49%"> 
-
-<img src="../media/photography/2022/000421650008_small.jpg" width="49%"> <img src="../media/photography/2022/000421650010_small.jpeg" width="49%"> 
-
-<img src="../media/photography/2022/000421650011_small.jpeg" width="49%"> <img src="../media/photography/2022/000421650013_small.jpeg" width="49%"> 
-
-<img src="../media/photography/2022/000421650027_small.jpeg" width="32%"> <img src="../media/photography/2022/000421650027_small.jpeg" width="32%"> <img src="../media/photography/2022/000421650027_small.jpeg" width="32%">
-
-<img src="../media/photography/2022/000421660023_small.jpg" width="32%"> <img src="../media/photography/2022/000421660014_small.jpeg" width="32%"> <img src="../media/photography/2022/000421660023_small.jpg" width="32%">
-
-<img src="../media/photography/2022/000421660008_small.jpg" width="49%"> <img src="../media/photography/2022/000421660015_small.jpeg" width="49%"> 
-
-<img src="../media/photography/2022/000421670005_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670005_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670005_small.jpeg" width="32%">
-
-<img src="../media/photography/2022/000421670010_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670010_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670010_small.jpeg" width="32%">
-
-<img src="../media/photography/2022/000421670011_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670017_small.jpeg" width="32%"> <img src="../media/photography/2022/000421670018_small.jpeg" width="32%">
-
-
-<img src="../media/photography/2022/000421670032_small.jpeg" width="49%"> <img src="../media/photography/2022/000421670019_small.jpeg" width="49%"> 
-
-<img src="../media/photography/2022/000421670025_small.jpeg" width="49%"> <img src="../media/photography/2022/000421670037_small.jpeg" width="49%">
-
-<img src="../media/photography/2022/000421670035_small.jpeg" width="49%"> <img src="../media/photography/2022/000421670035_small.jpeg" width="49%">
-
-
-<img src="../media/photography/2022/000518840013_small.jpg" width="49%"> <img src="../media/photography/2022/000518840028_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000518840022_small.jpg" width="49%"> <img src="../media/photography/2022/000518840029_small.jpg" width="49%">
-
-<img src="../media/photography/2022/000518840031_small.jpg" width="49%"> <img src="../media/photography/2022/000518850015_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000518850023_small.jpg" width="49%"> <img src="../media/photography/2022/000518850021_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000518850018_small.jpg" width="32%"> <img src="../media/photography/2022/000518850018_small.jpg" width="32%"> <img src="../media/photography/2022/000518850018_small.jpg" width="32%">
-
-<img src="../media/photography/2022/000549560004_small.jpg" width="49%"> <img src="../media/photography/2022/000549560024_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000549560026_small.jpg" width="49%"> <img src="../media/photography/2022/000549570024_small.jpg" width="49%"> 
-
-<img src="../media/photography/2022/000339120036_small.jpg" width="49%"> <img src="../media/photography/2022/000339120005_small.jpg" width="49%"> 
-
-### 2021
-
-<img src="../media/photography/2021/000502950035_small.jpg" width="49%"> <img src="../media/photography/2021/000502950025_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000502910033_small.jpg" width="49%"> <img src="../media/photography/2021/000502930023_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000502930037_small.jpg" width="49%"> <img src="../media/photography/2021/000502950006_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000311600012_small.jpg" width="49%"> <img src="../media/photography/2021/000311600021_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000311600025_small.jpg" width="49%"> <img src="../media/photography/2021/000502910012_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000502960006_small.jpg" width="49%"> <img src="../media/photography/2021/000502960025_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000502960005_small.jpg" width="49%"> <img src="../media/photography/2021/000502970002_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000110640037_small.jpg" width="49%"> <img src="../media/photography/2021/000110650034_small.jpg" width="49%"> 
-
-<img src="../media/photography/2021/000110650002_small.jpg" width="49%"> <img src="../media/photography/2021/000183870034_small.jpg" width="49%"> 
-
-### 2020
-
-<img src="../media/photography/2020/000110080013_small.jpg" width="49%"> <img src="../media/photography/2020/000110080018_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000037900002_small.jpg" width="32%"> <img src="../media/photography/2020/000037900038_small.jpg" width="32%"> <img src="../media/photography/2020/000156830025_small.jpg" width="32%">
-
-<img src="../media/photography/2020/000156830016_small.jpg" width="49%"> <img src="../media/photography/2020/000156830024_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000156840008_small.jpg" width="49%"> <img src="../media/photography/2020/000156840016_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000143300007_small.jpg" width="49%"> <img src="../media/photography/2020/000143300026_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000110090007_small.jpg" width="49%"> <img src="../media/photography/2020/000110090020_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000143290008_small.jpg" width="49%"> <img src="../media/photography/2020/000143290009_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000110080009_small.jpg" width="49%"> <img src="../media/photography/2020/000143300034_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000143300002_small.jpg" width="49%"> <img src="../media/photography/2020/000143300003_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000037900010_small.jpg" width="49%"> <img src="../media/photography/2020/000037900037_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000037900017_small.jpg" width="49%">  <img src="../media/photography/2020/000028580034_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028580010_small.jpg" width="49%"> <img src="../media/photography/2020/000028580017_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028580022_small.jpg" width="49%"> <img src="../media/photography/2020/000028580023_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028580027_small.jpg" width="49%"> <img src="../media/photography/2020/000028580031_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028590030_small.jpg" width="32%"> <img src="../media/photography/2020/000013400018_small.jpg" width="32%"> <img src="../media/photography/2020/000028620036_small.jpg" width="32%">
-
-<img src="../media/photography/2020/000028600004_small.jpg" width="49%"> <img src="../media/photography/2020/000028600006_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028600007_small.jpg" width="49%"> <img src="../media/photography/2020/000028600014_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028600016_small.jpg" width="49%"> <img src="../media/photography/2020/000028600021_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028590001_small.jpg" width="49%">  <img src="../media/photography/2020/000028610024_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028610013_small.jpg" width="32%"> <img src="../media/photography/2020/000028610035_small.jpg" width="32%"> <img src="../media/photography/2020/000028620013_small.jpg" width="32%">
-
-<img src="../media/photography/2020/000028610026_small.jpg" width="49%"> <img src="../media/photography/2020/000028610032_small.jpg" width="49%"> 
-
-<img src="../media/photography/2020/000028590012_small.jpg" width="49%"> <img src="../media/photography/2020/000013400001_small.jpg" width="49%"> 
-
-### 2019
-
-<img src="../media/photography/2019/000056540007_small.jpg" width="32%"> <img src="../media/photography/2019/000056540008_small.jpg" width="32%"> <img src="../media/photography/2019/000056540009_small.jpg" width="32%">
-
-<img src="../media/photography/2019/000056540006_small.jpg" width="49%"> <img src="../media/photography/2019/000056540010_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/000056530006_small.jpg" width="49%"> <img src="../media/photography/2019/000056530007_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/000056530018_small.jpg" width="49%"> <img src="../media/photography/2019/94020003_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/000056540026_small.jpg" width="32%"> <img src="../media/photography/2019/94040006_small.jpg" width="32%"> <img src="../media/photography/2019/94040021_small.jpg" width="32%">
-
-<img src="../media/photography/2019/94040014_small.jpg" width="49%"> <img src="../media/photography/2019/94030025_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/94040003_small.jpg" width="49%"> <img src="../media/photography/2019/94040011_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/94040018_small.jpg" width="49%"> <img src="../media/photography/2019/94040020_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/94040027_small.jpg" width="49%"> <img src="../media/photography/2019/94040019_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/94020011_small.jpg" width="49%"> <img src="../media/photography/2019/94020013_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/94020019_small.jpg" width="49%"> <img src="../media/photography/2019/94020020_small.jpg" width="49%"> 
-
-<img src="../media/photography/2019/94030015_small.jpg" width="49%"> <img src="../media/photography/2019/94030017_small.jpg" width="49%"> 
+<main class="photo-page">
+  <p>
+    I also really like taking photos with my Nikon FM3A camera. I update these semi-regularly.
+
+    I don't really use my <a href="https://instagram.com/robbiemparks/" target="_blank">Instagram</a> anymore, and it's currently inactive.
+
+    Please enjoy :)
+
+    Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026.
+  </p>
+
+  <section class="photo-year">
+    <h2>2023</h2>
+    <div class="photo-gallery">
+      <img src="../media/photography/2023/000493440006_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440007_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440011_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440008_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440013_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440022_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440014_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440027_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440030_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440034_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440029_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493440028_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493450020_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493450018_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493450030_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493460005_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493450015_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493460018_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493460013_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493460029_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493460028_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493450009_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000493460032_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770020_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770012_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770023_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770025_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770036_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770035_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750017_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760026_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750031_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760022_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750036_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750023_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760008_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760034_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750027_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750025_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750028_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750026_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750014_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750013_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750015_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750016_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750001_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750007_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750008_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613750009_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760033_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760035_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760037_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613760036_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770018_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000613770007_small.jpg" alt="Photography 2023" loading="lazy">
+    </div>
+  </section>
+
+  <section class="photo-year">
+    <h2>2022</h2>
+    <div class="photo-gallery">
+      <img src="../media/photography/2022/000430490032_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490031_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490025_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490026_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490027_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490030_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490020_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490017_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490011_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490005_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000430490003_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650001_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650002_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650008_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650010_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650011_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650013_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421650027_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421660023_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421660014_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421660008_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421660015_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670005_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670010_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670011_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670017_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670018_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670032_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670019_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670025_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670037_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000421670035_small.jpeg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518840013_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518840028_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518840022_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518840029_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518840031_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518850015_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518850023_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518850021_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000518850018_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000549560004_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000549560024_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000549560026_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000549570024_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000339120036_small.jpg" alt="Photography 2022" loading="lazy">
+      <img src="../media/photography/2022/000339120005_small.jpg" alt="Photography 2022" loading="lazy">
+    </div>
+  </section>
+
+  <section class="photo-year">
+    <h2>2021</h2>
+    <div class="photo-gallery">
+      <img src="../media/photography/2021/000502950035_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502950025_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502910033_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502930023_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502930037_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502950006_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000311600012_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000311600021_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000311600025_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502910012_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502960006_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502960025_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502960005_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000502970002_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000110640037_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000110650034_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000110650002_small.jpg" alt="Photography 2021" loading="lazy">
+      <img src="../media/photography/2021/000183870034_small.jpg" alt="Photography 2021" loading="lazy">
+    </div>
+  </section>
+
+  <section class="photo-year">
+    <h2>2020</h2>
+    <div class="photo-gallery">
+      <img src="../media/photography/2020/000110080013_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000110080018_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000037900002_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000037900038_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000156830025_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000156830016_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000156830024_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000156840008_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000156840016_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143300007_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143300026_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000110090007_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000110090020_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143290008_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143290009_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000110080009_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143300034_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143300002_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000143300003_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000037900010_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000037900037_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000037900017_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580034_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580010_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580017_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580022_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580023_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580027_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028580031_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028590030_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000013400018_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028620036_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028600004_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028600006_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028600007_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028600014_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028600016_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028600021_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028590001_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028610024_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028610013_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028610035_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028620013_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028610026_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028610032_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000028590012_small.jpg" alt="Photography 2020" loading="lazy">
+      <img src="../media/photography/2020/000013400001_small.jpg" alt="Photography 2020" loading="lazy">
+    </div>
+  </section>
+
+  <section class="photo-year">
+    <h2>2019</h2>
+    <div class="photo-gallery">
+      <img src="../media/photography/2019/000056540007_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056540008_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056540009_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056540006_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056540010_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056530006_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056530007_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056530018_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94020003_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/000056540026_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040006_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040021_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040014_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94030025_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040003_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040011_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040018_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040020_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040027_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94040019_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94020011_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94020013_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94020019_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94020020_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94030015_small.jpg" alt="Photography 2019" loading="lazy">
+      <img src="../media/photography/2019/94030017_small.jpg" alt="Photography 2019" loading="lazy">
+    </div>
+  </section>
+</main>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="lightbox-close" id="lightbox-close" aria-label="Close image">&times;</button>
+  <button class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Previous image">&#10094;</button>
+  <figure class="lightbox-figure">
+    <img id="lightbox-img" src="" alt="">
+  </figure>
+  <button class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Next image">&#10095;</button>
+</div>
+
+<script>
+  (function () {
+    const images = Array.from(document.querySelectorAll(".photo-gallery img"));
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightbox-img");
+    const closeBtn = document.getElementById("lightbox-close");
+    const prevBtn = document.getElementById("lightbox-prev");
+    const nextBtn = document.getElementById("lightbox-next");
+    let currentIndex = 0;
+
+    function openLightbox(index) {
+      currentIndex = index;
+      lightboxImg.src = images[currentIndex].src;
+      lightboxImg.alt = images[currentIndex].alt || "";
+      lightbox.classList.add("active");
+      lightbox.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeLightbox() {
+      lightbox.classList.remove("active");
+      lightbox.setAttribute("aria-hidden", "true");
+      lightboxImg.src = "";
+      document.body.style.overflow = "";
+    }
+
+    function showNext() {
+      currentIndex = (currentIndex + 1) % images.length;
+      openLightbox(currentIndex);
+    }
+
+    function showPrev() {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      openLightbox(currentIndex);
+    }
+
+    images.forEach((img, index) => {
+      img.addEventListener("click", () => openLightbox(index));
+    });
+
+    closeBtn.addEventListener("click", closeLightbox);
+    nextBtn.addEventListener("click", showNext);
+    prevBtn.addEventListener("click", showPrev);
+
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) closeLightbox();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (!lightbox.classList.contains("active")) return;
+      if (e.key === "Escape") closeLightbox();
+      if (e.key === "ArrowRight") showNext();
+      if (e.key === "ArrowLeft") showPrev();
+    });
+  })();
+</script>
 
 ## <a href='https://www.goodreads.com/robbiemparks' target="_blank">Books</a>
 
