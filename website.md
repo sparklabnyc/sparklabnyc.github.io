@@ -1070,13 +1070,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # Not academia 
-## Surviving the Climate 
-
-### Overview
-The climate crisis demands collective preparedness, evidence-based research, creative innovation, and a good podcast to listen to while hunkering down in your bunker. Surviving the Climate is your weekly podcast hosted by professor Robbie Parks and emergency manager Nate Matthews-Trigg. These longtime friends will discuss climate and disaster-related news, pop culture, the latest research, all with a focus on practical insights for regular people just trying to make do with what they have.
-
-Artwork below by Blanche Ellis.
-<img src="../media/surviving_the_climate/Surviving The Climate Podcast Cover V4 Final.png" width="100%"> 
+## <a href='https://www.survivingtheclimate.com/' target="_blank">Surviving the Climate</a>
 
 ## Sound
 
