@@ -54,12 +54,13 @@ Watch this space!
 - Marcelo Jauregui-Volpe (Podcast producer)
 
 - Felipe L. Antequera (Post-doctoral fellow)
-- Brandon Lewis (Post-doctoral fellow. Climate School. From Summer 2026)
+- Brandon Lewis (Post-doctoral fellow, Climate School. From Summer 2026)
 - Victoria D. Lynch (Post-doctoral fellow)
 - [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow. Faculty from Fall 2026)
 - Anna Palmer (Post-doctoral fellow)
 - Martha Lee (Post-doctoral fellow)
 
+- Majd Abid (Research software engineer)
 - [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer)
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer)
 
@@ -71,16 +72,17 @@ Watch this space!
 - Raffaela Langer (PhD student)
 - Fintan Mooney (PhD student)
 
-- Majd Abid (Research assistant)
 - Lincole Jiang (Research assistant)
 - Jenna Nicole Swartz (Research assistant)
 
 - Maren Hale (Research co-ordinator)
 
+- Gabriela Daza (Master's student)
 - Gabriela Imbert (Master's student)
 - Yifei Yu (Master's student)
 
 - Alicia Lopez-Guerra (Barnard senior)
+- Param Sampat (Columbia sophomore, Comer Climate Undergraduate Research Fellow)
 
 - Jackson Chen (High school intern)
 - Ayush Panchal (High school intern)
@@ -1052,7 +1054,7 @@ Photo credit below Ryan Murphy/Reuters
 
 ## CV
 ### 
-Download up to date version via [Overleaf project page](https://www.overleaf.com/read/bhsmjnfqjmrr#a048f6) (via buttons to the right of green ‘Recompile’ button).
+Download up to date version via [Overleaf project page](https://www.overleaf.com/read/ccjzwhkyvdvz#043047) (via buttons to the right of green ‘Recompile’ button).
 
 ## <a href='https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd' target="_blank">Columbia University Faculty Website</a>
 
