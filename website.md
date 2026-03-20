@@ -1119,7 +1119,9 @@ Details forthcoming
 <section class="photo-year">
   <h2>2024</h2>
   <div class="photo-gallery">
-      <img src="../media/photography/2024/000750090036_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000363180006_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000363180018_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000750090036_small.jpg" loading="lazy">
     <img src="../media/photography/2024/000750090030_small.jpg" loading="lazy">
     <img src="../media/photography/2024/000750090017_small.jpg" loading="lazy">
     <img src="../media/photography/2024/000750080029_small.jpg" loading="lazy">
