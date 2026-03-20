@@ -1119,6 +1119,146 @@ Details forthcoming
   </p>
 
 <section class="photo-year">
+  <h2>2025</h2>
+  <div class="photo-gallery">
+
+      <!-- 00081743 block -->
+    <img src="../media/photography/2025/000817430037_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430036_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430035_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430034_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430031_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430025_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430017_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430016_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430008_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817430003_small.jpg" loading="lazy">
+
+    <!-- 00081742 / 00081744 block -->
+    <img src="../media/photography/2025/000817440030_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440028_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440027_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440026_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440022_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440019_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440014_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440008_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440006_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440005_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440004_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817440002_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420038_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420036_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420034_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420023_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420020_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420005_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000817420003_small.jpg" loading="lazy">
+
+    <!-- 00052451 block -->
+    <img src="../media/photography/2025/000524510037_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510033_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510032_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510030_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510028_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510027_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510020_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510019_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510018_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510011_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510009_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524510005_small.jpg" loading="lazy">
+
+    <!-- 00052452 block -->
+    <img src="../media/photography/2025/000524520036_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520035_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520034_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520029_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520028_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520027_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520026_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520025_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520024_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520023_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520021_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520020_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520019_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520018_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520017_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520016_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520012_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520011_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520010_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520009_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520008_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520006_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000524520005_small.jpg" loading="lazy">
+
+    <!-- 00080343 block -->
+    <img src="../media/photography/2025/000803430025_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000803430015_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000803430012_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000803430004_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000803430003_small.jpg" loading="lazy">
+
+    <!-- 00132022 block -->
+    <img src="../media/photography/2025/001320220023_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220019_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220013_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220012_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220011_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220010_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220009_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220008_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220005_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320220003_small.jpg" loading="lazy">
+
+    <!-- 00132023 block -->
+    <img src="../media/photography/2025/001320230035_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230033_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230031_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230028_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230026_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230014_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230011_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230010_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230009_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230008_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230007_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/001320230004_small.jpg" loading="lazy">
+
+    <!-- 00036317 block -->
+    <img src="../media/photography/2025/000363170035_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170033_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170032_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170031_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170027_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170026_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170024_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170022_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170018_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170016_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170014_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170009_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170005_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363170002_small.jpg" loading="lazy">
+
+    <!-- 00036318 / 00036319 block -->
+    <img src="../media/photography/2025/000363190032_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190030_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190020_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190019_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190018_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190014_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190011_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190010_small.jpg" loading="lazy">
+    <img src="../media/photography/2025/000363190008_small.jpg" loading="lazy">
+
+    <img src="../media/photography/2025/000363180033_small.jpg" loading="lazy">
+  </div>
+</section>
+
+<section class="photo-year">
   <h2>2024</h2>
   <div class="photo-gallery">
     <img src="../media/photography/2024/000363180006_small.jpg" loading="lazy">
