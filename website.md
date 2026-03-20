@@ -1116,9 +1116,79 @@ Details forthcoming
     Copyright all photos Robbie M Parks 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026.
   </p>
 
+<section class="photo-year">
+  <h2>2024</h2>
+  <div class="photo-gallery">
+      <img src="../media/photography/2024/000750090036_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000750090030_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000750090017_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000750080029_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000733440005_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000733440003_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000733440002_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000334270034_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000334270023_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000334270019_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000334270004_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332070016_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060037_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060036_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060033_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060027_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060026_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060015_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060011_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332060004_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332050028_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332050003_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332040008_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332040005_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000332040001_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000733450030_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000733450024_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000733450015_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000345490034_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000345490030_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000345490021_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000345490006_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000531510034_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000531510026_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000531510006_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000531510012_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690033_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690031_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690029_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690014_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690013_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690010_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690005_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725690002_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725700029_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725700028_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725700025_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725700024_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725700007_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725700005_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725680026_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000725680023_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000700360034_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000700360030_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000700360027_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000700360024_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000700360016_small.jpg" loading="lazy">
+    <img src="../media/photography/2024/000700360013_small.jpg" loading="lazy">
+  </div>
+</section>
+
   <section class="photo-year">
     <h2>2023</h2>
     <div class="photo-gallery">
+      <img src="../media/photography/2023/000700350017_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000700350018_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000700350025_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000700350026_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000498510032_small.jpg" alt="Photography 2023" loading="lazy">
+      <img src="../media/photography/2023/000498510004_small.jpg" alt="Photography 2023" loading="lazy">
       <img src="../media/photography/2023/000493440006_small.jpg" alt="Photography 2023" loading="lazy">
       <img src="../media/photography/2023/000493440007_small.jpg" alt="Photography 2023" loading="lazy">
       <img src="../media/photography/2023/000493440011_small.jpg" alt="Photography 2023" loading="lazy">
