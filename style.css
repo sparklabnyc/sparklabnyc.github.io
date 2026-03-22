@@ -1,14 +1,15 @@
+/* =========================
+   Reset
+   ========================= */
+
 * {
   margin: 0;
   padding: 0;
   border: 0;
   outline: 0;
-  text-decoration: none;
-  font-weight: inherit;
-  font-style: inherit;
   color: inherit;
-  font-size: 100%;
-  font-family: inherit;
+  font: inherit;
+  text-decoration: none;
   vertical-align: baseline;
   list-style: none;
   border-collapse: separate;
@@ -18,270 +19,124 @@
 }
 
 *:focus {
-  outline: none
+  outline: none;
 }
 
 ::selection {
   background: #eee;
-  opacity: 1.0;
   color: #000;
-  padding: 10px;
-  /* Safari */
+}
+
+/* =========================
+   Fonts
+   ========================= */
+
+@font-face {
+  font-family: "alte_haas_grotesk_regular";
+  src: url("media/fonts/alte_haas_grotesk_regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: 'alte_haas_grotesk_regular';
-  src: url('media/fonts/alte_haas_grotesk_regular.ttf') format('truetype');
-  font-weight: normal;
+  font-family: "alte_haas_grotesk_bold";
+  src: url("media/fonts/alte_haas_grotesk_bold.ttf") format("truetype");
   font-style: normal;
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: 'alte_haas_grotesk_bold';
-  src: url('media/fonts/alte_haas_grotesk_bold.ttf') format('truetype');
-  font-weight: normal;
+  font-family: "input_mono_regular";
+  src: url("media/fonts/input_mono_regular.ttf") format("truetype");
   font-style: normal;
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: 'input_mono_regular';
-  src: url('media/fonts/input_mono_regular.ttf') format('truetype');
-  font-weight: normal;
+  font-family: "input_mono_medium";
+  src: url("media/fonts/input_mono_medium.ttf") format("truetype");
   font-style: normal;
+  font-weight: normal;
 }
 
-@font-face {
-  font-family: 'input_mono_medium';
-  src: url('media/fonts/input_mono_medium.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+/* =========================
+   Base
+   ========================= */
 
-html {
-  background: white;
+html,
+body {
+  background: #fff;
 }
 
 body {
-  background: #fff;
   color: #000;
-  font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial;
+  font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
   margin-top: 5px;
   padding: 45px 90px;
 }
 
-body hr {
+hr {
   border: 0;
   clear: both;
 }
 
-body header a#logo {
-  margin-top: -15px;
+a {
+  text-decoration: underline;
+}
+
+b {
+  font-weight: bold;
+}
+
+/* =========================
+   Header
+   ========================= */
+
+header a#logo {
   display: block;
   width: 75px;
+  margin-top: -15px;
   margin-bottom: 15px;
 }
 
-body header a#logo img {
+header a#logo img {
   width: 100%;
+  display: block;
 }
 
-body main img.capsule {
-  width: 150px;
-}
+/* =========================
+   Main Layout
+   ========================= */
 
-body main img.medium {
-  max-width: 300px;
-}
-
-body main>* {
+main>* {
   max-width: 600px;
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
 
-body main>h1 {
-  font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial;
+main>h1 {
+  font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 45px;
   text-transform: capitalize;
 }
 
-body main>h2 {
-  font-family: "alte_haas_grotesk_bold",
-    "Helvetica Neue", Helvetica, Arial;
+main>h2 {
+  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 30px;
   text-transform: capitalize;
   margin-top: 45px;
 }
 
-body main>img {
-  max-width: 600px
+main>img {
+  max-width: 600px;
 }
 
-body main>ul {
-  font-family: 'input_mono_regular';
-  font-size: 14px;
-  line-height: 20px
-}
-
-body main>ul li {}
-
-body main>ul li a {
-  text-transform: capitalize;
-  text-decoration: underline;
-}
-
-body main>ul li b {
-  font-weight: bold
-}
-
-body main>ul li:hover a {
-  text-decoration: none;
-}
-
-body main>p {
-  line-height: 28px;
-  font-size: 18px;
-}
-
-body main>p a {
-  text-decoration: underline;
-}
-
-body main>p b {
-  font-weight: bold
-}
-
-body main>p i {
-  font-style: italic;
-  line-height: 28px;
-  font-size: 18px;
-}
-
-body main>code {
-  font-family: 'input_mono_regular';
-  font-size: 12px;
-  margin-bottom: 30px;
-  display: block;
-  background: black;
-  color: white;
-  padding: 15px;
-  white-space: pre
-}
-
-body main>code comment {
-  color: #777;
-}
-
-body main>p.quote {
-  padding: 30px;
-  font-size: 20px;
-  font-style: italic;
-  max-width: 400px
-}
-
-body main>ul.jump {
-  columns: 2;
-  line-height: 20px
-}
-
-body main>ul.jump li {
-  list-style-type: decimal-leading-zero;
-  list-style-position: inside;
-  text-transform: capitalize;
-}
-
-body main>ul.jump li::marker {
-  color: #777;
-}
-
-body main>ul.jump li:hover {
-  background: black;
-  color: white;
-}
-
-body main a.button {
-  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial;
-  background-color: #000000;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-body main a.button:hover {
-  background-color: #727272 !important;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-body main a.button.patreon {
-  background-color: #e75942;
-}
-
-body main ul.gallery {
-  background: none;
-}
-
-body main ul.gallery li {
-  clear: both;
-  display: block;
-  border-bottom: 2px solid black;
-  height: 170px;
-  margin-top: -2px;
-}
-
-body main ul.gallery li:last-child {
-  border-bottom: 0px;
-}
-
-body main ul.gallery li a {
-  display: block;
-  padding: 10px;
-}
-
-body main ul.gallery li img {
+main img.capsule {
   width: 150px;
-  float: left;
-  display: block;
-  margin-right: 15px;
 }
 
-body main ul.gallery li h3 {
-  font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial;
-  font-size: 30px;
-  text-transform: capitalize;
-  line-height: 40px;
-  max-width: 75%;
-  margin-bottom: 10px;
-}
-
-body main ul.gallery li h4 {
-  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial;
-  font-size: 20px;
-  text-transform: capitalize;
-}
-
-body footer {
-  border-top: 1.5px solid black;
-  padding-top: 30px;
-  margin-bottom: 120px;
-  max-width: 600px
-}
-
-body footer p {
-  font-weight: bold
-}
-
-body footer p a {
-  text-decoration: underline;
+main img.medium {
+  max-width: 300px;
 }
 
 img.thumbnail {
@@ -290,40 +145,201 @@ img.thumbnail {
   margin-bottom: 10px;
 }
 
-b {
-  font-weight: bold
+/* =========================
+   Typography
+   ========================= */
+
+main>p {
+  font-size: 18px;
+  line-height: 28px;
 }
 
-a {
+main>p a {
   text-decoration: underline;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+main>p i {
+  font-size: 18px;
+  line-height: 28px;
+  font-style: italic;
 }
 
-body main p sub {
+main p sub {
   font-size: 14px;
   font-style: italic;
 }
 
-@media (max-width: 900px) {
-  body {
-    padding: 30px;
-  }
+main>p.quote {
+  max-width: 400px;
+  padding: 30px;
+  font-size: 20px;
+  font-style: italic;
+}
 
-  body main>ul.jump {
-    columns: 1 !important
-  }
+main>ul {
+  font-family: "input_mono_regular", monospace;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+main>ul li a {
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+main>ul li:hover a {
+  text-decoration: none;
+}
+
+/* =========================
+   Code
+   ========================= */
+
+main>code {
+  display: block;
+  padding: 15px;
+  margin-bottom: 30px;
+  background: #000;
+  color: #fff;
+  font-family: "input_mono_regular", monospace;
+  font-size: 12px;
+  white-space: pre;
+}
+
+main>code comment {
+  color: #777;
+}
+
+/* =========================
+   Jump List
+   ========================= */
+
+main>ul.jump {
+  columns: 2;
+  line-height: 20px;
+}
+
+main>ul.jump li {
+  list-style-type: decimal-leading-zero;
+  list-style-position: inside;
+  text-transform: capitalize;
+}
+
+main>ul.jump li::marker {
+  color: #777;
+}
+
+main>ul.jump li:hover {
+  background: #000;
+  color: #fff;
+}
+
+/* =========================
+   Buttons
+   ========================= */
+
+main a.button {
+  display: inline-block;
+  padding: 15px 32px;
+  background: #000;
+  color: #fff;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+main a.button:hover {
+  background: #727272 !important;
+  color: #fff;
+}
+
+main a.button.patreon {
+  background: #e75942;
+}
+
+/* =========================
+   Gallery List
+   ========================= */
+
+main ul.gallery {
+  background: none;
+}
+
+main ul.gallery li {
+  display: block;
+  clear: both;
+  height: 170px;
+  margin-top: -2px;
+  border-bottom: 2px solid #000;
+}
+
+main ul.gallery li:last-child {
+  border-bottom: 0;
+}
+
+main ul.gallery li a {
+  display: block;
+  padding: 10px;
+}
+
+main ul.gallery li img {
+  display: block;
+  float: left;
+  width: 150px;
+  margin-right: 15px;
+}
+
+main ul.gallery li h3 {
+  max-width: 75%;
+  margin-bottom: 10px;
+  font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: capitalize;
+}
+
+main ul.gallery li h4 {
+  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+  max-width: 600px;
+  margin-bottom: 120px;
+  padding-top: 30px;
+  border-top: 1.5px solid #000;
+}
+
+footer p {
+  font-weight: bold;
+}
+
+footer p a {
+  text-decoration: underline;
+}
+
+/* =========================
+   Utilities
+   ========================= */
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* =========================
    Photography Gallery
    ========================= */
 
-body main>.photo-year {
+main>.photo-year {
   max-width: none;
 }
 
@@ -332,10 +348,12 @@ body main>.photo-year {
 }
 
 .photo-year h2 {
+  margin-top: 60px;
   margin-bottom: 20px;
+  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 36px;
+  font-weight: bold;
 }
-
-/* Gallery grid */
 
 .photo-gallery {
   display: grid;
@@ -344,15 +362,13 @@ body main>.photo-year {
   width: 100%;
 }
 
-/* Image previews */
-
 .photo-gallery img {
+  display: block;
   width: 100%;
   height: auto;
   object-fit: contain;
-  display: block;
-  cursor: pointer;
   border-radius: 6px;
+  cursor: pointer;
   transition: transform 0.18s ease, opacity 0.18s ease;
 }
 
@@ -361,17 +377,19 @@ body main>.photo-year {
   opacity: 0.96;
 }
 
-/* Lightbox */
+/* =========================
+   Lightbox
+   ========================= */
 
 .lightbox {
   display: none;
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.94);
   z-index: 9999;
   align-items: center;
   justify-content: center;
   padding: 40px;
+  background: rgba(0, 0, 0, 0.94);
 }
 
 .lightbox.active {
@@ -379,27 +397,27 @@ body main>.photo-year {
 }
 
 .lightbox img {
-  max-width: 92vw;
-  max-height: 92vh;
   width: auto;
   height: auto;
+  max-width: 92vw;
+  max-height: 92vh;
 }
 
-/* Mobile */
+/* =========================
+   Responsive
+   ========================= */
 
-@media (max-width:900px) {
+@media (max-width: 900px) {
+  body {
+    padding: 30px;
+  }
+
+  main>ul.jump {
+    columns: 1 !important;
+  }
 
   .photo-gallery {
     grid-template-columns: 1fr;
     gap: 14px;
   }
-
-}
-
-.photo-year h2 {
-  font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial;
-  font-size: 36px;
-  font-weight: bold;
-  margin-top: 60px;
-  margin-bottom: 20px;
 }
