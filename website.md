@@ -5,17 +5,7 @@
 
 <b>Summer 2026 APEx opportunities</b> 
 
-SPARK Lab NYC is seeking two research assistants for the ongoing project 'Data solution for impacts of climate-related extremes on incarcerated people in the United States'. 
-
-<b>Research Assistant: Data management and analysis</b>
-
-This person will assist with cleaning and preparing large datasets for statistical analyses.
-Start Date: March 1st 2026
-Desired Qualifications
-
-Strong data analysis skills
-Knowledge of working with large, complex datasets
-Proficiency in at least one programming language (R or Python preferred)
+SPARK Lab NYC is seeking two research assistants (one filled) for the ongoing project 'Data solution for impacts of climate-related extremes on incarcerated people in the United States'. 
 
 <b>Research Assistant: Focus group Coordinator</b>
 
@@ -38,6 +28,16 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 Watch this space!
 
 ### Previously filled positions
+
+<b>Research Assistant: Data management and analysis (posted February 2026)</b>
+
+This person will assist with cleaning and preparing large datasets for statistical analyses.
+Start Date: March 1st 2026
+Desired Qualifications
+
+Strong data analysis skills
+Knowledge of working with large, complex datasets
+Proficiency in at least one programming language (R or Python preferred)
 
 - [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 - [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
@@ -128,9 +128,13 @@ Watch this space!
 
 ### Summary
 
-- 49 peer-reviewed papers, including 23 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
+- 51 peer-reviewed papers, including 24 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
 ### 2026
+
+- Prada D, Morava-Kozicz E, Rajendrakumar AL, Kupsco A, Lesseur C, Irizar H, Cantú-de-Leon D, García-Cuellar C, Ramírez A, González-Ruíz J, Horowitz CR, Cushman M, Manly J, Judd S, Bagiella E, Baccarelli A, <b>Parks RM</b>. (In press). TBC. <b>TBC</b>.
+
+- Bannon E, Lieberman-Cribbin W, Spriggs R, Adkins-Jackson PB, Ornelas Van Horne Y, <b>Parks RM</b>, Prins SJ, Nigra AE. (In press). TBC. <b>TBC</b>.
 
 - Achebak H, Paniello-Castillo B, <b>Parks RM</b>, van Daalen K. (In press). TBC. <b>TBC</b>.
 
