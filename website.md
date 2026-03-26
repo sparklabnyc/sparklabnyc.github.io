@@ -3,6 +3,8 @@
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
+- [Research Lab Manager (posted March 25th 2026)](https://apply.interfolio.com/183612)
+
 <b>Summer 2026 APEx opportunities</b> 
 
 SPARK Lab NYC is seeking two research assistants (one filled) for the ongoing project 'Data solution for impacts of climate-related extremes on incarcerated people in the United States'. 
