@@ -43,6 +43,7 @@ Proficiency in at least one programming language (R or Python preferred)
 
 - [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 - [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
+
 - See also [team page](https://sparklabnyc.github.io/site/the_team.html) for previously filled positions 
 
 ## The Team
