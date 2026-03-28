@@ -3,8 +3,6 @@
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
-- [Research Lab Manager (posted March 25th 2026)](https://apply.interfolio.com/183612)
-
 <b>Summer 2026 APEx opportunities</b> 
 
 SPARK Lab NYC is seeking two research assistants (one filled) for the ongoing project 'Data solution for impacts of climate-related extremes on incarcerated people in the United States'. 
@@ -43,7 +41,6 @@ Proficiency in at least one programming language (R or Python preferred)
 
 - [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 - [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
-
 - See also [team page](https://sparklabnyc.github.io/site/the_team.html) for previously filled positions 
 
 ## The Team
@@ -261,10 +258,15 @@ Proficiency in at least one programming language (R or Python preferred)
 ## Press coverage
 ### 2025
 
+<b>National Academy of Sciences Selects, 2026 NAS Frontiers of Science Fellows</b>
+
+- <a href=https://vimeo.com/1171350569 target="_blank">Heat Stress and Human Health: Tackling the World’s Most Dangerous Hazard - Robbie M. Parks, Columbia University</a>, <b>National Academy of Sciences</b>, March 2026<br>
+- <a href=https://www.nasonline.org/symposia/2026-u-s-frontiers-of-science/ target="_blank">2026 U.S. Frontiers of Science</a>, <b>National Academy of Sciences</b>, March 2026<br>
+- <a href=https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/ target="_blank">National Academy of Sciences Selects the 2026 NAS Frontiers of Science Fellows</a>, <b>National Academy of Sciences</b>, January 2026<br>
+
 <b>Columbia Public Health Magazine 2025-2026</b>
 
 - <a href=https://www.publichealth.columbia.edu/news/heat target="_blank">The Heat is On</a>, <b>Columbia Public Health Magazine 2025-2026</b>, December 2025<br>
-- <a href=https://news.climate.columbia.edu/2025/12/03/
 
 <b>COP30</b>
 
