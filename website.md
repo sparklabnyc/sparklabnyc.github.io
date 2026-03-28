@@ -5,6 +5,10 @@
 
 - [Research Lab Manager (posted March 25th 2026)](https://apply.interfolio.com/183612)
 
+Watch this space!
+
+### Previously filled positions
+
 <b>Summer 2026 APEx opportunities</b> 
 
 SPARK Lab NYC is seeking two research assistants (one filled, previous details below) for the ongoing project 'Data solution for impacts of climate-related extremes on incarcerated people in the United States'. 
@@ -25,12 +29,6 @@ Applicants must submit a resume and cover letter part of the application process
 Employment Type: Part-time
 Compensation: $25/hr
 
-To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.edu with the subject line 'SPARK Lab APEx Application'.
-
-Watch this space!
-
-### Previously filled positions
-
 <b>Research Assistant: Data management and analysis (posted February 2026)</b>
 
 This person will assist with cleaning and preparing large datasets for statistical analyses.
@@ -40,6 +38,8 @@ Desired Qualifications
 Strong data analysis skills
 Knowledge of working with large, complex datasets
 Proficiency in at least one programming language (R or Python preferred)
+
+To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.edu with the subject line 'SPARK Lab APEx Application'.
 
 - [Postdoctoral Research Scientist (posted October 28th 2025)](https://forms.stat.ufl.edu/statistics-jobs/entry/12685/)
 - [Postdoctoral Research Scientist (posted September 12th 2025)](https://apply.interfolio.com/173634)
