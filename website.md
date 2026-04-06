@@ -603,6 +603,10 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>Lab lunch, March 2026</b>
+
+<img src="../media/lab_outings/2026/lab_lunch_april_2026/lab_lunch_april_2026.jpeg" width="100%">
+
 <b>National Academy of Sciences, Frontiers of Science Fellowship, March 2026</b>
 
 <img src="../media/lab_outings/2026/nas_fos_march_2026/nas_fos_march_2026 1.jpeg" width="100%">
