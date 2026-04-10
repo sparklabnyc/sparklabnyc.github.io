@@ -86,12 +86,14 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Alicia Lopez-Guerra (Barnard senior)
 - Param Sampat (Columbia sophomore, Comer Climate Undergraduate Research Fellow)
 
-- Jackson Chen (High school intern)
 - Ayush Panchal (High school intern)
+
+- SPARKY (lab computer)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Undergraduate degree at Cornell University)
+- Jackson Chen (High school intern. Next: Undergraduate degree at Princeton University)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: Faculty role)
 - Jiayi Ge (Master's student. Next: Finishing Master's)
