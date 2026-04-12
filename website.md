@@ -1,5 +1,10 @@
 # SPARK Lab NYC
 
+## Expressing your interest in SPARK Lab NYC
+### Contact email
+
+If you are interested in SPARK Lab NYC, please contact <a href="sparklabnyc@cumc.columbia.edu">. We would really appreciate if you use that email as a first port of call, as it helps us focus interest and respond appropriately and promptly. Thank you!
+
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
@@ -136,11 +141,11 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 ### 2026
 
-- Prada D, Morava-Kozicz E, Rajendrakumar AL, Kupsco A, Lesseur C, Irizar H, Cantú-de-Leon D, García-Cuellar C, Ramírez A, González-Ruíz J, Horowitz CR, Cushman M, Manly J, Judd S, Bagiella E, Baccarelli A, <b>Parks RM</b>. (In press). TBC. <b>TBC</b>.
+- Prada D, Morava-Kozicz E, Rajendrakumar AL, Kupsco A, Lesseur C, Irizar H, Cantú-de-Leon D, García-Cuellar C, Ramírez A, González-Ruíz J, Horowitz CR, Cushman M, Manly J, Judd S, Bagiella E, Baccarelli A, <b>Parks RM</b>. (In press). TBC. <b>TBC</b>
 
-- Bannon E, Lieberman-Cribbin W, Spriggs R, Adkins-Jackson PB, Ornelas Van Horne Y, <b>Parks RM</b>, Prins SJ, Nigra AE. (In press). TBC. <b>TBC</b>.
+- Achebak H, Paniello-Castillo B, <b>Parks RM</b>, van Daalen K. (In press). TBC. <b>TBC</b>
 
-- Achebak H, Paniello-Castillo B, <b>Parks RM</b>, van Daalen K. (In press). TBC. <b>TBC</b>.
+- Bannon E, Lieberman-Cribbin W, Spriggs R, Adkins-Jackson PB, Ornelas Van Horne Y, <b>Parks RM</b>, Prins SJ, Nigra AE. (2026). Disinfection Byproducts and Inorganic Contaminants in the U.S. Correctional Facility Public Water Systems. <b>Environmental Justice</b>
 
 - Tobias A, Honda Y, Madaniyazi L, Alahmad B, Lavigne E, Roye D, Tong S, Coelho MSZS, Huber V, Urban A, Pereira da Silva SN, Achilleos S, <b>Parks RM</b>, Iñiguez C, Masselot P, Vicedo-Cabrera AM, Armstrong B, Gasparrini A, Hashizume M, Abrutzky R, et al. (2026). [Variation in reporting of heatstroke mortality: evidence from a multi-country study](http://sciencedirect.com/science/article/pii/S2468266725003226). <b>The Lancet Public Health</b>
 
