@@ -3,7 +3,7 @@
 ## Expressing your interest in SPARK Lab NYC
 ### Contact email
 
-If you are interested in SPARK Lab NYC, please contact <a href="sparklabnyc@cumc.columbia.edu">. We would really appreciate if you use that email as a first port of call, as it helps us focus interest and respond appropriately and promptly. Thank you!
+If you are interested in SPARK Lab NYC, please contact <a href="sparklabnyc@cumc.columbia.edu"></a>. We would really appreciate if you use that email as a first port of call, as it helps us focus interest and respond appropriately and promptly. Thank you!
 
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
