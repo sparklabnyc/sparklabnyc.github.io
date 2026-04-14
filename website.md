@@ -612,6 +612,10 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>G. Brooke Anderson visit, April 2026</b>
+
+<img src="../media/lab_outings/2026/brooke_anderson_visit_april_2026/brooke_anderson_visit_april_2026.jpeg" width="100%">
+
 <b>Lab lunch, March 2026</b>
 
 <img src="../media/lab_outings/2026/lab_lunch_april_2026/lab_lunch_april_2026.jpeg" width="100%">
