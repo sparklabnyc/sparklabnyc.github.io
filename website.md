@@ -1057,8 +1057,8 @@ Photos below by April Renae.
 # Robbie M. Parks, PhD
 
 ## About me
-### 
-I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
+<!-- ###  -->
+<!-- I am an environmental epidemiologist and physicist whose quantitative research is focused on climate change, public health and equity. 
 
 I am a tenure-track Assistant Professor of [Environmental Health Sciences](https://www.publichealth.columbia.edu/profile/robbie-m-parks-phd) at Columbia University's Mailman School of Public Health and an [NIH NIEHS K99/R00 Fellow](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/searchResults/grant_number/R00). Several of my lab's papers have been NIEHS papers of the year and month. I am currently funded by grants from NIH, Wellcome Trust, NSF, and several others.
 
@@ -1068,9 +1068,9 @@ I was a Columbia University [Earth Institute/Climate School Post-doctoral Fellow
 
 I have contributed to pieces in various media outlets including The New Yorker, The New York Times, Washington Post, Scientific American, National Geographic, Grist, The Guardian, NPR, and many others.
 
-I am proudly a first-gen academic, of Filipino heritage, an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/), and a [National Academy of Sciences Frontiers of Science Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/).
+I am proudly a first-gen academic, of Filipino heritage, an [Agents of Change in Environmental Justice Senior Fellow](https://agentsofchangeinej.org/), and a [National Academy of Sciences Frontiers of Science Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/). -->
 
-### Third-person bio for presentations and talks
+### 
 Robbie M. Parks, PhD's research focuses on the intersections of climate change, public health, and equity, using quantitative methods to understand and address health impacts. He is a tenure-track Assistant Professor of Environmental Health Sciences at Columbia University’s Mailman School of Public Health and an NIH NIEHS K99/R00 Fellow, with funding from NIH, the Wellcome Trust, NSF, and other sources; several of his lab’s publications have been recognized as NIEHS papers of the year and month. He teaches multiple graduate courses at Columbia, leads advanced training programs in Bayesian modeling and climate-health attribution, and mentors trainees across all academic levels. His academic training includes a postdoctoral fellowship at Columbia’s Earth Institute/Climate School, a PhD from Imperial College London, and a BA/MA in Physics from the University of Oxford. His work has been featured in major media outlets including The New Yorker, The New York Times, and National Geographic. He is a first-generation academic of Filipino heritage and a fellow of both the Agents of Change in Environmental Justice program and the National Academy of Sciences Frontiers of Science.
 
 ### Photos
