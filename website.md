@@ -143,9 +143,9 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 ### 2026
 
-- Prada D, Morava-Kozicz E, Rajendrakumar AL, Kupsco A, Lesseur C, Irizar H, Cantú-de-Leon D, García-Cuellar C, Ramírez A, González-Ruíz J, Horowitz CR, Cushman M, Manly J, Judd S, Bagiella E, Baccarelli A, <b>Parks RM</b>. (In press). TBC. <b>TBC</b>
-
 - Achebak H, Paniello-Castillo B, <b>Parks RM</b>, van Daalen K. (In press). TBC. <b>TBC</b>
+
+- Prada D, Morava-Kozicz E, Rajendrakumar AL, Kupsco A, Lesseur C, Irizar H, Cantú-de-Leon D, García-Cuellar C, Ramírez A, González-Ruíz J, Horowitz CR, Cushman M, Manly J, Judd S, Bagiella E, Baccarelli A, <b>Parks RM</b>. (2026). [Blood mitochondrial heteroplasmic variants and cognitive performance in late midlife: REGARDS study](https://link.springer.com/article/10.1186/s12883-026-04857-x). <b>BMC Neurology</b>
 
 - Bannon E, Lieberman-Cribbin W, Spriggs R, Adkins-Jackson PB, Ornelas Van Horne Y, <b>Parks RM</b>, Prins SJ, Nigra AE. (2026). [Disinfection Byproducts and Inorganic Contaminants in the U.S. Correctional Facility Public Water Systems](https://journals.sagepub.com/doi/10.1177/19394071261437035). <b>Environmental Justice</b>
 
