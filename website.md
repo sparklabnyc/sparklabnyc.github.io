@@ -269,6 +269,11 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 ## Press coverage
 ### 2025
 
+<b>Global Heat-Health Action Plan Registry</b>
+
+- <a href=https://www.linkedin.com/feed/update/urn:li:activity:7452034234015387648/ target="_blank">Call for heat health action plans</a>, <b>GHHIN</b>, April 2026<br>
+- <a href=https://heathealth.info/contribute/ target="_blank">Call for heat health action plans</a>, <b>GHHIN</b>, April 2026<br>
+
 <b>National Academy of Sciences Selects, 2026 NAS Frontiers of Science Fellows</b>
 
 - <a href=https://vimeo.com/1171350569 target="_blank">Heat Stress and Human Health: Tackling the World’s Most Dangerous Hazard - Robbie M. Parks, Columbia University</a>, <b>National Academy of Sciences</b>, March 2026<br>
@@ -611,6 +616,14 @@ Rapid impact assessments for recent hurricanes:
 ## Lab activities
 
 ### 2026
+
+<b>Earth Day, April 2026</b>
+
+<img src="../media/lab_outings/2026/earth_day_april_2026/earth_day_april_2026 3.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/earth_day_april_2026/earth_day_april_2026 2.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/earth_day_april_2026/earth_day_april_2026 1.jpeg" width="100%">
 
 <b>G. Brooke Anderson visit, April 2026</b>
 
