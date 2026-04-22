@@ -10,6 +10,7 @@ We would really appreciate if you use that email as a first port of call, as it 
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
+- [Lab software engineer (posted April 22nd 2026)](https://apply.interfolio.com/183612)
 - [Research Lab Manager (posted March 25th 2026)](https://apply.interfolio.com/183612)
 
 Watch this space!
@@ -86,14 +87,13 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - Maren Hale (Research co-ordinator)
 
+- Alana Caluwe (Master's student)
 - Gabriela Daza (Master's student)
 - Gabriela Imbert (Master's student)
 - Yifei Yu (Master's student)
 
 - Alicia Lopez-Guerra (Barnard senior)
 - Param Sampat (Columbia sophomore, Comer Climate Undergraduate Research Fellow)
-
-- Ayush Panchal (High school intern)
 
 - SPARKY (lab computer)
 
@@ -114,6 +114,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Associate Professor at University of Copenhagen
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student. Next: Finishing medical degree)
+- Ayush Panchal (High school intern. Next: TBC)
 - Jordyn B. Pykon (Master's Student. Next: Tandem)
 - Hannah Sanghvi (Barnard senior. Next: Compost Associate at Queens Botanical Garde)
 - Grace Santos (PhD Student. Next: Finishing PhD)
