@@ -59,8 +59,6 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
 
-- Alexandra Carlin (Research manager)
-
 - Marcelo Jauregui-Volpe (Podcast producer)
 
 - Felipe L. Antequera (Post-doctoral fellow)
@@ -71,8 +69,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Martha Lee (Post-doctoral fellow)
 
 - Majd Abid (Research software engineer)
-- [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer)
-- [Theo Rashid](https://theorashid.github.io) (Research software engineer)
+- [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer and G-TROPIC lead)
 
 - Heather McBrien (PhD candidate)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate; current SPARK Lab NYC Social Director)
@@ -83,31 +80,31 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Fintan Mooney (PhD student)
 
 - Lincole Jiang (Research assistant)
-- Jenna Nicole Swartz (Research assistant)
 
 - Maren Hale (Research co-ordinator)
 
 - Alana Caluwe (Master's student)
 - Gabriela Daza (Master's student)
-- Gabriela Imbert (Master's student)
-- Yifei Yu (Master's student)
 
-- Alicia Lopez-Guerra (Barnard senior)
 - Param Sampat (Columbia sophomore, Comer Climate Undergraduate Research Fellow)
 
 - SPARKY (lab computer)
+- SPARK Jr. (lab laptop)
 
 ### Previous lab associates
 - Arin Balalian (DrPH Student. Next: Fund for Public Health in NYC)
 - Alexis Bell (High School Student. Next: Undergraduate degree at Cornell University)
+- Alexandra Carlin (Research manager. Next TBC)
 - Jackson Chen (High school intern. Next: Undergraduate degree at Princeton University)
 - Ava Chow (Master's Student. Next: NYC Service Civic Corps at Bronx is Blooming)
 - Gali Cohen (Post-doctoral Fellow. Next: Faculty role)
 - Jiayi Ge (Master's student. Next: Finishing Master's)
+- Gabriela Imbert (Master's student. Next: Finishing Master's)
 - Morgan CD Jackson (Master's student. Next: High school teacher)
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Wil Lieberman-Cribbin (Post-doctoral Fellow. Next: Assistant Professor at Northwell Health)
 - Xuer Liu (Master's Student. Next: Founder of Auristar Innovation)
+- Alicia Lopez-Guerra (Barnard senior. Next: TBC)
 - Yuanyu Lu (Master's student. Next: Clinical Research Biostatistician, Beijing Tiantan) 
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Bala Manikandan (Master's student. Next: AT&T)
@@ -116,12 +113,14 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student. Next: Finishing medical degree)
 - Ayush Panchal (High school intern. Next: TBC)
 - Jordyn B. Pykon (Master's Student. Next: Tandem)
+- [Theo Rashid](https://theorashid.github.io) (Research software engineer. Next: Amazon)
 - Hannah Sanghvi (Barnard senior. Next: Compost Associate at Queens Botanical Garde)
 - Grace Santos (PhD Student. Next: Finishing PhD)
 - Emily Shambaugh (Graduate Research Assistant. Next: National Academy of Medicine)
 - Naomi Simon-Kumar (Master's student. Next: TBC)
 - Jenny Sing-Bock (Graduate Research Assistant. Next: Excelsior Fellow at NYSERDA)
 - Palak Srivastava (High School Research Assistant. Next: Undergraduate at University of Michigan)
+- Jenna Nicole Swartz (Research assistant. Next: NYC DOHMH)
 - Deepshika Verma (Master's Student. Next: Finishing Master's)
 - [Xicheng Xie](https://xx2416.github.io/) (Master's Student. Next: PhD at Northwestern)
 - Lisa Yamasaki (Medical doctor. Next: PhD in United States)
@@ -129,6 +128,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Iris Yang (Master's student. Next: TBC)
 - Carina Yiu (Master's Student. Next: Finishing Master's)
 - Hingling Angel Yu (Master's Student. Next: TBC)
+- Yifei Yu (Master's student. Next: Finishing Master's)
 - Wei (Audrey) Zhiyu (Master's Student. Next: Finishing Master's)
 - Jiujiu (Jojo) Zhou (Data Science Institute Capstone student. Next: Data Science role)
 - Janna Zilkha (Master's Student. Next: Finishing Master's)
