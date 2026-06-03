@@ -59,7 +59,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
 
-- Marcelo Jauregui-Volpe (Podcast producer)
+- Marcelo Jauregui-Volpe (Research manager, podcast producer)
 
 - Felipe L. Antequera (Post-doctoral fellow)
 - Brandon Lewis (Post-doctoral fellow, Climate School. From Summer 2026)
@@ -86,6 +86,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Alana Caluwe (Master's student)
 - Gabriela Daza (Master's student)
 
+- Ann Dai (Barnard rising junior, PrIMER student)
 - Param Sampat (Columbia sophomore, Comer Climate Undergraduate Research Fellow)
 
 - SPARKY (lab computer)
