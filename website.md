@@ -10,12 +10,12 @@ We would really appreciate if you use that email as a first port of call, as it 
 ## Opportunties to join SPARK Lab NYC
 ### Open positions
 
-- [Lab software engineer (posted April 22nd 2026)](https://apply.interfolio.com/183612)
-- [Research Lab Manager (posted March 25th 2026)](https://apply.interfolio.com/183612)
-
 Watch this space!
 
 ### Previously filled positions
+
+- [Lab software engineer (posted April 22nd 2026)](https://apply.interfolio.com/183612)
+- [Research Lab Manager (posted March 25th 2026)](https://apply.interfolio.com/183612)
 
 <b>Summer 2026 APEx opportunities</b> 
 
@@ -269,7 +269,11 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - <b>Parks RM</b> (2016). [Weather, climate and health](https://doi.org/10.1002/wea.2752), <b>Weather</b>
 
 ## Press coverage
-### 2025
+### 2026
+
+<b>World Cup 2026</b>
+
+TBC
 
 <b>Global Heat-Health Action Plan Registry</b>
 
@@ -281,6 +285,8 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - <a href=https://vimeo.com/1171350569 target="_blank">Heat Stress and Human Health: Tackling the World’s Most Dangerous Hazard - Robbie M. Parks, Columbia University</a>, <b>National Academy of Sciences</b>, March 2026<br>
 - <a href=https://www.nasonline.org/symposia/2026-u-s-frontiers-of-science/ target="_blank">2026 U.S. Frontiers of Science</a>, <b>National Academy of Sciences</b>, March 2026<br>
 - <a href=https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2026-frontiers-of-science-fellows/ target="_blank">National Academy of Sciences Selects the 2026 NAS Frontiers of Science Fellows</a>, <b>National Academy of Sciences</b>, January 2026<br>
+
+### 2025
 
 <b>Columbia Public Health Magazine 2025-2026</b>
 
@@ -978,6 +984,28 @@ Conduct a research project from design to implementation
 
 Compose components of a publishable scientific paper
 
+### Shareable feedback from 2026 edition
+
+"This course was amazing. I feel like the content helped me better understand advanced environmental health approaches as well as prepared me to apply these methods to research. I also think that the assignments (final project, paper critiques, quizzes) and labs were very intentional; these were helpful in applying course content and also understanding material better. I think the course was well structured and appreciated the flexibility in the paper critiques, which were helpful to synthesize course content but not overwhelming. The course was also really well organized."
+
+"Diverse topics and skills"
+
+"Robbie is an excellent lecturer, the course assignments are well thought out, and the material taught is cutting-edge and relevant. Very excellent course""
+
+"visual teaching style"
+
+"Great overview of content, not too stressful."
+
+"Lecture + lab combo made the class engaging and applicable to real-world scenarios"
+
+"Quizzes reinforced material. Dr. Parks explained material effectively. The ability to choose when you completed a paper critique helped to manage your workload."
+
+"Slides are very detailed and descriptive, lectrues are paced well, and everything is very accessible on the github."
+
+"Comprehensive demonstrations and labs, real-world applications, concise reviews of previous lecture, themes and lectures build off on one another. Papers for paper critiques built off of concepts, added value to lecture, and were purposeful (it did not feel like busy work)."
+
+"Robbie did a great job of explaining key concepts of the course and answered all questions I had. The lecture format coupled with the labs was very informative and organized well. I appreciated the bi-weekly updates for the final project, so at the end of the course the final project was not overwhelming."
+
 ## CLMT5095G: Quantitative Methods in Climate Change and Public Health
 
 ### Course description
@@ -1023,7 +1051,7 @@ Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_heal
 <!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">2024 GitHub link</a>. -->
 <!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2023' target="_blank">2023 GitHub link</a>. -->
 
-### Unfiltered shareable feedback from 2025 edition
+### Shareable feedback from 2025 edition
 
 "Overall it was a very solid workshop, and I feel much more confident about transitioning to a bayesian workflow and attempting to answer complex environmental questions. The instructing team did a very good job of explaining complex concepts in simple digestible ways."
 
@@ -1042,7 +1070,7 @@ Brilliant instructors and systematic approach to a crash course in fairly comple
 
 <img src="../media/lab_outings/2025/sharp_bayesian_august_2025/sharp_bayesian_august_2025.jpeg" width="100%">
 
-### Unfiltered shareable feedback from 2024 edition
+### Shareable feedback from 2024 edition
 
 "Well-paced, clearly-explained lectures by instructors."
 
@@ -1062,7 +1090,7 @@ Brilliant instructors and systematic approach to a crash course in fairly comple
 
 <!-- <img src="../media/lab_outings/2024/sharp_bayesian_august_2024/sharp_bayesian_instructor_photo_2024.jpeg" width="100%"> -->
 
-### Unfiltered shareable feedback from 2023 edition
+### Shareable feedback from 2023 edition
 
 "Wonderful course reviewing Bayesian modeling from basic concept to cutting-edge."
 
