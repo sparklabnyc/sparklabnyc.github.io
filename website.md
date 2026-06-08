@@ -71,11 +71,11 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Majd Abid (Research software engineer)
 - [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer and G-TROPIC lead)
 
+- Carlos Carrillo-Gallegos (PhD candidate)
 - Heather McBrien (PhD candidate)
 - [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate; current SPARK Lab NYC Social Director)
 - Allison L. Stewart Ruano (PhD candidate)
 
-- Carlos Carrillo-Gallegos (PhD student)
 - Raffaela Langer (PhD student)
 - Fintan Mooney (PhD student)
 
