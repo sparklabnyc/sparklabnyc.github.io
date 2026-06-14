@@ -1181,7 +1181,46 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # Not academia 
-## <a href='https://www.survivingtheclimate.com/' target="_blank">Surviving the Climate</a>
+## Surviving the Climate
+
+### Overview
+
+<img src="../media/surviving_the_climate/surviving_the_climate.png" width="100%">
+
+Excited to share [Surviving the Climate](https://www.survivingtheclimate.com/), a podcast I've been collaborating on with my co-host Nate and producer Marcelo Jauregui-Volpe!
+
+The show is built around practical information for regular people navigating a hotter world. Bringing the science down to the actions and takeaways that actually matter day to day. We are trying to create a tone which is informative but also entertaining, and not taking ourselves too seriously (though we take the topic itself very seriously).
+
+Surviving the Climate grew out of an internship at the Global Heat Health Information Network that led to Nate and I to create the Reddit, Inc. forum [r/heat_prep](https://www.reddit.com/r/heat_prep/), an online community for regular people to discuss extreme heat and strategies to stay cool, now with tens of thousands of weekly visitors.
+
+This podcast is the next step on this journey: connecting the growing climate-related research with ongoing on-the-ground conversations. It's the podcast we always wanted to listen to but didn't exist.
+
+Surviving the Climate is live now wherever you get your podcasts, including the below:
+
+[Spotify](https://open.spotify.com/show/033vbwExIJMevPGURZO4J6)
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/surviving-the-climate/id1896899312)
+[Amazon Music](https://music.amazon.com/podcasts/599412ee-b48f-460d-84e9-d324b74241ef/surviving-the-climate)
+
+Stay tuned! We will release episodes every week (or so) throughout the summer. We have a rockstar lineup of interviews to release! We'd take any recommendations for who we can interview too!
+
+Please follow, like and subscribe via the links below:
+
+[YouTube](https://www.youtube.com/@SurvivingtheClimate)
+[Instagram](https://www.instagram.com/survivingtheclimate/) 
+[Bluesky](https://bsky.app/profile/survivingclimate.bsky.social)
+[TikTok](https://www.tiktok.com/@survivingtheclimate)
+
+Always happy to hear feedback, topic ideas, or connections with people to interview.
+
+Please share the podcast widely and also leave reviews wherever you listen to your podcasts!
+
+Also some wonderful artwork and logo design by [Blanche Ellis](https://blancheellis.com/).
+
+And music by yours truly :).
+
+Cheers, 
+
+Robbie and the STC team
 
 ## Sound
 
@@ -1227,6 +1266,36 @@ Details forthcoming
   </p>
 
 <section class="photo-year">
+  <h2>2026</h2>
+  <div class="photo-gallery">
+
+    <img src="../media/photography/2026/000876310036_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310035_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310034_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310033_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310032_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310031_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310030_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310027_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310024_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310022_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310016_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310015_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310014_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310013_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310010_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310009_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876310002_small.jpg" loading="lazy">
+
+    <img src="../media/photography/2026/000876300009_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876300008_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876300005_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876300004_small.jpg" loading="lazy">
+    <img src="../media/photography/2026/000876300001_small.jpg" loading="lazy">
+  </div>
+</section>
+
+<section class="photo-year">
   <h2>2025</h2>
   <div class="photo-gallery">
 
@@ -1247,7 +1316,6 @@ Details forthcoming
     <img src="../media/photography/2025/000817440028_small.jpg" loading="lazy">
     <img src="../media/photography/2025/000817440027_small.jpg" loading="lazy">
     <img src="../media/photography/2025/000817440026_small.jpg" loading="lazy">
-    <img src="../media/photography/2025/000817440022_small.jpg" loading="lazy">
     <img src="../media/photography/2025/000817440019_small.jpg" loading="lazy">
     <img src="../media/photography/2025/000817440014_small.jpg" loading="lazy">
     <img src="../media/photography/2025/000817440008_small.jpg" loading="lazy">
