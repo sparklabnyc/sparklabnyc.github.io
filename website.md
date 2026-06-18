@@ -1187,6 +1187,8 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 <img src="../media/surviving_the_climate/surviving_the_climate.png" width="100%">
 
+<div id='buzzsprout-large-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/2551119.js?container_id=buzzsprout-large-player&player=large'></script>
+
 Excited to share [Surviving the Climate](https://www.survivingtheclimate.com/), a podcast I've been collaborating on with my co-host Nate and producer Marcelo Jauregui-Volpe!
 
 The show is built around practical information for regular people navigating a hotter world. Bringing the science down to the actions and takeaways that actually matter day to day. We are trying to create a tone which is informative but also entertaining, and not taking ourselves too seriously (though we take the topic itself very seriously).
