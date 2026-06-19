@@ -1157,8 +1157,8 @@ Robbie M. Parks, PhD's research focuses on the intersections of climate change, 
 Photo credit below John Herr.
 ![headshot](../media/headshot/Robbie_Parks_2025_small.jpg)
 
-Photo credit below Ryan Murphy/Reuters
-![headshot](../media/headshot/Robbie Parks defend science.jpeg)
+<!-- Photo credit below Ryan Murphy/Reuters -->
+<!-- ![headshot](../media/headshot/Robbie Parks defend science.jpeg) -->
 
 ## CV
 ### 
