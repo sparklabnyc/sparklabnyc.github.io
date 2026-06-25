@@ -272,11 +272,15 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 ## Press coverage
 ### 2026
 
+<b>Record heat summer 2026</b>
+
+- <a href=https://observer.co.uk/news/national/article/temperatures-to-hit-35c-as-extreme-heat-alerts-extended target="_blank">Temperatures to hit 35C as extreme heat alerts extended</a>, <b>The Observer</b>, June 2026<br>
+- <a href=https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis target="_blank">Two World Cup matches were played in ‘severe heat’, analysis finds</a>, <b>The Guardian</b>, June 2026<br>
+
 <b>World Cup 2026</b>
 
 - <a href=https://g1.globo.com/bom-dia-brasil/video/estudo-aponta-que-26-jogos-da-copa-poderao-ser-disputados-em-condicoes-climaticas-perigosas-14674918.ghtml target="_blank">Estudo aponta que 26 jogos da Copa poderão ser disputados em condições climáticas perigosas</a>, <b>Globo (Brazil)</b>, June 2026<br>
-- <a href=https://www.bbc.com/sport/football/articles/cy928q8engzo target="_blank">Fifa risking player safety over heat at World Cup - scientists
-</a>, <b>BBC</b>, May 2026<br>
+- <a href=https://www.bbc.com/sport/football/articles/cy928q8engzo target="_blank">Fifa risking player safety over heat at World Cup - scientists</a>, <b>BBC</b>, May 2026<br>
 
 <b>Global Heat-Health Action Plan Registry</b>
 
