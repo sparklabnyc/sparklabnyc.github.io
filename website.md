@@ -661,6 +661,30 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>Columbia EHS London reunion, July 2026</b>
+
+<img src="../media/lab_outings/2026/ehs_london_july_2026/ehs_london_july_2026.jpeg" width="100%">
+
+<b>Wellcome Climate Impacts workshop, June 2026</b>
+
+<img src="../media/lab_outings/2026/wellcome_climate_impacts_june_2026/wellcome_climate_impacts_june_2026 3.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/wellcome_climate_impacts_june_2026/wellcome_climate_impacts_june_2026 2.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/wellcome_climate_impacts_june_2026/wellcome_climate_impacts_june_2026 1.jpeg" width="100%">
+
+<b>Alex Carlin leaving lunch, May 2026</b>
+
+<img src="../media/lab_outings/2026/alex_carlin_leaving_lunch_may_2026/alex_carlin_leaving_lunch_may_2026.jpeg" width="100%">
+
+<b>Advanced analytic methods in environmental health sciences, May 2026</b>
+
+<img src="../media/lab_outings/2026/advanced_methods_may_2026/advanced_methods_may_2026.jpeg" width="100%">
+
+<b>The First Conference for the Just Transition Away from Fossil Fuels, April 2026</b>
+
+<img src="../media/lab_outings/2026/santa_marta_april_2026/santa_marta_april_2026.jpeg" width="100%">
+
 <b>Earth Day, April 2026</b>
 
 <img src="../media/lab_outings/2026/earth_day_april_2026/earth_day_april_2026 3.jpeg" width="100%">
