@@ -971,6 +971,8 @@ Analyze meteorological and climate data, interpret climate and weather forecasts
 
 <a href='https://vergil.columbia.edu/vergil/course/20261/10803/14817' target="_blank">Vergil link</a>
 
+<a href='https://www.linkedin.com/feed/update/urn:li:activity:7475997822904029184/' target="_blank">Award-winning course!</a>
+
 Course <a href='https://github.com/sparklabnyc/advanced_analytic_methods_in_environmental_health_sciences_2026' target="_blank">2026 GitHub link</a>.
 
 This seminar course will introduce advanced methods and tools used in Environmental Health Sciences. 
