@@ -79,6 +79,8 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - Raffaela Langer (PhD student)
 
+- Giuliana Motta (PhD rotation student)
+
 - Lincole Jiang (Research assistant)
 
 - Maren Hale (Research co-ordinator)
@@ -275,6 +277,10 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 ## Press coverage
 ### 2026
+
+<b>NYC wildfire smoke summer 2026</b>
+
+- <a href=https://vimeo.com/1214666701?share=copy&fl=sv&fe=ci target="_blank">Live TV interview</a>, <b>Weather Channel</b>, July 2026<br>
 
 <b>Record heat summer 2026</b>
 
