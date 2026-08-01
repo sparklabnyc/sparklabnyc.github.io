@@ -59,22 +59,22 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - Salvador Ayala (Assistant Professor, Centro de Epidemiología y Políticas de Salud (CEPS) - Universidad Del Desarrollo, Chile)
 
-- Marcelo Jauregui-Volpe (Research manager, podcast producer)
+- Marcelo Jauregui-Volpe (Podcast producer, research manager)
 
 - Felipe L. Antequera (Post-doctoral fellow)
-- Brandon Lewis (Post-doctoral fellow, Climate School. From Summer 2026)
-- Victoria D. Lynch (Post-doctoral fellow)
-- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow. Faculty from Fall 2026)
-- Anna Palmer (Post-doctoral fellow)
+- Brandon Lewis (Post-doctoral fellow, Climate School)
+- Kathleen (Katie) Lynch (Post-doctoral fellow)
+- Victoria (Tory) D. Lynch (Post-doctoral fellow)
+- Anna Y. Palmer (Post-doctoral fellow)
 - Martha Lee (Post-doctoral fellow)
 
 - Majd Abid (Research software engineer)
-- [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer and G-TROPIC lead)
+- [Lawrence Chillrud](https://lawrence-chillrud.github.io/) (Research software engineer, G-TROPIC lead)
 
 - Carlos Carrillo-Gallegos (PhD candidate)
 - Heather McBrien (PhD candidate)
 - Fintan Mooney (PhD candidate)
-- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate; current SPARK Lab NYC Social Director)
+- [Raenita (Rae) Spriggs](https://Rae-Spr.github.io) (PhD candidate, SPARK Lab NYC Social Director)
 - Allison L. Stewart Ruano (PhD candidate)
 
 - Raffaela Langer (PhD student)
@@ -108,13 +108,14 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Sophia Lacambra (Senior Thesis Student. Next: Pursuing medical training)
 - Wil Lieberman-Cribbin (Post-doctoral Fellow. Next: Assistant Professor at Northwell Health)
 - Xuer Liu (Master's Student. Next: Founder of Auristar Innovation)
-- Alicia Lopez-Guerra (Barnard senior. Next: TBC)
+- Alicia Lopez-Guerra (Barnard senior. Next: Pursuing career in law)
 - Yuanyu Lu (Master's student. Next: Clinical Research Biostatistician, Beijing Tiantan) 
 - Ahmed Mahmud (DSI Scholar. Next: Finishing undergraduate degree)
 - Bala Manikandan (Master's student. Next: AT&T)
 - Gabriella Meltzer (Post-doctoral Fellow. Next: Assistant Professor at American University)
 - Kelton Minor (Post-doctoral Fellow. Next: Associate Professor at University of Copenhagen
 - [Hiroaki Murayama](https://hiroaki-murayama.github.io/) (Medical student. Next: Finishing medical degree)
+- [Ufuoma Ovienmhada](https://www.itsufuoma.com/) (Post-doctoral fellow. Next: Assistant Professor at University of Arizona)
 - Ayush Panchal (High school intern. Next: TBC)
 - Jordyn B. Pykon (Master's Student. Next: Tandem)
 - [Theo Rashid](https://theorashid.github.io) (Research software engineer. Next: Amazon)
