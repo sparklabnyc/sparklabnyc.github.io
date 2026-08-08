@@ -675,6 +675,12 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>SHARP Bayesian modeling for environmental health workshop, August 2026</b>
+
+<img src="../media/lab_outings/2026/sharp_bayesian_august_2026/sharp_bayesian_august_2026 1.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/sharp_bayesian_august_2026/sharp_bayesian_august_2026 2.jpeg" width="100%">
+
 <b>Columbia EHS London reunion, July 2026</b>
 
 <img src="../media/lab_outings/2026/ehs_london_july_2026/ehs_london_july_2026.jpeg" width="100%">
@@ -1094,9 +1100,13 @@ The Bayesian Modeling for Environmental Health Workshop is a three-day intensive
 Official SHARP Bayesian Modeling for Environmental Health Workshop
 <a href='https://www.publichealth.columbia.edu/research/programs/precision-prevention/sharp-training-program/bayesian-modeling' target="_blank">website link</a>.
 
-Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2025' target="_blank">2025 GitHub link</a>.
+<!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2025' target="_blank">2025 GitHub link</a>. -->
 <!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2024' target="_blank">2024 GitHub link</a>. -->
 <!-- Course <a href='https://github.com/sparklabnyc/sharp_bayesian_environmental_health_2023' target="_blank">2023 GitHub link</a>. -->
+
+### Photos of previous 2026 edition
+
+<img src="../media/lab_outings/2026/sharp_bayesian_august_2026/sharp_bayesian_august_2026 1.jpeg" width="100%">
 
 ### Shareable feedback from 2025 edition
 
