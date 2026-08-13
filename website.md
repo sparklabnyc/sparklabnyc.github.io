@@ -1095,7 +1095,7 @@ Interpret and communicate climate–health attribution findings, including count
 
 Integrate environmental justice principles into the analysis of climate–health research, interventions, and policy decisions.
 
-# Photos of previous 2026 edition
+### Photos of previous 2026 edition
 
 <img src="../media/lab_outings/2026/CLMT5095G_august_2026/CLMT5095G_august_2026.jpeg" width="100%">
 
