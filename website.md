@@ -677,6 +677,10 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>CLMT5095G: Quantitative Methods in Climate Change and Public Health, August 2026</b>
+
+<img src="../media/lab_outings/2026/CLMT5095G_august_2026/CLMT5095G_august_2026.jpeg" width="100%">
+
 <b>SHARP Bayesian modeling for environmental health workshop, August 2026</b>
 
 <img src="../media/lab_outings/2026/sharp_bayesian_august_2026/sharp_bayesian_august_2026 1.jpeg" width="100%">
@@ -1090,6 +1094,10 @@ Explain the role of global and national governance structures, policies, and ins
 Interpret and communicate climate–health attribution findings, including counterfactual reasoning and uncertainty, for public health and policy audiences.
 
 Integrate environmental justice principles into the analysis of climate–health research, interventions, and policy decisions.
+
+# Photos of previous 2026 edition
+
+<img src="../media/lab_outings/2026/CLMT5095G_august_2026/CLMT5095G_august_2026.jpeg" width="100%">
 
 ## SHARP Bayesian Modeling for Environmental Health Workshop
 
