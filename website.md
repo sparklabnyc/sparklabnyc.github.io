@@ -149,7 +149,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 ### 2026
 
-- <b>Parks RM</b>, Gwiszcz J, Newberry Le Vay J, Malmqvist E, Howard C, Romanello M, Maibach E. (2026). [Health should be key to transitioning away from fossil fuels](DOI_URL). <b>The Lancet</b>
+- <b>Parks RM</b>, Gwiszcz J, Newberry Le Vay J, Malmqvist E, Howard C, Romanello M, Maibach E. (2026). [Health should be key to transitioning away from fossil fuels](https://doi.org/10.1016/S0140-6736%2826%2901538-2)). <b>The Lancet</b>
 
 - White L, Ae-Ngibise KA, Tuholske C, Jack D, Mujtaba M, <b>Parks RM</b>, Li M, Chillrud SN, Zimmer A, Kaali S, Agyei O, Jack D, Luo E, Lee AG, Asante KP. (2026). [Heat exposure and maternal stress: evidence from the GRAPHS pregnancy cohort in Ghana](https://doi.org/10.1088/2752-5309/ae90dc). <b>Environmental Research: Health</b>
 
