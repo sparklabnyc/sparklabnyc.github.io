@@ -291,7 +291,6 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - <a href=https://observer.co.uk/news/national/article/temperatures-to-hit-35c-as-extreme-heat-alerts-extended target="_blank">Temperatures to hit 35C as extreme heat alerts extended</a>, <b>The Observer</b>, June 2026<br>
 
-
 <b>World Cup 2026</b>
 
 - <a href=https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis target="_blank">Two World Cup matches were played in ‘severe heat’, analysis finds</a>, <b>The Guardian</b>, June 2026<br>
@@ -1196,6 +1195,8 @@ Photos below by April Renae.
 <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-80.jpg" width="49%"> <img src="../media/sharp_bayesian/2023/ROBBIE-PARKS-PHOTOGRAPHER-APRIL-RENAE-81.jpg" width="49%"> -->
 
 ## <a href='https://www.imperial.ac.uk/continuing-professional-development/short-courses/eng/environmental/advanced-methods-for-climate-and-health-attribution-summer-school/' target="_blank">Advanced methods for climate and health attribution Summer School</a>
+
+## <a href='https://www.epi-winterschool.org/program-2-2/course-2-bayesian-modeling-for-environmental-health/' target="_blank">Swiss Epidemiology Winter School</a>
 
 # Robbie M. Parks, PhD
 
