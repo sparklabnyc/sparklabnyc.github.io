@@ -676,6 +676,12 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>Advanced Methods For Climate And Health Attribution Summer School, August 2026</b>
+
+<img src="../media/lab_outings/2026/advanced_methods_for_climate_and_health_attribution_august_2026/advanced_methods_for_climate_and_health_attribution_august_2026 2.jpeg" width="100%">
+
+<img src="../media/lab_outings/2026/advanced_methods_for_climate_and_health_attribution_august_2026/advanced_methods_for_climate_and_health_attribution_august_2026 1.jpeg" width="100%">
+
 <b>CLMT5095G: Quantitative Methods in Climate Change and Public Health, August 2026</b>
 
 <img src="../media/lab_outings/2026/CLMT5095G_august_2026/CLMT5095G_august_2026.jpeg" width="100%">
