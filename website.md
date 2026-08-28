@@ -1104,6 +1104,18 @@ Integrate environmental justice principles into the analysis of climate–health
 
 <img src="../media/lab_outings/2026/CLMT5095G_august_2026/CLMT5095G_august_2026.jpeg" width="100%">
 
+### Shareable feedback from 2026 edition
+
+"I had never taken a quantitative methods course, and I am very interested in climate change research, so I decided to take this course. My department at Teachers College, the Science Education department, is not currently offering a quants course, so many of us take a class elsewhere at Teachers College or at other schools within Columbia. I learned so much more in this course than I expected. I had no conception of how intertwined climate change is with public health policy, and the methods in which vital data is collected and analyzed in different models and graphs are not only interesting but have made me more literate in climate exposure and response."
+
+"Great class. The assignments,. quizzes, and final presentation all made sense and was a fair way to learn and be evaluated. Prof is super smart and engaging, always allowing us to ask questions even if it brings us on a tangent."
+
+"I have already shared this class with other Science Education PhD students who need to fulfill their quantitative methods requirement. I definitely still feel like a novice in the subject matter of the class; I learned so much in such a short period of time. The way the subject matter was presented helped me understand the material because we reviewed what we learned in the previous class period at the beginning of every class. I also found the quizzes to be really helpful because they held me accountable for my understanding of the course material and pointed out which concepts I need to learn more deeply. The article commentaries were rigorous and really forced me to truly understand the terms we learned in class in different contexts. They served as examples of real-life applications of the graphs and models we learned about in class lectures. I appreciated the check-ins throughout the course, as well, because I do well with consistent feedback on my work."
+
+"I enjoyed Professor Parks because he really wanted us to understand the material of the class, and it showed. The discourse in the class gave opportunities for class participation and room to ask questions. I do my best in learning environments like this because it keeps me actively engaged."
+
+"Prof Parks is so smart, plugged in, capable. It's very clear he is top of his field and knows so much about the topic. Great teacher."
+
 ## SHARP Bayesian Modeling for Environmental Health Workshop
 
 ### Overview
