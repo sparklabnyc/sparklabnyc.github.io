@@ -677,6 +677,25 @@ Rapid impact assessments for recent hurricanes:
 
 ### 2026
 
+<b>FLOODLINES, September 2026</b>
+
+<img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 1.jpeg" width="100%">
+
+
+<b>ISEE Munich, September 2026</b>
+
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 10.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 9.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 8.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 7.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 6.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 5.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 4.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 3.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/isee_munich_september_2026/isee_munich_september_2026 1.jpeg" width="100%">
+
 <b>Advanced Methods For Climate And Health Attribution Summer School, August 2026</b>
 
 <img src="../media/lab_outings/2026/advanced_methods_for_climate_and_health_attribution_august_2026/advanced_methods_for_climate_and_health_attribution_august_2026 2.jpeg" width="100%">
