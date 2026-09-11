@@ -63,7 +63,6 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 - Felipe L. Antequera (Post-doctoral fellow)
 - Brandon Lewis (Post-doctoral fellow, Climate School)
-- Kathleen (Katie) Lynch (Post-doctoral fellow)
 - Victoria (Tory) D. Lynch (Post-doctoral fellow)
 - Anna Y. Palmer (Post-doctoral fellow)
 - Martha Lee (Post-doctoral fellow)
