@@ -87,6 +87,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 - Alana Caluwe (Master's student)
 - Hyunsun Choi (Master's student)
 - Gabriela Daza (Master's student)
+- Dan Li (Master's student)
 
 - Ann Dai (Barnard rising junior, PrIMER student)
 - Param Sampat (Columbia sophomore, Comer Climate Undergraduate Research Fellow)
