@@ -680,9 +680,23 @@ Rapid impact assessments for recent hurricanes:
 
 <b>FLOODLINES, September 2026</b>
 
+<img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 5.jpeg" width="100%">
+<img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 4.jpeg" width="100%">
+<img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 3.jpeg" width="100%">
 <img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 2.jpeg" width="100%">
 <img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 1.jpeg" width="100%">
 
+<b>EARTHGANG, 'Cool me down' launch, September 2026</b>
+
+<img src="../media/lab_outings/2026/earthgang_september_2026/earthgang_september_2026 3.jpeg" width="100%">
+<img src="../media/lab_outings/2026/earthgang_september_2026/earthgang_september_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/earthgang_september_2026/earthgang_september_2026 1.jpeg" width="100%">
+
+<b>NYC Climate Week, September 2026</b>
+
+<img src="../media/lab_outings/2026/nyc_climate_week_september_2026/nyc_climate_week_september_2026 3.jpeg" width="100%">
+<img src="../media/lab_outings/2026/nyc_climate_week_september_2026/nyc_climate_week_september_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/nyc_climate_week_september_2026/nyc_climate_week_september_2026 1.jpeg" width="100%">
 
 <b>ISEE Munich, September 2026</b>
 
