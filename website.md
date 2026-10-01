@@ -149,7 +149,7 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 ### 2026
 
-- TBC
+- Imbert G, van Daalen KR, Matthews-Trigg N, <b>Parks RM</b>. (2026). [How online communities are reshaping heat preparedness](https://doi.org/10.1016/j.joclim.2026.100754). <b>The Journal of Climate Change and Health</b>
 
 - <b>Parks RM</b>, Gwiszcz J, Newberry Le Vay J, Malmqvist E, Howard C, Romanello M, Maibach E. (2026). [Health should be key to transitioning away from fossil fuels](https://doi.org/10.1016/S0140-6736%2826%2901538-2)). <b>The Lancet</b>
 
