@@ -145,9 +145,11 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 
 ### Summary
 
-- 56 peer-reviewed papers, including 26 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New Yorker, New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
+- 57 peer-reviewed papers, including 27 first-/senior-author papers in journals including Nature Medicine, Nature Sustainability, Nature Communications, JAMA, JAMA Pediatrics, Science Advances. Several NIEHS papers of the year/month. Press coverage including New Yorker, New York Times, Washington Post, Guardian, TIME, NPR, NBC, AP, USA Today, PBS, New Scientist, CNN.
 
 ### 2026
+
+- Burrows K, Raker E, Pelupessy DC, Merdjanoff A, Mwarumba N, <b>Parks RM</b>. (2026). [Focus on environmental health and disasters](https://doi.org/10.1088/2752-5309/aeaf76). <b>Environmental Research: Health</b>
 
 - Imbert G, van Daalen KR, Matthews-Trigg N, <b>Parks RM</b>. (2026). [How online communities are reshaping heat preparedness](https://doi.org/10.1016/j.joclim.2026.100754). <b>The Journal of Climate Change and Health</b>
 
