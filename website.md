@@ -1303,9 +1303,12 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 ## [E-mail](mailto:robbie.parks@columbia.edu)
 
 # Not academia 
-## Surviving the Climate
 
-### Overview
+## <a href='https://survivingtheclimate.com' target="_blank">Surviving the Climate</a>
+
+<!-- ## Surviving the Climate -->
+
+<!-- ### Overview
 
 <img src="../media/surviving_the_climate/surviving_the_climate.png" width="100%">
 
@@ -1344,7 +1347,7 @@ And music by yours truly :).
 
 Cheers, 
 
-Robbie and the STC team
+Robbie and the STC team -->
 
 ## Sound
 
