@@ -591,142 +591,18 @@ Building a worldwide tropical cyclone resilience network in a changing climate.
 
 Funded so far by the <a href='https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award' target="_blank">Calderone Awards for Junior Faculty Development</a> and the Columbia EHS P30 Career Development Award.
 
+### Register interest in joing G-TROPIC
+
+<a href='https://docs.google.com/forms/d/e/1FAIpQLSeSzIRVmOnpCkvI9JvkCmUbyHluzFkP6TqaoRzLfiSkhcpjMQ/viewform' target="_blank">Register your interest in joining G-TROPIC with subject line 'G-TROPIC'</a>
+
+### Rapid Reports
+
+<a href='https://sparklabnyc.github.io/hurricanes/' target="_blank">Click here for rapid impact assessments for recent hurricanes</a>.
+
 ### Interactive visualizations
 
 [Characterizing global tropical cyclone events of 2025 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2025/)
 [Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/)
-
-### Rapid Reports
-
-Rapid impact assessments for recent hurricanes:
-
-<!-- - [Narelle (2026)](/hurricanes/Report_Narelle_2026.html)
-- [Urmil (2026)](/hurricanes/Report_Urmil_2026.html)
-- [Fytia (2026)](/hurricanes/Report_Fytia_2026.html)
-- [Mitchell (2026)](/hurricanes/Report_Mitchell_2026.html)
-- [Gezani (2026)](/hurricanes/Report_Gezani_2026.html)
-- [Fina (2026)](/hurricanes/Report_Fina_2026.html)
-- [Jude (2025)](/hurricanes/Report_Jude_2025.html)
-- [Dikeledi (2025)](/hurricanes/Report_Dikeledi_2025.html)
-- [Chido (2025)](/hurricanes/Report_Chido_2025.html)
-- [Alfred (2025)](/hurricanes/Report_Alfred_2025.html)
-- [Matmo (2025)](/hurricanes/Report_Matmo_2025.html)
-- [Erick (2025)](/hurricanes/Report_Erick_2025.html)
-- [Chantal (2025)](/hurricanes/Report_Chantal_2025.html)
-- [Wutip (2025)](/hurricanes/Report_Wutip_2025.html)
-- [Co-may (2025)](/hurricanes/Report_Co-may_2025.html)
-- [Wipha (2025)](/hurricanes/Report_Wipha_2025.html)
-- [Danas (2025)](/hurricanes/Report_Danas_2025.html)
-- [Lingling (2025)](/hurricanes/Report_Lingling_2025.html)
-- [Podul (2025)](/hurricanes/Report_Podul_2025.html)
-- [Kajiki (2025)](/hurricanes/Report_Kajiki_2025.html)
-- [Peipah (2025)](/hurricanes/Report_Peipah_2025.html)
-- [Tapah (2025)](/hurricanes/Report_Tapah_2025.html)
-- [Gabrielle (2025)](/hurricanes/Report_Gabrielle_2025.html)
-- [Mitag (2025)](/hurricanes/Report_Mitag_2025.html)
-- [Ragasa (2025)](/hurricanes/Report_Ragasa_2025.html)
-- [Bualoi (2025)](/hurricanes/Report_Bualoi_2025.html)
-- [Melissa (2025)](/hurricanes/Report_Melissa_2025.html)
-- [Fengshen (2025)](/hurricanes/Report_Fengshen_2025.html)
-- [Kalmaegi (2025)](/hurricanes/Report_Kalmaegi_2025.html)
-- [Fung-Wong (2025)](/hurricanes/Report_Fung-Wong_2025.html)
-- [Senyar (2025)](/hurricanes/Report_Senyar_2025.html)
-- [Ditwah (2025)](/hurricanes/Report_Ditwah_2025.html) -->
-
-<div class='report'><a href='/hurricanes/Report_Champi_2026.html'>Hurricane Champi (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Isaias_2026.html'>Hurricane Isaias (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Simon_2026.html'>Hurricane Simon (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Surigae_2026.html'>Hurricane Surigae (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Edouard_2026.html'>Hurricane Edouard (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Lowell_2026.html'>Hurricane Lowell (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Saudel_2026.html'>Hurricane Saudel (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Chan-Hom_2026.html'>Hurricane Chan-Hom (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Dolphin_2026.html'>Hurricane Dolphin (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Noul_2026.html'>Hurricane Noul (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Bertha_2026.html'>Hurricane Bertha (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Maysak_2026.html'>Hurricane Maysak (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Bavi_2026.html'>Hurricane Bavi (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Higos_2026.html'>Hurricane Higos (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Arthur_2026.html'>Hurricane Arthur (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Boris_2026.html'>Hurricane Boris (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Jangmi_2026.html'>Hurricane Jangmi (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Maila_2026.html'>Hurricane Maila (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Narelle_2026.html'>Hurricane Narelle (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Urmil_2026.html'>Hurricane Urmil (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Gezani_2026.html'>Hurricane Gezani (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Mitchell_2026.html'>Hurricane Mitchell (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Fytia_2026.html'>Hurricane Fytia (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Ditwah_2025.html'>Hurricane Ditwah (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Senyar_2025.html'>Hurricane Senyar (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Fina_2026.html'>Hurricane Fina (2026)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Fung-Wong_2025.html'>Hurricane Fung-Wong (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Kalmaegi_2025.html'>Hurricane Kalmaegi (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Melissa_2025.html'>Hurricane Melissa (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Fengshen_2025.html'>Hurricane Fengshen (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Matmo_2025.html'>Hurricane Matmo (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Bualoi_2025.html'>Hurricane Bualoi (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Gabrielle_2025.html'>Hurricane Gabrielle (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Ragasa_2025.html'>Hurricane Ragasa (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Mitag_2025.html'>Hurricane Mitag (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Tapah_2025.html'>Hurricane Tapah (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Peipah_2025.html'>Hurricane Peipah (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Kajiki_2025.html'>Hurricane Kajiki (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Lingling_2025.html'>Hurricane Lingling (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Podul_2025.html'>Hurricane Podul (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Co-may_2025.html'>Hurricane Co-may (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Wipha_2025.html'>Hurricane Wipha (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Chantal_2025.html'>Hurricane Chantal (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Danas_2025.html'>Hurricane Danas (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Erick_2025.html'>Hurricane Erick (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Wutip_2025.html'>Hurricane Wutip (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Jude_2025.html'>Hurricane Jude (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Alfred_2025.html'>Hurricane Alfred (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Dikeledi_2025.html'>Hurricane Dikeledi (2025)</a></div><br>
-<div class='report'><a href='/hurricanes/Report_Chido_2025.html'>Hurricane Chido (2025)</a></div><br>
-<!-- ### Collaborators
-
-<b>Japan</b>
-
-- Masahiro Hashizume (University of Tokyo)
-- Paul Lester Chua (University of Tokyo)
-- Hiroyaki Murayama (University of Tokyo)
-- Lisa Yamasaki (University of Tokyo)
-
-<b>Korea</b>
-
-- Changwoo Han (Chungnam National University College of Medicine)
-
-<b>Madagascar</b>
-
-- Christopher Golden (Harvard University)
-
-<b>Mexico</b>
-
-- Iván Y. Hernández Paniagua (Universidad Nacional Autónoma de México)
-
-<b>Philippines</b>
-
-- Lorenzo R. Guinto (St. Luke's Medical Center College of Medicine)
-
-<b>United Kingdom</b>
-
-- Ralf Toumi (Imperial College London)
-
-<b>United States</b>
-
-- G. Brooke Anderson (Colorado State University)
-- Lincole Jiang (Columbia University)
-- Yoshira Ornelas Van Horne (Columbia University)
-- Robbie M. Parks (Columbia University)
-
-<b>International</b>
-
-- Nathaniel Matthews-Trigg (Americares)
-- Joy Shumake-Guillemot (World Meteorological Organization) -->
-
-### Register interest in joing G-TROPIC
-
-<a href='mailto:robbie.parks@columbia.edu?subject=Interested%20in%20joining%20G-TROPIC%20network' target="_blank">Register your interest in joining G-TROPIC with subject line 'G-TROPIC'</a>
 
 ## Lab activities
 
