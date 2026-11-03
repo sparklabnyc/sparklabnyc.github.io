@@ -287,6 +287,10 @@ To apply, please send your resume/CV and cover letter to ac5739@cumc.columbia.ed
 ## Press coverage
 ### 2026
 
+b>Global Heat Forum, Bangkok</b>
+
+- <a href=https://heathealth.info/news/surviving-the-climate-who-knew-a-survival-podcast-could-be-this-fun/ target="_blank">Surviving the Climate – Who knew a survival podcast could be this fun?</a>, <b>GHHIN newsletter</b>, October 2026<br>
+
 <b>NYC wildfire smoke summer 2026</b>
 
 - <a href=https://vimeo.com/1214666701?share=copy&fl=sv&fe=ci target="_blank">Live TV interview</a>, <b>Weather Channel</b>, July 2026<br>
@@ -1214,7 +1218,7 @@ Download up to date version via [Overleaf project page](https://www.overleaf.com
 
 ## <a href='https://ghhin.org/people/robbie-parks/' target="_blank">Global Heat Health Information Network (GHHIN)</a>
 
-## [E-mail](mailto:robbie.parks@columbia.edu)
+<!-- ## [E-mail](mailto:robbie.parks@columbia.edu) -->
 
 # Not academia 
 
