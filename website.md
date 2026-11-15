@@ -586,8 +586,9 @@ Watch this space many more reports to be added here soon
 
 ## <a href='https://sparklabnyc.github.io/heat_health_action_plan_registry/' target="_blank">Global Heat-Health Action Plan Registry</a>
 
+## <a href='https://sparklabnyc.github.io/gtropic/' target="_blank">gtropic</a>
 
-## G-TROPIC
+<!-- ## G-TROPIC
 
 ### Summary
 
@@ -608,7 +609,7 @@ Funded so far by the <a href='https://www.publichealth.columbia.edu/people/our-f
 ### Interactive visualizations
 
 [Characterizing global tropical cyclone events of 2025 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2025/)
-[Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/)
+[Characterizing global tropical cyclone events of 2024 in historical and sociodemographic context: visualization](https://sparklabnyc.shinyapps.io/G-TROPIC_2024/) -->
 
 ## Lab activities
 
