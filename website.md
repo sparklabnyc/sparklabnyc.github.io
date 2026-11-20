@@ -615,6 +615,42 @@ Funded so far by the <a href='https://www.publichealth.columbia.edu/people/our-f
 
 ### 2026
 
+<b>Lab dinner, November 2026</b>
+
+<img src="../media/lab_outings/2026/lab_dinner_november_2026/lab_dinner_november_2026.jpeg" width="100%">
+
+<b>COP31, November 2026</b>
+
+<img src="../media/lab_outings/2026/cop31_november_2026/cop31_november_2026 6.jpeg" width="100%">
+<img src="../media/lab_outings/2026/cop31_november_2026/cop31_november_2026 5.jpeg" width="100%">
+<img src="../media/lab_outings/2026/cop31_november_2026/cop31_november_2026 4.jpeg" width="100%">
+<img src="../media/lab_outings/2026/cop31_november_2026/cop31_november_2026 3.jpeg" width="100%">
+<img src="../media/lab_outings/2026/cop31_november_2026/cop31_november_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/cop31_november_2026/cop31_november_2026 1.jpeg" width="100%">
+
+<b>Power Uptown!, November 2026</b>
+
+<img src="../media/lab_outings/2026/power_uptown_november_2026/power_uptown_november_2026.jpeg" width="100%">
+
+<b>Carceral Climates annual meeting, October 2026</b>
+
+<img src="../media/lab_outings/2026/carceral_climates_meeting_october_2026/carceral_climates_meeting_october_2026 4.jpeg" width="100%">
+<img src="../media/lab_outings/2026/carceral_climates_meeting_october_2026/carceral_climates_meeting_october_2026 3.jpeg" width="100%">
+<img src="../media/lab_outings/2026/carceral_climates_meeting_october_2026/carceral_climates_meeting_october_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/carceral_climates_meeting_october_2026/carceral_climates_meeting_october_2026 1.jpeg" width="100%">
+
+<b>Global Heat Forum, October 2026</b>
+
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 9.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 8.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 7.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 6.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 5.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 4.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 3.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 2.jpeg" width="100%">
+<img src="../media/lab_outings/2026/global_heat_forum_october_2026/global_heat_forum_october_2026 1.jpeg" width="100%">
+
 <b>FLOODLINES, September 2026</b>
 
 <img src="../media/lab_outings/2026/floodlines_september_2026/floodlines_september_2026 5.jpeg" width="100%">
